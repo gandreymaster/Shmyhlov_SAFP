@@ -1,0 +1,1100 @@
+Company,Year,Current Ratio,Current Ratio Status,Profit Margin (%),Profit Margin Status,ROA (%),ROA Status,ROE (%),ROE Status,Debt-to-Equity,Debt-to-Equity Status,Z-score,Z-category,Overall Status
+Cargo Track Services,2023.0,4.28,Excessive,63.73,Exceptional,29.51,Exceptional,38.57,Exceptional,0.3,Optimal,5.39,Safe Zone,Good
+Cargo Track Services,2022.0,4.37,Excessive,74.19,Exceptional,62.97,Exceptional,82.08,Exceptional,0.3,Very Low,6.95,Safe Zone,Good
+Cargo Track Services,2021.0,3.86,Excessive,64.08,Exceptional,72.89,Exceptional,99.93,Exceptional,0.35,Optimal,7.16,Safe Zone,Good
+Cargo Track Services,2020.0,6.89,Excessive,63.37,Exceptional,82.55,Exceptional,99.91,Exceptional,0.18,Very Low,9.62,Safe Zone,Good
+Cargo Track Services,2019.0,6.34,Excessive,56.36,Exceptional,84.16,Exceptional,99.91,Exceptional,0.19,Very Low,9.67,Safe Zone,Good
+Cargo Track Services,2018.0,13.23,Excessive,73.06,Exceptional,92.34,Exceptional,99.89,Exceptional,0.08,Very Low,14.05,Safe Zone,Good
+Cargo Track Services,2017.0,21.17,Excessive,59.86,Exceptional,95.13,Exceptional,99.85,Exceptional,0.05,Very Low,19.31,Safe Zone,Good
+Cargo Track Services,2016.0,22.7,Excessive,60.17,Exceptional,95.43,Exceptional,99.83,Exceptional,0.05,Very Low,20.24,Safe Zone,Good
+Cargo Track Services,2015.0,2.29,Excessive,51.85,Exceptional,44.16,Exceptional,78.47,Exceptional,0.78,Optimal,4.54,Safe Zone,Good
+Marcsoft Dev,2023.0,66.19,Excessive,82.94,Exceptional,98.16,Exceptional,99.67,Exceptional,0.02,Very Low,46.1,Safe Zone,Good
+Anronia SRl,2023.0,220.28,Excessive,78.22,Exceptional,21.45,Exceptional,136.33,Exceptional,0.03,Very Low,23.19,Safe Zone,Good
+Endodigest SRL,2023.0,,N/A,,N/A,,N/A,,N/A,,N/A,,Unable to Calculate,Unknown
+Endodigest SRL,2022.0,1.2,Insufficient,23.41,Exceptional,15.94,Exceptional,68.8,Exceptional,2.73,High,1.9,Grey Zone,Moderate
+Endodigest SRL,2021.0,0.5,Insufficient,19.65,Optimal,7.98,Optimal,17.79,Optimal,0.8,Optimal,1.83,Grey Zone,Moderate
+Endodigest SRL,2020.0,0.29,Insufficient,3.2,Suboptimal,0.85,Suboptimal,2.46,Suboptimal,1.01,Optimal,1.07,Bankruptcy Zone,Bad
+Endodigest SRL,2019.0,0.29,Insufficient,5.24,Suboptimal,1.02,Suboptimal,3.54,Suboptimal,1.2,Optimal,0.84,Bankruptcy Zone,Bad
+Endodigest SRL,2018.0,0.65,Insufficient,5.88,Suboptimal,0.68,Suboptimal,3.22,Suboptimal,1.8,High,0.61,Bankruptcy Zone,Bad
+Endodigest SRL,2017.0,0.64,Insufficient,14.57,Optimal,2.88,Suboptimal,6.24,Suboptimal,0.82,Optimal,1.5,Bankruptcy Zone,Moderate
+Endodigest SRL,2016.0,0.13,Insufficient,18.9,Optimal,4.12,Suboptimal,7.7,Suboptimal,0.91,Optimal,1.25,Bankruptcy Zone,Moderate
+Endodigest SRL,2015.0,0.14,Insufficient,161.22,Exceptional,9.59,Optimal,94.74,Exceptional,8.88,High,-0.34,Bankruptcy Zone,Moderate
+Endodigest SRL,2014.0,0.13,Insufficient,0.61,Suboptimal,0.09,Suboptimal,4.35,Suboptimal,49.68,High,-0.84,Bankruptcy Zone,Bad
+Endodigest SRL,2013.0,3.21,Excessive,91.92,Exceptional,71.3,Exceptional,95.83,Exceptional,0.34,Very Low,6.59,Safe Zone,Good
+Retreat Apuseni,2023.0,1.23,Optimal,2.12,Suboptimal,14.31,Optimal,77.09,Exceptional,4.39,High,7.83,Safe Zone,Moderate
+Retreat Apuseni,2022.0,1.24,Optimal,13.48,Suboptimal,10.82,Optimal,55.34,Exceptional,4.11,High,1.81,Grey Zone,Moderate
+Retreat Apuseni,2021.0,2.16,N/A,,N/A,28.98,N/A,54.02,N/A,0.86,N/A,3.04,Safe Zone,Unknown
+Retreat Apuseni,2020.0,,N/A,,N/A,,N/A,,N/A,,N/A,,Unable to Calculate,Unknown
+Retreat Apuseni,2019.0,,N/A,,N/A,,N/A,,N/A,,N/A,,Unable to Calculate,Unknown
+Sc Act Design SRL,2023.0,1.76,Excessive,8.29,Suboptimal,57.91,Exceptional,97.22,Exceptional,0.68,Optimal,9.41,Safe Zone,Good
+Sc Act Design SRL,2022.0,0.42,Insufficient,1.69,Suboptimal,22.08,Exceptional,57.88,Exceptional,1.62,High,1.02,Bankruptcy Zone,Moderate
+Sc Act Design SRL,2021.0,1.09,Optimal,-6.95,Loss-Making,-153.04,Unprofitable,-698.9,Suboptimal,3.57,High,-8.84,Bankruptcy Zone,Bad
+Sc Act Design SRL,2020.0,0.87,Insufficient,-23.21,Loss-Making,-69.56,Unprofitable,-200.22,Suboptimal,1.88,High,-3.52,Bankruptcy Zone,Bad
+Sc Act Design SRL,2019.0,2.66,Excessive,-4.64,Loss-Making,-9.89,Unprofitable,-15.15,Suboptimal,0.53,Optimal,7.21,Safe Zone,Bad
+Sc Act Design SRL,2018.0,3.65,Excessive,5.8,Suboptimal,9.93,Suboptimal,13.2,Suboptimal,0.33,Optimal,10.62,Safe Zone,Moderate
+Sc Act Design SRL,2017.0,2.5,Excessive,31.84,Exceptional,64.22,Exceptional,102.23,Exceptional,0.59,Optimal,11.8,Safe Zone,Good
+Sc Act Design SRL,2016.0,0.91,Insufficient,12.97,Suboptimal,40.33,Exceptional,-1258.31,Suboptimal,-32.2,Very Low,1.95,Grey Zone,Moderate
+Sc Act Design SRL,2015.0,0.59,Insufficient,0.48,Suboptimal,1.54,Suboptimal,-2.98,Suboptimal,-2.94,Very Low,-6.06,Bankruptcy Zone,Bad
+Sc Act Design SRL,2014.0,0.52,Insufficient,-22.86,Loss-Making,-89.86,Unprofitable,95.87,Exceptional,-2.07,Very Low,-15.75,Bankruptcy Zone,Bad
+Sc Act Design SRL,2013.0,0.95,Insufficient,-6.55,Loss-Making,-7.38,Unprofitable,136.63,Exceptional,-19.52,Very Low,-1.08,Bankruptcy Zone,Bad
+Doseanu Imobiliare,2023.0,1.2,Insufficient,256.12,Exceptional,44.22,Exceptional,79.99,Exceptional,0.76,Very Low,3.29,Safe Zone,Good
+Doseanu Imobiliare,2022.0,0.04,Insufficient,39.33,Exceptional,13.83,Exceptional,74.73,Exceptional,4.11,High,0.34,Bankruptcy Zone,Moderate
+Doseanu Imobiliare,2021.0,0.13,Insufficient,46.42,Exceptional,16.11,Exceptional,99.54,Exceptional,5.18,High,0.35,Bankruptcy Zone,Moderate
+Michelin Romania,2023.0,0.47,Insufficient,-1.44,Loss-Making,-1.8,Unprofitable,-21.37,Suboptimal,10.8,High,0.79,Bankruptcy Zone,Bad
+Michelin Romania,2022.0,0.6,Insufficient,2.32,Suboptimal,2.74,Suboptimal,21.48,Exceptional,6.8,High,1.12,Bankruptcy Zone,Bad
+Michelin Romania,2021.0,0.62,Insufficient,3.4,Suboptimal,4.07,Optimal,25.05,Exceptional,5.13,High,1.3,Bankruptcy Zone,Moderate
+Michelin Romania,2020.0,0.56,Insufficient,2.03,Suboptimal,2.32,Suboptimal,15.08,Optimal,5.48,High,1.1,Bankruptcy Zone,Bad
+Michelin Romania,2019.0,0.59,Insufficient,3.2,Suboptimal,4.08,Optimal,23.24,Exceptional,4.65,High,1.38,Bankruptcy Zone,Moderate
+Michelin Romania,2018.0,0.58,Insufficient,3.21,Suboptimal,3.9,Optimal,22.88,Exceptional,4.85,High,1.29,Bankruptcy Zone,Moderate
+Michelin Romania,2017.0,0.6,Insufficient,1.99,Suboptimal,2.43,Suboptimal,12.37,Optimal,4.08,High,1.34,Bankruptcy Zone,Bad
+Michelin Romania,2016.0,0.62,Insufficient,4.79,Suboptimal,6.65,Optimal,22.58,Exceptional,2.39,High,1.94,Grey Zone,Moderate
+Michelin Romania,2015.0,0.77,Insufficient,3.57,Suboptimal,4.56,Optimal,10.44,Optimal,1.29,Optimal,2.35,Grey Zone,Moderate
+Michelin Romania,2014.0,0.79,Insufficient,5.34,Optimal,7.07,Optimal,15.06,Optimal,1.13,Optimal,2.61,Grey Zone,Moderate
+Michelin Romania,2013.0,0.77,Insufficient,3.67,Suboptimal,4.84,Optimal,11.08,Optimal,1.28,Optimal,2.4,Grey Zone,Moderate
+Sc.Ancamed.srl ,2023.0,0.04,Insufficient,-41.16,Loss-Making,-309.96,Unprofitable,11.73,Suboptimal,-1.04,Very Low,-72.0,Bankruptcy Zone,Bad
+Sc.Ancamed.srl ,2022.0,0.02,Insufficient,-0.95,Loss-Making,-10.1,Unprofitable,0.22,Suboptimal,-1.02,Very Low,-108.98,Bankruptcy Zone,Bad
+Sc.Ancamed.srl ,2021.0,0.02,Insufficient,35.18,Exceptional,451.81,Exceptional,-8.62,Suboptimal,-1.02,Very Low,-109.11,Bankruptcy Zone,Moderate
+Sc.Ancamed.srl ,2020.0,-0.0,Insufficient,28.77,Optimal,-784600.0,Unprofitable,-6.33,Suboptimal,-1.0,Very Low,269087.0,Safe Zone,Bad
+Sc.Ancamed.srl ,2019.0,0.0,Insufficient,8.36,Suboptimal,284100.0,Exceptional,-2.16,Suboptimal,-1.0,Very Low,-299310.7,Bankruptcy Zone,Moderate
+Sc.Ancamed.srl ,2018.0,-0.0,Insufficient,-137.33,Loss-Making,14450.36,Exceptional,14.92,Suboptimal,-1.0,Very Low,2889.3,Safe Zone,Bad
+Sc.Ancamed.srl ,2017.0,0.0,Insufficient,-263.11,Loss-Making,-56891.11,Unprofitable,22.35,Optimal,-1.0,Very Low,-8279.94,Bankruptcy Zone,Bad
+Sc.Ancamed.srl ,2016.0,0.03,Insufficient,-105.78,Loss-Making,-297.77,Unprofitable,7.96,Suboptimal,-1.03,Very Low,-104.8,Bankruptcy Zone,Bad
+Sc.Ancamed.srl ,2015.0,0.01,Insufficient,-50.71,Loss-Making,-670.47,Unprofitable,4.52,Suboptimal,-1.01,Very Low,-395.07,Bankruptcy Zone,Bad
+Sc.Ancamed.srl ,2014.0,0.0,Insufficient,-231.6,Loss-Making,-47164.86,Unprofitable,22.33,Optimal,-1.0,Very Low,-6845.58,Bankruptcy Zone,Bad
+Sc.Ancamed.srl ,2013.0,0.0,Insufficient,-166.9,Loss-Making,-174842.86,Unprofitable,20.16,Optimal,-1.0,Very Low,-27271.16,Bankruptcy Zone,Bad
+EASYSPED ,2023.0,0.73,Insufficient,12.01,Exceptional,19.98,Exceptional,55.31,Exceptional,1.77,Optimal,2.96,Grey Zone,Good
+EASYSPED ,2022.0,0.74,Insufficient,16.08,Exceptional,16.34,Exceptional,99.86,Exceptional,5.11,High,1.64,Bankruptcy Zone,Moderate
+EASYSPED ,2021.0,1.05,Optimal,65.53,Exceptional,5.05,Optimal,99.4,Exceptional,18.68,High,0.41,Bankruptcy Zone,Good
+EASYSPED ,2020.0,0.93,N/A,,N/A,-22.92,N/A,304.08,N/A,-14.27,N/A,-0.99,Bankruptcy Zone,Unknown
+EASYSPED ,2019.0,1.19,N/A,,N/A,-16.51,N/A,-104.58,N/A,5.34,N/A,-0.02,Bankruptcy Zone,Unknown
+EASYSPED ,2018.0,1.37,Optimal,8.1,Optimal,16.85,Exceptional,62.69,Exceptional,2.72,High,3.56,Safe Zone,Good
+Gta spedition SRL ,2023.0,0.7,Insufficient,-75.83,Loss-Making,-78.28,Unprofitable,179.4,Exceptional,-3.29,Very Low,-2.87,Bankruptcy Zone,Bad
+Gta spedition SRL ,2022.0,2.24,Excessive,83.47,Exceptional,49.0,Exceptional,88.55,Exceptional,0.81,Very Low,4.39,Safe Zone,Good
+Gta spedition SRL ,2021.0,1.08,N/A,,N/A,-69.14,N/A,-890.69,N/A,11.88,N/A,-2.03,Bankruptcy Zone,Unknown
+Gta spedition SRL ,2020.0,1.17,N/A,,N/A,-1.82,N/A,-12.81,N/A,6.05,N/A,0.41,Bankruptcy Zone,Unknown
+Gta spedition SRL ,2019.0,1.15,N/A,,N/A,-2.85,N/A,-21.95,N/A,6.69,N/A,0.33,Bankruptcy Zone,Unknown
+Gta spedition SRL ,2018.0,1.13,Optimal,14.55,Exceptional,13.94,Exceptional,123.18,Exceptional,7.83,High,1.79,Bankruptcy Zone,Good
+Gta spedition SRL ,2017.0,0.76,Insufficient,10.95,Exceptional,12.86,Exceptional,-501.61,Suboptimal,-39.99,Very Low,1.25,Bankruptcy Zone,Moderate
+Gta spedition SRL ,2016.0,0.36,Insufficient,-2.06,Loss-Making,-2.55,Unprofitable,21.82,Exceptional,-9.64,Very Low,0.06,Bankruptcy Zone,Bad
+Gta spedition SRL ,2015.0,0.27,Insufficient,-10.46,Loss-Making,-17.56,Unprofitable,100.83,Exceptional,-6.74,Very Low,-0.27,Bankruptcy Zone,Bad
+Sc Baneca srl,2023.0,0.12,Insufficient,-36.02,Loss-Making,-81.69,Unprofitable,100.98,Exceptional,-2.24,Very Low,-19.01,Bankruptcy Zone,Bad
+Sc Baneca srl,2022.0,0.49,Insufficient,0.28,Suboptimal,0.65,Suboptimal,25.28,Exceptional,37.74,High,-3.1,Bankruptcy Zone,Bad
+Sc Baneca srl,2021.0,0.4,Insufficient,3.92,Suboptimal,6.58,Optimal,291.04,Exceptional,43.24,High,-3.31,Bankruptcy Zone,Moderate
+Sc Baneca srl,2020.0,0.4,Insufficient,-4.35,Loss-Making,-7.17,Unprofitable,124.93,Exceptional,-18.42,Very Low,-4.91,Bankruptcy Zone,Bad
+Sc Baneca srl,2019.0,0.67,Insufficient,0.35,Suboptimal,1.05,Suboptimal,26.7,Exceptional,24.41,High,-1.81,Bankruptcy Zone,Bad
+Sc Baneca srl,2018.0,0.5,Insufficient,-9.71,Loss-Making,-28.07,Unprofitable,-622.27,Suboptimal,21.17,High,-4.81,Bankruptcy Zone,Bad
+Sc Baneca srl,2017.0,0.76,Insufficient,11.54,Exceptional,24.2,Exceptional,69.13,Exceptional,1.86,Optimal,2.33,Grey Zone,Good
+Sc Baneca srl,2016.0,0.81,Insufficient,9.34,Optimal,24.24,Exceptional,116.49,Exceptional,3.8,High,1.62,Grey Zone,Moderate
+Sc Baneca srl,2015.0,0.66,Insufficient,-1.9,Loss-Making,-5.83,Unprofitable,111.38,Exceptional,-20.1,Very Low,-2.96,Bankruptcy Zone,Bad
+Sc Baneca srl,2014.0,1.01,Optimal,7.86,Optimal,10.37,Exceptional,705.32,Exceptional,67.0,High,0.86,Bankruptcy Zone,Good
+Sc Baneca srl,2013.0,0.13,Insufficient,-204.38,Loss-Making,-33.92,Unprofitable,102.34,Exceptional,-4.02,Very Low,-11.22,Bankruptcy Zone,Bad
+Cargo Track Solutions SRL,2023.0,0.43,Insufficient,13.21,Exceptional,17.74,Exceptional,59.23,Exceptional,2.33,High,2.13,Grey Zone,Moderate
+Cargo Track Solutions SRL,2022.0,0.41,Insufficient,5.27,Optimal,7.28,Optimal,41.48,Exceptional,4.67,High,1.41,Bankruptcy Zone,Moderate
+Cargo Track Solutions SRL,2021.0,0.66,Insufficient,5.79,Optimal,9.46,Optimal,28.38,Exceptional,2.0,High,2.44,Grey Zone,Moderate
+Cargo Track Solutions SRL,2020.0,1.73,Optimal,18.52,Exceptional,30.51,Exceptional,50.19,Exceptional,0.64,Optimal,4.78,Safe Zone,Good
+Cargo Track Solutions SRL,2019.0,1.43,Insufficient,13.49,Exceptional,31.56,Exceptional,48.38,Exceptional,0.53,Optimal,5.6,Safe Zone,Good
+Cargo Track Solutions SRL,2018.0,1.72,Optimal,17.39,Exceptional,53.2,Exceptional,99.96,Exceptional,0.88,Optimal,6.65,Safe Zone,Good
+Cargo Track Solutions SRL,2017.0,2.15,Optimal,20.96,Exceptional,62.88,Exceptional,99.47,Exceptional,0.58,Optimal,7.5,Safe Zone,Good
+Cargo Track Solutions SRL,2016.0,1.08,Insufficient,7.77,Optimal,18.15,Exceptional,69.06,Exceptional,2.81,High,3.58,Safe Zone,Moderate
+Cargo Track Solutions SRL,2015.0,1.52,Optimal,11.14,Exceptional,25.58,Exceptional,45.2,Exceptional,0.77,Optimal,4.99,Safe Zone,Good
+Cargo Track Solutions SRL,2014.0,3.63,Excessive,16.58,Exceptional,42.68,Exceptional,58.79,Exceptional,0.38,Very Low,7.45,Safe Zone,Good
+Cargo Track Solutions SRL,2013.0,2.89,Excessive,23.26,Exceptional,66.2,Exceptional,101.29,Exceptional,0.53,Optimal,7.86,Safe Zone,Good
+Cargo Track Solutions SRL,2012.0,0.89,Insufficient,-7.06,Loss-Making,-15.91,Unprofitable,125.94,Exceptional,-8.92,Very Low,1.33,Bankruptcy Zone,Bad
+RO36601516,2023.0,1.13,Insufficient,34.01,Exceptional,12.42,Exceptional,98.57,Exceptional,6.94,High,1.17,Bankruptcy Zone,Moderate
+RO36601516,2022.0,1.02,Insufficient,0.07,Suboptimal,0.23,Suboptimal,1.38,Suboptimal,4.9,High,3.9,Safe Zone,Bad
+RO36601516,2021.0,2.23,Optimal,1.05,Suboptimal,2.07,Suboptimal,3.58,Suboptimal,0.73,Optimal,4.29,Safe Zone,Moderate
+RO36601516,2020.0,1.62,Optimal,22.86,Exceptional,50.21,Exceptional,99.68,Exceptional,1.01,Optimal,5.53,Safe Zone,Good
+RO36601516,2019.0,1.15,Insufficient,25.36,Exceptional,38.33,Exceptional,99.71,Exceptional,1.6,High,3.8,Safe Zone,Moderate
+RO36601516,2018.0,1.15,Insufficient,28.96,Exceptional,51.95,Exceptional,99.78,Exceptional,0.92,Optimal,4.97,Safe Zone,Good
+RO36601516,2017.0,1.58,Optimal,35.42,Exceptional,62.98,Exceptional,99.83,Exceptional,0.59,Optimal,6.02,Safe Zone,Good
+RO36601516,2016.0,0.78,Insufficient,41.64,Exceptional,23.7,Exceptional,98.93,Exceptional,3.17,High,1.67,Bankruptcy Zone,Moderate
+28549093,2023.0,2.7,Excessive,29.2,Exceptional,35.95,Exceptional,53.19,Exceptional,0.48,Very Low,5.28,Safe Zone,Good
+28549093,2022.0,1.47,Insufficient,29.12,Exceptional,33.07,Exceptional,99.94,Exceptional,2.02,High,3.36,Safe Zone,Moderate
+28549093,2021.0,9.79,Excessive,28.1,Exceptional,45.13,Exceptional,50.11,Exceptional,0.11,Very Low,10.84,Safe Zone,Good
+28549093,2020.0,6.15,Excessive,18.62,Exceptional,39.44,Exceptional,46.75,Exceptional,0.19,Very Low,8.8,Safe Zone,Good
+28549093,2019.0,7.99,Excessive,31.79,Exceptional,39.85,Exceptional,45.06,Exceptional,0.13,Very Low,9.37,Safe Zone,Good
+28549093,2018.0,4.79,Excessive,39.13,Exceptional,31.36,Exceptional,38.11,Exceptional,0.22,Very Low,6.58,Safe Zone,Good
+28549093,2017.0,2.78,Excessive,17.17,Exceptional,21.85,Exceptional,29.01,Exceptional,0.33,Very Low,5.41,Safe Zone,Good
+28549093,2016.0,1.23,Insufficient,43.81,Exceptional,60.58,Exceptional,99.47,Exceptional,0.64,Optimal,5.28,Safe Zone,Good
+28549093,2015.0,9.71,Excessive,27.58,Exceptional,21.05,Exceptional,22.33,Exceptional,0.06,Very Low,13.23,Safe Zone,Good
+28549093,2014.0,4.17,Excessive,19.42,Exceptional,20.88,Exceptional,22.47,Exceptional,0.08,Very Low,11.2,Safe Zone,Good
+28549093,2013.0,7.97,Excessive,35.02,Exceptional,37.4,Exceptional,39.91,Exceptional,0.07,Very Low,13.09,Safe Zone,Good
+47887147,2023.0,1.19,Optimal,8.67,Suboptimal,15.88,Optimal,98.84,Exceptional,5.23,High,2.89,Grey Zone,Moderate
+RO15087723,2023.0,0.9,Insufficient,2.24,Optimal,3.43,Suboptimal,26.18,Exceptional,6.6,High,1.82,Grey Zone,Moderate
+RO15087723,2022.0,0.88,Insufficient,0.26,Suboptimal,0.35,Suboptimal,34.34,Exceptional,94.56,High,1.28,Bankruptcy Zone,Bad
+RO15087723,2021.0,0.85,Insufficient,0.49,Suboptimal,0.74,Suboptimal,78.96,Exceptional,104.15,High,1.38,Bankruptcy Zone,Bad
+RO15087723,2020.0,0.77,Insufficient,-1.68,Loss-Making,-2.38,Unprofitable,17.8,Optimal,-8.49,Very Low,0.77,Bankruptcy Zone,Bad
+RO15087723,2019.0,0.82,Insufficient,-0.04,Loss-Making,-0.05,Unprofitable,0.65,Suboptimal,-12.79,Very Low,0.86,Bankruptcy Zone,Bad
+RO15087723,2018.0,0.79,Insufficient,2.96,Optimal,4.98,Suboptimal,-44.64,Suboptimal,-9.97,Very Low,1.35,Bankruptcy Zone,Bad
+RO15087723,2017.0,0.74,Insufficient,-4.04,Loss-Making,-7.11,Unprofitable,31.95,Exceptional,-5.49,Very Low,0.73,Bankruptcy Zone,Bad
+RO15087723,2016.0,0.72,Insufficient,-2.55,Loss-Making,-4.69,Unprofitable,20.94,Exceptional,-5.43,Very Low,0.85,Bankruptcy Zone,Bad
+RO15087723,2015.0,0.65,Insufficient,-2.19,Loss-Making,-5.12,Unprofitable,21.68,Exceptional,-5.13,Very Low,1.22,Bankruptcy Zone,Bad
+RO15087723,2014.0,0.69,Insufficient,-2.09,Loss-Making,-4.55,Unprofitable,27.58,Exceptional,-6.84,Very Low,1.28,Bankruptcy Zone,Bad
+RO15087723,2013.0,0.66,Insufficient,-1.21,Loss-Making,-2.68,Unprofitable,19.95,Exceptional,-7.98,Very Low,1.43,Bankruptcy Zone,Bad
+16069474,2023.0,0.23,Insufficient,-1.5,Loss-Making,-2.95,Unprofitable,6.59,Suboptimal,-3.23,Very Low,-0.27,Bankruptcy Zone,Bad
+16069474,2022.0,0.26,Insufficient,-6.26,Loss-Making,-10.71,Unprofitable,32.53,Exceptional,-4.04,Very Low,-0.43,Bankruptcy Zone,Bad
+16069474,2021.0,0.21,Insufficient,-8.59,Loss-Making,-13.61,Unprofitable,74.65,Exceptional,-6.49,Very Low,-0.33,Bankruptcy Zone,Bad
+16069474,2020.0,0.19,Insufficient,-9.98,Loss-Making,-13.01,Unprofitable,321.42,Exceptional,-25.71,Very Low,-0.21,Bankruptcy Zone,Bad
+16069474,2019.0,0.18,Insufficient,1.58,Suboptimal,1.75,Suboptimal,21.55,Exceptional,11.33,High,0.42,Bankruptcy Zone,Bad
+16069474,2018.0,0.49,Insufficient,40.74,Exceptional,7.63,Optimal,94.01,Exceptional,11.33,High,0.04,Bankruptcy Zone,Moderate
+16069474,2017.0,0.1,Insufficient,50.69,Exceptional,9.56,Exceptional,101.26,Exceptional,9.6,High,-0.28,Bankruptcy Zone,Moderate
+16069474,2016.0,0.17,Insufficient,-564.31,Loss-Making,-501.42,Unprofitable,104.21,Exceptional,-1.21,Very Low,-28.67,Bankruptcy Zone,Bad
+29710766,2023.0,1.13,Insufficient,3.26,Suboptimal,3.7,Optimal,10.07,Optimal,1.51,Optimal,2.26,Grey Zone,Moderate
+29710766,2022.0,1.19,Insufficient,6.34,Optimal,6.84,Exceptional,18.43,Optimal,1.66,Optimal,2.33,Grey Zone,Moderate
+29710766,2021.0,1.08,Insufficient,2.69,Suboptimal,2.83,Optimal,7.42,Suboptimal,1.56,Optimal,2.12,Grey Zone,Moderate
+29710766,2020.0,1.27,Optimal,0.13,Suboptimal,0.15,Suboptimal,0.39,Suboptimal,1.57,Optimal,2.25,Grey Zone,Moderate
+29710766,2019.0,0.85,Insufficient,2.55,Suboptimal,2.46,Optimal,7.09,Suboptimal,1.76,Optimal,1.76,Bankruptcy Zone,Moderate
+29710766,2018.0,0.84,Insufficient,3.58,Suboptimal,4.83,Optimal,12.19,Optimal,1.52,Optimal,2.35,Grey Zone,Moderate
+29710766,2017.0,0.83,Insufficient,1.34,Suboptimal,1.59,Suboptimal,4.16,Suboptimal,1.62,Optimal,2.01,Grey Zone,Bad
+29710766,2016.0,0.89,Insufficient,3.38,Suboptimal,3.69,Optimal,8.73,Suboptimal,1.37,Optimal,2.16,Grey Zone,Moderate
+29710766,2015.0,1.06,Insufficient,10.69,Optimal,14.75,Exceptional,33.25,Exceptional,1.25,Optimal,3.01,Safe Zone,Good
+29710766,2014.0,0.68,Insufficient,5.04,Optimal,3.83,Optimal,9.55,Suboptimal,1.49,Optimal,1.63,Bankruptcy Zone,Moderate
+29710766,2013.0,0.66,Insufficient,1.32,Suboptimal,1.25,Suboptimal,3.23,Suboptimal,1.59,Optimal,1.66,Bankruptcy Zone,Bad
+38605697,2023.0,0.99,Insufficient,7.65,Optimal,34.06,Exceptional,126.74,Exceptional,2.72,High,6.16,Safe Zone,Moderate
+38605697,2022.0,0.57,Insufficient,4.6,Optimal,19.69,Exceptional,-214.86,Suboptimal,-12.44,Very Low,4.16,Safe Zone,Moderate
+38605697,2021.0,0.47,Insufficient,0.1,Suboptimal,0.37,Suboptimal,-1.31,Suboptimal,-5.05,Very Low,2.37,Grey Zone,Bad
+38605697,2020.0,0.54,Insufficient,5.23,Optimal,12.93,Exceptional,-54.5,Suboptimal,-5.69,Very Low,1.73,Bankruptcy Zone,Moderate
+38605697,2019.0,0.46,Insufficient,-11.9,Loss-Making,-24.2,Unprofitable,59.88,Exceptional,-3.89,Very Low,-0.5,Bankruptcy Zone,Bad
+38605697,2018.0,0.48,Insufficient,-13.69,Loss-Making,-17.28,Unprofitable,102.58,Exceptional,-8.2,Very Low,-0.47,Bankruptcy Zone,Bad
+38605697,2017.0,2.56,N/A,,N/A,0.0,N/A,0.0,N/A,0.42,N/A,2.98,Grey Zone,Unknown
+37941800,2023.0,1.16,Insufficient,18.04,Exceptional,19.95,Exceptional,49.48,Exceptional,1.48,Optimal,2.85,Grey Zone,Good
+37941800,2022.0,0.97,Insufficient,6.86,Optimal,7.97,Exceptional,26.95,Exceptional,2.36,High,2.07,Grey Zone,Moderate
+37941800,2021.0,1.22,Optimal,17.5,Exceptional,21.59,Exceptional,42.03,Exceptional,0.91,Very Low,3.45,Safe Zone,Good
+37941800,2020.0,0.73,Insufficient,24.67,Exceptional,20.46,Exceptional,84.74,Exceptional,3.03,High,1.8,Grey Zone,Moderate
+37941800,2019.0,1.38,Optimal,16.3,Exceptional,4.15,Optimal,13.02,Optimal,1.17,Optimal,1.52,Bankruptcy Zone,Good
+37941800,2018.0,1.25,Optimal,40.41,Exceptional,28.02,Exceptional,106.37,Exceptional,1.39,Optimal,2.53,Grey Zone,Good
+37941800,2017.0,0.01,N/A,,N/A,-2.8,N/A,102.62,N/A,-37.65,N/A,-1.37,Bankruptcy Zone,Unknown
+Netspark Box SRL,2023.0,5.82,Excessive,21.96,Exceptional,41.03,Exceptional,48.3,Exceptional,0.18,Very Low,16.21,Safe Zone,Good
+Netspark Box SRL,2022.0,26.23,Excessive,71.46,Exceptional,95.46,Exceptional,99.24,Exceptional,0.04,Very Low,42.35,Safe Zone,Good
+Netspark Box SRL,2021.0,,N/A,10.44,N/A,17.73,N/A,17.73,N/A,0.0,N/A,inf,Safe Zone,Unknown
+Netspark Box SRL,2020.0,8.77,Excessive,1.65,Suboptimal,4.42,Suboptimal,4.99,Suboptimal,0.13,Very Low,17.16,Safe Zone,Bad
+Netspark Box SRL,2019.0,22.2,Excessive,8.64,Optimal,4.29,Suboptimal,4.49,Suboptimal,0.05,Very Low,31.92,Safe Zone,Moderate
+Netspark Box SRL,2018.0,31.24,Excessive,78.23,Exceptional,87.66,Exceptional,90.56,Exceptional,0.03,Very Low,47.14,Safe Zone,Good
+Netspark Box SRL,2017.0,28.58,Excessive,74.09,Exceptional,85.74,Exceptional,88.85,Exceptional,0.04,Very Low,44.2,Safe Zone,Good
+Sc Firoprestserv Construct Srl,2023.0,2.19,Excessive,-24.52,Loss-Making,-15.19,Unprofitable,-18.4,Suboptimal,0.21,Very Low,7.97,Safe Zone,Bad
+Sc Firoprestserv Construct Srl,2022.0,1.74,Optimal,-12.19,Loss-Making,-19.98,Unprofitable,-23.97,Suboptimal,0.21,Very Low,7.27,Safe Zone,Bad
+Sc Firoprestserv Construct Srl,2021.0,1.07,Insufficient,1.19,Suboptimal,1.44,Suboptimal,2.16,Suboptimal,0.5,Very Low,4.52,Safe Zone,Bad
+Sc Firoprestserv Construct Srl,2020.0,2.65,Excessive,34.7,Exceptional,39.01,Exceptional,54.69,Exceptional,0.4,Very Low,10.66,Safe Zone,Good
+Sc Firoprestserv Construct Srl,2019.0,3.52,Excessive,22.52,Exceptional,42.76,Exceptional,54.52,Exceptional,0.28,Very Low,12.82,Safe Zone,Good
+Sc Firoprestserv Construct Srl,2018.0,1.88,Optimal,29.84,Exceptional,50.91,Exceptional,101.65,Exceptional,1.0,Very Low,8.99,Safe Zone,Good
+Sc Firoprestserv Construct Srl,2017.0,0.33,Insufficient,-143.06,Loss-Making,-165.49,Unprofitable,108.42,Exceptional,-1.66,Very Low,-27.77,Bankruptcy Zone,Bad
+SC CRISAL OIL SRL,2023.0,4.2,Excessive,-2.73,Loss-Making,-3.89,Unprofitable,-4.92,Suboptimal,0.26,Very Low,5.48,Safe Zone,Bad
+SC CRISAL OIL SRL,2022.0,3.15,Excessive,11.2,Exceptional,14.18,Exceptional,20.68,Exceptional,0.46,Very Low,4.82,Safe Zone,Good
+SC CRISAL OIL SRL,2021.0,2.48,Excessive,-38.33,Loss-Making,-20.15,Unprofitable,-31.94,Suboptimal,0.59,Very Low,2.43,Grey Zone,Bad
+SC CRISAL OIL SRL,2020.0,2.52,Excessive,1.09,Suboptimal,0.71,Suboptimal,1.07,Suboptimal,0.5,Very Low,3.41,Safe Zone,Bad
+SC CRISAL OIL SRL,2019.0,1.91,Excessive,5.83,Optimal,9.85,Exceptional,15.83,Exceptional,0.61,Very Low,4.29,Safe Zone,Good
+SC CRISAL OIL SRL,2018.0,1.59,Excessive,10.92,Exceptional,16.66,Exceptional,32.21,Exceptional,0.93,Very Low,3.79,Safe Zone,Good
+SC CRISAL OIL SRL,2017.0,1.23,Optimal,12.05,Exceptional,20.35,Exceptional,46.13,Exceptional,1.27,Optimal,3.61,Safe Zone,Good
+SC CRISAL OIL SRL,2016.0,1.38,Optimal,7.71,Optimal,15.18,Exceptional,52.58,Exceptional,2.46,High,3.44,Safe Zone,Good
+SC CRISAL OIL SRL,2015.0,1.42,Optimal,11.07,Exceptional,26.35,Exceptional,82.56,Exceptional,2.13,High,4.32,Safe Zone,Good
+SC CRISAL OIL SRL,2014.0,0.95,Insufficient,3.62,Suboptimal,9.84,Exceptional,166.03,Exceptional,15.88,High,3.1,Safe Zone,Moderate
+SC CRISAL OIL SRL,2013.0,0.77,Insufficient,6.95,Optimal,19.23,Exceptional,-525.19,Suboptimal,-28.31,Very Low,3.04,Safe Zone,Moderate
+RO12596722,2023.0,1.37,Insufficient,6.81,Optimal,11.5,Exceptional,22.61,Exceptional,0.97,Optimal,3.62,Safe Zone,Good
+RO12596722,2022.0,1.37,Insufficient,6.51,Optimal,11.7,Exceptional,24.95,Exceptional,1.14,Optimal,3.61,Safe Zone,Good
+RO12596722,2021.0,1.65,Optimal,4.95,Optimal,10.58,Exceptional,22.78,Exceptional,1.16,Optimal,4.07,Safe Zone,Good
+RO12596722,2020.0,1.58,Optimal,8.17,Optimal,17.29,Exceptional,41.14,Exceptional,1.38,Optimal,4.11,Safe Zone,Good
+RO12596722,2019.0,1.41,Insufficient,4.18,Optimal,10.8,Exceptional,28.35,Exceptional,1.64,High,4.15,Safe Zone,Moderate
+RO12596722,2018.0,1.27,Insufficient,4.85,Optimal,11.9,Exceptional,46.69,Exceptional,2.93,High,3.65,Safe Zone,Moderate
+RO12596722,2017.0,1.09,Insufficient,3.39,Optimal,8.88,Optimal,59.56,Exceptional,5.71,High,3.32,Safe Zone,Moderate
+RO12596722,2016.0,1.24,Insufficient,5.97,Optimal,13.87,Exceptional,69.5,Exceptional,4.01,High,3.44,Safe Zone,Moderate
+RO12596722,2015.0,1.13,Insufficient,8.93,Optimal,17.01,Exceptional,143.98,Exceptional,7.46,High,2.85,Grey Zone,Moderate
+RO12596722,2014.0,0.93,Insufficient,2.48,Optimal,5.17,Optimal,-80.87,Suboptimal,-16.64,Very Low,2.05,Grey Zone,Moderate
+RO12596722,2013.0,0.52,Insufficient,-4.28,Loss-Making,-5.58,Unprofitable,69.11,Exceptional,-13.39,Very Low,0.34,Bankruptcy Zone,Bad
+Bnc elijen trans srl,2023.0,3.17,Excessive,-2.9,Loss-Making,-9.37,Unprofitable,-13.69,Suboptimal,0.46,Very Low,6.0,Safe Zone,Bad
+Bnc elijen trans srl,2022.0,26.41,Excessive,11.02,Exceptional,30.0,Exceptional,31.18,Exceptional,0.04,Very Low,21.46,Safe Zone,Good
+Bnc elijen trans srl,2021.0,19.26,Excessive,28.3,Exceptional,96.37,Exceptional,101.65,Exceptional,0.05,Very Low,20.0,Safe Zone,Good
+Bnc elijen trans srl,2020.0,0.95,Insufficient,-4.16,Loss-Making,-6.98,Unprofitable,121.76,Exceptional,-18.44,Very Low,1.27,Bankruptcy Zone,Bad
+ALENIC TRANS SRL,2023.0,1.94,Excessive,7.64,Optimal,11.4,Exceptional,13.65,Optimal,0.2,Very Low,6.27,Safe Zone,Moderate
+ALENIC TRANS SRL,2022.0,1.61,Excessive,13.74,Exceptional,21.73,Exceptional,26.78,Exceptional,0.23,Very Low,6.15,Safe Zone,Good
+ALENIC TRANS SRL,2021.0,1.24,Optimal,16.53,Exceptional,29.06,Exceptional,40.56,Exceptional,0.4,Very Low,5.32,Safe Zone,Good
+ALENIC TRANS SRL,2020.0,1.17,Optimal,10.85,Exceptional,18.23,Exceptional,31.56,Exceptional,0.73,Very Low,4.0,Safe Zone,Good
+ALENIC TRANS SRL,2019.0,1.18,Optimal,8.83,Optimal,23.52,Exceptional,35.69,Exceptional,0.52,Very Low,5.6,Safe Zone,Good
+ALENIC TRANS SRL,2018.0,1.12,Optimal,9.09,Optimal,23.63,Exceptional,43.26,Exceptional,0.83,Very Low,4.93,Safe Zone,Good
+ALENIC TRANS SRL,2017.0,1.15,Optimal,5.97,Optimal,17.94,Exceptional,34.65,Exceptional,0.93,Very Low,5.05,Safe Zone,Good
+ALENIC TRANS SRL,2016.0,0.67,Insufficient,5.26,Optimal,16.02,Exceptional,36.07,Exceptional,1.25,Optimal,4.45,Safe Zone,Good
+ALENIC TRANS SRL,2015.0,0.98,Insufficient,8.81,Optimal,24.69,Exceptional,68.32,Exceptional,1.77,Optimal,4.45,Safe Zone,Good
+ALENIC TRANS SRL,2014.0,0.79,Insufficient,3.9,Suboptimal,9.05,Exceptional,67.97,Exceptional,6.51,High,2.68,Grey Zone,Moderate
+ALENIC TRANS SRL,2013.0,0.61,Insufficient,2.14,Suboptimal,4.16,Optimal,70.87,Exceptional,16.02,High,1.76,Bankruptcy Zone,Moderate
+RO36212519,2023.0,2.89,Excessive,32.72,Optimal,44.21,Exceptional,56.88,Exceptional,0.29,Optimal,6.5,Safe Zone,Good
+RO36212519,2022.0,7.48,Excessive,37.92,Optimal,58.54,Exceptional,67.49,Exceptional,0.15,Very Low,9.65,Safe Zone,Good
+RO36212519,2021.0,6.68,Excessive,60.1,Exceptional,85.25,Exceptional,99.96,Exceptional,0.17,Very Low,9.91,Safe Zone,Good
+RO36212519,2020.0,5.33,Excessive,47.75,Exceptional,84.97,Exceptional,104.3,Exceptional,0.23,Optimal,9.32,Safe Zone,Good
+RO36212519,2019.0,0.79,Insufficient,3.37,Suboptimal,26.9,Optimal,-177.86,Suboptimal,-7.61,Very Low,8.3,Safe Zone,Bad
+RO36212519,2018.0,0.53,Insufficient,-9.42,Loss-Making,-61.65,Unprofitable,101.18,Exceptional,-2.64,Very Low,2.52,Grey Zone,Bad
+RO36212519,2017.0,1.64,Excessive,19.04,Suboptimal,47.77,Exceptional,99.08,Exceptional,1.07,High,5.71,Safe Zone,Moderate
+RO36212519,2016.0,15.91,Excessive,74.49,Exceptional,94.23,Exceptional,97.85,Exceptional,0.04,Very Low,21.99,Safe Zone,Good
+47127427,2023.0,0.96,Insufficient,-7.66,Loss-Making,-18.43,Unprofitable,433.66,Exceptional,-24.53,Very Low,1.66,Bankruptcy Zone,Bad
+47127427,2022.0,2.74,Excessive,45.71,Exceptional,66.55,Exceptional,98.22,Exceptional,0.53,Very Low,6.48,Safe Zone,Good
+COLLECTOR SRL ,2023.0,3.6,Excessive,1.17,Suboptimal,1.5,Suboptimal,1.77,Suboptimal,0.33,Optimal,5.2,Safe Zone,Moderate
+COLLECTOR SRL ,2022.0,6.78,Excessive,30.27,Optimal,82.02,Exceptional,97.45,Exceptional,0.17,Very Low,11.05,Safe Zone,Good
+COLLECTOR SRL ,2021.0,11.13,Excessive,34.19,Optimal,87.23,Exceptional,99.82,Exceptional,0.1,Very Low,13.72,Safe Zone,Good
+COLLECTOR SRL ,2020.0,12.76,Excessive,32.19,Optimal,82.23,Exceptional,99.71,Exceptional,0.1,Very Low,13.84,Safe Zone,Good
+COLLECTOR SRL ,2019.0,81.25,Excessive,60.19,Exceptional,98.61,Exceptional,99.84,Exceptional,0.01,Very Low,55.61,Safe Zone,Good
+COLLECTOR SRL ,2018.0,54.66,Excessive,63.09,Exceptional,98.0,Exceptional,99.83,Exceptional,0.02,Very Low,39.53,Safe Zone,Good
+COLLECTOR SRL ,2017.0,32.58,Excessive,60.94,Exceptional,96.69,Exceptional,99.76,Exceptional,0.03,Very Low,26.24,Safe Zone,Good
+COLLECTOR SRL ,2016.0,41.72,Excessive,60.05,Exceptional,97.43,Exceptional,99.82,Exceptional,0.02,Very Low,31.81,Safe Zone,Good
+COLLECTOR SRL ,2015.0,9.32,Excessive,83.72,Exceptional,89.07,Exceptional,99.77,Exceptional,0.12,Very Low,11.32,Safe Zone,Good
+45365040,2023.0,0.45,Insufficient,1.64,Suboptimal,11.18,Optimal,-9.03,Suboptimal,-1.81,Very Low,3.64,Safe Zone,Bad
+45365040,2022.0,0.38,Insufficient,-49.7,Loss-Making,-189.26,Unprofitable,115.62,Exceptional,-1.61,Very Low,-7.07,Bankruptcy Zone,Bad
+45365040,2021.0,0.1,N/A,,N/A,0.0,N/A,0.0,N/A,6.5,N/A,-0.65,Bankruptcy Zone,Unknown
+RO39395569,2023.0,,N/A,,N/A,,N/A,,N/A,,N/A,,Unable to Calculate,Unknown
+RO39395569,2022.0,1.97,Excessive,-6.65,Loss-Making,-3.11,Unprofitable,-6.16,Suboptimal,0.98,Very Low,5.64,Safe Zone,Bad
+RO39395569,2021.0,1.55,Excessive,47.43,Exceptional,25.62,Exceptional,72.99,Exceptional,1.8,Optimal,5.73,Safe Zone,Good
+RO39395569,2020.0,1.05,Optimal,11.27,Exceptional,7.4,Optimal,67.56,Exceptional,8.13,High,1.27,Grey Zone,Good
+RO39395569,2019.0,0.9,Insufficient,20.44,Exceptional,17.07,Exceptional,353.1,Exceptional,19.69,High,0.73,Bankruptcy Zone,Moderate
+RO39395569,2018.0,0.6,Insufficient,-25.77,Loss-Making,-18.09,Unprofitable,100.2,Exceptional,-6.54,Very Low,-5.09,Bankruptcy Zone,Bad
+46096233,2023.0,10.83,Excessive,24.69,Exceptional,69.8,Exceptional,76.8,Exceptional,0.1,Very Low,13.46,Safe Zone,Good
+46096233,2022.0,3.68,Excessive,15.54,Exceptional,72.64,Exceptional,99.72,Exceptional,0.37,Very Low,10.58,Safe Zone,Good
+Ro 22425541 ,2023.0,0.72,Insufficient,1.85,Suboptimal,4.94,Optimal,36.52,Exceptional,6.4,High,2.83,Grey Zone,Moderate
+Ro 22425541 ,2022.0,0.5,Insufficient,2.16,Suboptimal,4.69,Optimal,45.38,Exceptional,8.67,High,2.01,Grey Zone,Moderate
+Ro 22425541 ,2021.0,0.4,Insufficient,4.33,Suboptimal,7.48,Optimal,94.56,Exceptional,12.29,High,1.43,Bankruptcy Zone,Moderate
+Ro 22425541 ,2020.0,0.32,Insufficient,6.58,Optimal,9.16,Exceptional,1913.94,Exceptional,219.7,High,0.85,Bankruptcy Zone,Moderate
+Ro 22425541 ,2019.0,0.22,Insufficient,2.91,Suboptimal,4.52,Optimal,-17.81,Suboptimal,-5.21,Very Low,-0.01,Bankruptcy Zone,Bad
+Ro 22425541 ,2018.0,0.19,Insufficient,6.28,Optimal,13.41,Exceptional,-25.78,Suboptimal,-2.92,Very Low,0.17,Bankruptcy Zone,Moderate
+Ro 22425541 ,2017.0,0.25,Insufficient,9.87,Optimal,19.01,Exceptional,-27.18,Suboptimal,-2.43,Very Low,-0.2,Bankruptcy Zone,Moderate
+Ro 22425541 ,2016.0,0.18,Insufficient,0.11,Suboptimal,0.28,Suboptimal,-0.2,Suboptimal,-1.71,Very Low,-2.08,Bankruptcy Zone,Bad
+Ro 22425541 ,2015.0,0.35,Insufficient,2.65,Suboptimal,4.54,Optimal,-4.36,Suboptimal,-1.96,Very Low,-1.49,Bankruptcy Zone,Bad
+Ro 22425541 ,2014.0,0.19,Insufficient,-20.88,Loss-Making,-46.85,Unprofitable,22.73,Exceptional,-1.49,Very Low,-5.58,Bankruptcy Zone,Bad
+Ro 22425541 ,2013.0,0.22,Insufficient,-10.61,Loss-Making,-55.07,Unprofitable,18.76,Exceptional,-1.34,Very Low,-4.89,Bankruptcy Zone,Bad
+claudebat srl,2023.0,3.5,Excessive,1.22,Suboptimal,1.78,Suboptimal,2.09,Suboptimal,0.21,Very Low,6.07,Safe Zone,Bad
+claudebat srl,2022.0,4.04,Excessive,3.83,Optimal,6.27,Optimal,7.84,Suboptimal,0.2,Very Low,6.54,Safe Zone,Moderate
+claudebat srl,2021.0,2.57,Excessive,13.44,Exceptional,13.68,Exceptional,18.52,Exceptional,0.35,Very Low,4.69,Safe Zone,Good
+claudebat srl,2020.0,2.34,Optimal,0.95,Suboptimal,1.21,Suboptimal,1.65,Suboptimal,0.33,Very Low,4.55,Safe Zone,Moderate
+claudebat srl,2019.0,3.07,Excessive,14.1,Exceptional,21.84,Exceptional,26.34,Exceptional,0.17,Very Low,7.3,Safe Zone,Good
+claudebat srl,2018.0,0.98,Insufficient,24.1,Exceptional,36.87,Exceptional,65.64,Exceptional,0.73,Optimal,4.34,Safe Zone,Good
+claudebat srl,2017.0,0.41,Insufficient,13.62,Exceptional,26.16,Exceptional,86.07,Exceptional,2.33,High,2.97,Grey Zone,Moderate
+claudebat srl,2016.0,0.52,Insufficient,1.17,Suboptimal,1.9,Suboptimal,28.48,Exceptional,14.16,High,1.28,Bankruptcy Zone,Bad
+claudebat srl,2015.0,0.48,Insufficient,3.75,Optimal,5.33,Optimal,72.95,Exceptional,12.68,High,1.18,Bankruptcy Zone,Moderate
+claudebat srl,2014.0,0.32,Insufficient,2.06,Optimal,1.26,Suboptimal,61.34,Exceptional,47.87,High,-0.11,Bankruptcy Zone,Moderate
+claudebat srl,2013.0,1.14,Insufficient,0.82,Suboptimal,1.09,Suboptimal,7.86,Suboptimal,6.19,High,1.8,Grey Zone,Bad
+Complet Instal Construct Srl,2023.0,1.1,Insufficient,28.68,Exceptional,21.21,Exceptional,99.99,Exceptional,3.61,High,1.99,Grey Zone,Moderate
+Complet Instal Construct Srl,2022.0,0.64,Insufficient,4.63,Suboptimal,6.7,Exceptional,99.94,Exceptional,13.58,High,1.41,Bankruptcy Zone,Moderate
+Complet Instal Construct Srl,2021.0,1.02,Insufficient,8.15,Optimal,9.84,Exceptional,53.36,Exceptional,4.49,High,1.95,Grey Zone,Moderate
+Complet Instal Construct Srl,2020.0,1.07,Insufficient,7.36,Optimal,9.84,Exceptional,98.85,Exceptional,9.09,High,1.94,Grey Zone,Moderate
+Complet Instal Construct Srl,2019.0,1.07,Insufficient,1.53,Suboptimal,2.17,Optimal,21.26,Exceptional,8.74,High,1.77,Bankruptcy Zone,Moderate
+Complet Instal Construct Srl,2018.0,0.92,Insufficient,0.17,Suboptimal,0.23,Suboptimal,1.6,Suboptimal,6.31,High,1.6,Bankruptcy Zone,Bad
+Complet Instal Construct Srl,2017.0,0.92,Insufficient,0.19,Suboptimal,0.23,Suboptimal,1.36,Suboptimal,4.92,High,1.49,Bankruptcy Zone,Bad
+Complet Instal Construct Srl,2016.0,0.79,Insufficient,2.11,Suboptimal,3.37,Optimal,20.46,Exceptional,5.14,High,1.84,Grey Zone,Moderate
+Complet Instal Construct Srl,2015.0,0.8,Insufficient,1.72,Suboptimal,3.89,Optimal,25.55,Exceptional,5.32,High,2.52,Grey Zone,Moderate
+Complet Instal Construct Srl,2014.0,0.97,Insufficient,0.98,Suboptimal,2.54,Optimal,17.22,Optimal,5.32,High,2.95,Grey Zone,Bad
+Complet Instal Construct Srl,2013.0,1.1,Insufficient,0.05,Suboptimal,0.12,Suboptimal,0.51,Suboptimal,3.19,High,2.84,Grey Zone,Bad
+CMZ KFT ,2023.0,2.58,Excessive,16.47,Exceptional,48.65,Exceptional,79.19,Exceptional,0.63,Very Low,7.11,Safe Zone,Good
+CMZ KFT ,2022.0,2.82,Excessive,1.41,Suboptimal,1.55,Suboptimal,2.4,Suboptimal,0.54,Very Low,3.93,Safe Zone,Bad
+CMZ KFT ,2021.0,44.27,Excessive,67.35,Exceptional,96.95,Exceptional,99.15,Exceptional,0.02,Very Low,33.5,Safe Zone,Good
+RO 18895090,2023.0,0.32,Insufficient,5.42,Suboptimal,7.15,Suboptimal,24.88,Optimal,2.32,High,1.67,Bankruptcy Zone,Bad
+RO 18895090,2022.0,0.61,Insufficient,4.68,Suboptimal,6.04,Suboptimal,19.73,Optimal,1.92,High,1.95,Grey Zone,Bad
+RO 18895090,2021.0,0.4,Insufficient,3.91,Suboptimal,5.05,Suboptimal,11.65,Suboptimal,1.3,High,2.12,Grey Zone,Bad
+RO 18895090,2020.0,0.46,Insufficient,15.79,Optimal,20.82,Exceptional,47.58,Exceptional,1.26,High,2.74,Grey Zone,Moderate
+RO 18895090,2019.0,0.25,Insufficient,11.39,Suboptimal,16.62,Optimal,58.75,Exceptional,2.61,High,1.97,Grey Zone,Moderate
+RO 18895090,2018.0,0.37,Insufficient,1.3,Suboptimal,2.68,Suboptimal,11.47,Suboptimal,3.37,High,2.05,Grey Zone,Bad
+RO 18895090,2017.0,0.32,Insufficient,13.57,Suboptimal,29.05,Exceptional,106.73,Exceptional,2.74,High,3.09,Safe Zone,Moderate
+RO 18895090,2016.0,0.38,Insufficient,1.28,Suboptimal,3.45,Suboptimal,-106.63,Suboptimal,-32.77,Very Low,1.96,Grey Zone,Bad
+RO 18895090,2015.0,0.36,Insufficient,1.43,Suboptimal,3.8,Suboptimal,-44.89,Suboptimal,-13.09,Very Low,1.78,Bankruptcy Zone,Bad
+RO 18895090,2014.0,0.36,Insufficient,2.99,Suboptimal,7.19,Suboptimal,-31.74,Suboptimal,-5.49,Very Low,1.26,Bankruptcy Zone,Bad
+RO 18895090,2013.0,0.3,Insufficient,2.82,Suboptimal,5.92,Suboptimal,-17.16,Suboptimal,-3.9,Very Low,0.53,Bankruptcy Zone,Bad
+Aranser Trans SRL,2023.0,0.55,Insufficient,2.41,Suboptimal,1.37,Suboptimal,11.16,Optimal,7.15,High,0.39,Bankruptcy Zone,Bad
+Aranser Trans SRL,2022.0,0.5,Insufficient,10.19,Exceptional,11.65,Exceptional,99.62,Exceptional,7.55,High,1.24,Bankruptcy Zone,Moderate
+Aranser Trans SRL,2021.0,1.88,Excessive,9.3,Optimal,16.96,Exceptional,36.26,Exceptional,1.14,Optimal,4.13,Safe Zone,Good
+Aranser Trans SRL,2020.0,1.65,Excessive,7.57,Optimal,21.81,Exceptional,55.36,Exceptional,1.54,Optimal,5.02,Safe Zone,Good
+Aranser Trans SRL,2019.0,1.42,Optimal,16.28,Exceptional,29.54,Exceptional,99.51,Exceptional,2.37,High,3.81,Safe Zone,Good
+NOVI VNB TAXI SRL,2023.0,0.18,Insufficient,23.23,Exceptional,29.31,Exceptional,48.68,Exceptional,0.66,Optimal,3.59,Safe Zone,Good
+NOVI VNB TAXI SRL,2022.0,0.58,Insufficient,25.02,Exceptional,44.69,Exceptional,82.57,Exceptional,0.85,Optimal,4.5,Safe Zone,Good
+NOVI VNB TAXI SRL,2021.0,0.73,Insufficient,27.65,Exceptional,31.98,Exceptional,44.5,Exceptional,0.39,Very Low,4.66,Safe Zone,Good
+NOVI VNB TAXI SRL,2020.0,0.24,Insufficient,-12.59,Loss-Making,-8.84,Unprofitable,-9.16,Suboptimal,0.16,Very Low,5.44,Safe Zone,Bad
+NOVI VNB TAXI SRL,2019.0,0.75,Insufficient,17.04,Exceptional,29.7,Exceptional,37.12,Exceptional,0.25,Very Low,6.18,Safe Zone,Good
+NOVI VNB TAXI SRL,2018.0,0.52,Insufficient,8.74,Optimal,20.22,Exceptional,27.05,Exceptional,0.34,Very Low,5.66,Safe Zone,Moderate
+NOVI VNB TAXI SRL,2017.0,0.39,Insufficient,8.64,Optimal,16.4,Exceptional,30.0,Exceptional,0.83,Optimal,3.6,Safe Zone,Good
+NOVI VNB TAXI SRL,2016.0,0.21,Insufficient,8.22,Optimal,13.94,Exceptional,29.34,Exceptional,1.1,Optimal,2.87,Grey Zone,Good
+NOVI VNB TAXI SRL,2015.0,0.18,Insufficient,5.82,Optimal,11.06,Exceptional,24.68,Exceptional,1.23,Optimal,2.83,Grey Zone,Good
+NOVI VNB TAXI SRL,2014.0,0.16,Insufficient,4.64,Optimal,8.31,Optimal,24.11,Exceptional,1.9,High,2.2,Grey Zone,Moderate
+NOVI VNB TAXI SRL,2013.0,0.18,Insufficient,3.06,Optimal,7.65,Optimal,28.71,Exceptional,2.75,High,2.62,Grey Zone,Moderate
+SC ANABUS TRAD SRL,2023.0,1.2,Optimal,0.2,Suboptimal,0.95,Suboptimal,5.57,Suboptimal,4.88,High,1.93,Grey Zone,Bad
+SC ANABUS TRAD SRL,2022.0,1.11,Optimal,6.86,Suboptimal,12.94,Optimal,97.84,Exceptional,6.56,High,2.1,Grey Zone,Moderate
+SC ANABUS TRAD SRL,2021.0,14.68,Excessive,11.44,Suboptimal,26.47,Exceptional,28.31,Exceptional,0.07,Very Low,25.75,Safe Zone,Moderate
+SC ANABUS TRAD SRL,2020.0,8.45,Excessive,23.65,Optimal,56.65,Exceptional,64.25,Exceptional,0.13,Very Low,20.29,Safe Zone,Good
+SC ANABUS TRAD SRL,2019.0,1.41,Optimal,1.81,Suboptimal,3.88,Suboptimal,13.26,Suboptimal,2.42,High,3.54,Safe Zone,Bad
+SC ANABUS TRAD SRL,2018.0,1.5,Optimal,-3.63,Loss-Making,-10.01,Unprofitable,-29.07,Suboptimal,1.9,High,3.15,Safe Zone,Bad
+SC ANABUS TRAD SRL,2017.0,1.63,Excessive,14.1,Suboptimal,38.05,Exceptional,98.72,Exceptional,1.59,High,7.0,Safe Zone,Moderate
+SC ANABUS TRAD SRL,2016.0,6.18,Excessive,27.46,Optimal,26.43,Exceptional,31.54,Exceptional,0.19,Very Low,15.44,Safe Zone,Good
+SC ANABUS TRAD SRL,2015.0,4.78,Excessive,26.32,Optimal,29.96,Exceptional,37.89,Exceptional,0.26,Very Low,13.75,Safe Zone,Good
+SC ANABUS TRAD SRL,2014.0,3.61,Excessive,27.33,Optimal,36.22,Exceptional,50.08,Exceptional,0.38,Optimal,12.28,Safe Zone,Good
+SC ANABUS TRAD SRL,2013.0,1.69,Excessive,25.86,Optimal,39.91,Exceptional,97.38,Exceptional,1.44,High,7.44,Safe Zone,Moderate
+RO2405388,2023.0,5.29,Excessive,8.6,Optimal,14.29,Exceptional,16.81,Exceptional,0.18,Very Low,7.5,Safe Zone,Good
+RO2405388,2022.0,3.14,Excessive,19.0,Exceptional,36.47,Exceptional,47.23,Exceptional,0.3,Very Low,6.82,Safe Zone,Good
+RO2405388,2021.0,1.58,Excessive,18.3,Exceptional,27.34,Exceptional,53.34,Exceptional,0.95,Very Low,4.09,Safe Zone,Good
+RO2405388,2020.0,1.05,Optimal,10.61,Exceptional,16.8,Exceptional,43.9,Exceptional,1.61,Optimal,3.08,Safe Zone,Good
+RO2405388,2019.0,0.99,Insufficient,1.28,Suboptimal,2.17,Suboptimal,7.03,Suboptimal,2.24,High,2.47,Grey Zone,Bad
+RO2405388,2018.0,1.03,Optimal,8.93,Optimal,18.3,Exceptional,54.78,Exceptional,1.99,Optimal,3.45,Safe Zone,Good
+RO2405388,2017.0,0.87,Insufficient,13.19,Exceptional,16.04,Exceptional,123.24,Exceptional,6.68,High,1.88,Grey Zone,Moderate
+RO2405388,2016.0,0.76,Insufficient,10.05,Exceptional,13.89,Exceptional,191.11,Exceptional,12.76,High,1.73,Bankruptcy Zone,Moderate
+RO2405388,2015.0,0.64,Insufficient,0.66,Suboptimal,0.67,Suboptimal,-11.49,Suboptimal,-18.12,Very Low,0.47,Bankruptcy Zone,Bad
+RO2405388,2014.0,0.68,Insufficient,0.37,Suboptimal,0.59,Suboptimal,-7.42,Suboptimal,-13.63,Very Low,1.05,Bankruptcy Zone,Bad
+RO2405388,2013.0,0.69,Insufficient,0.8,Suboptimal,1.15,Suboptimal,-13.92,Suboptimal,-13.15,Very Low,0.91,Bankruptcy Zone,Bad
+RO46420819,2023.0,2.37,Excessive,9.38,Optimal,20.4,Exceptional,34.76,Exceptional,0.7,Very Low,5.2,Safe Zone,Good
+RO46420819,2022.0,3.66,Excessive,65.69,Exceptional,72.67,Exceptional,100.0,Exceptional,0.38,Very Low,6.99,Safe Zone,Good
+PHARMALINK SRL,2023.0,3.89,Excessive,27.35,Exceptional,68.56,Exceptional,93.31,Exceptional,0.33,Very Low,8.45,Safe Zone,Good
+PHARMALINK SRL,2022.0,1.96,Optimal,36.56,Exceptional,48.59,Exceptional,95.63,Exceptional,0.98,Optimal,4.83,Safe Zone,Good
+PHARMALINK SRL,2021.0,2.93,Excessive,25.11,Exceptional,63.34,Exceptional,91.02,Exceptional,0.45,Very Low,7.64,Safe Zone,Good
+PHARMALINK SRL,2020.0,2.88,Excessive,29.74,Exceptional,65.2,Exceptional,92.67,Exceptional,0.44,Very Low,7.4,Safe Zone,Good
+PHARMALINK SRL,2019.0,2.1,Excessive,22.49,Exceptional,42.72,Exceptional,70.09,Exceptional,0.66,Optimal,5.61,Safe Zone,Good
+PHARMALINK SRL,2018.0,2.06,Excessive,19.83,Optimal,50.57,Exceptional,87.3,Exceptional,0.75,Optimal,6.38,Safe Zone,Good
+PHARMALINK SRL,2017.0,1.58,Optimal,18.23,Optimal,47.08,Exceptional,100.22,Exceptional,1.16,Optimal,5.69,Safe Zone,Good
+PHARMALINK SRL,2016.0,0.99,Insufficient,5.78,Suboptimal,17.65,Exceptional,-8829.47,Suboptimal,-502.11,Very Low,3.62,Safe Zone,Moderate
+PHARMALINK SRL,2015.0,0.76,Insufficient,2.45,Suboptimal,5.83,Optimal,-19.81,Suboptimal,-4.4,Very Low,1.65,Bankruptcy Zone,Bad
+PHARMALINK SRL,2014.0,0.63,Insufficient,-11.05,Loss-Making,-30.98,Unprofitable,57.0,Exceptional,-2.84,Very Low,0.12,Bankruptcy Zone,Bad
+PHARMALINK SRL,2013.0,0.78,Insufficient,-25.84,Loss-Making,-27.8,Unprofitable,122.61,Exceptional,-5.41,Very Low,-0.59,Bankruptcy Zone,Bad
+INVECON SRL ,2023.0,0.47,N/A,,N/A,-42.56,N/A,63.99,N/A,-2.51,N/A,-3.64,Bankruptcy Zone,Unknown
+INVECON SRL ,2022.0,0.52,Insufficient,-321.88,Loss-Making,-316.78,Unprofitable,1690.49,Exceptional,-6.34,Very Low,-10.51,Bankruptcy Zone,Bad
+INVECON SRL ,2021.0,3.64,Excessive,-7399.13,Loss-Making,-4.73,Unprofitable,-6.35,Suboptimal,0.34,Very Low,3.44,Safe Zone,Bad
+INVECON SRL ,2020.0,4.89,N/A,,N/A,-1.73,N/A,-2.11,N/A,0.22,N/A,4.64,Safe Zone,Unknown
+INVECON SRL ,2019.0,9.14,N/A,,N/A,-0.47,N/A,-0.53,N/A,0.12,N/A,7.36,Safe Zone,Unknown
+INVECON SRL ,2018.0,7.67,N/A,,N/A,-4.2,N/A,-4.81,N/A,0.14,N/A,6.26,Safe Zone,Unknown
+INVECON SRL ,2017.0,8.95,Excessive,501.67,Exceptional,89.46,Exceptional,99.97,Exceptional,0.12,Very Low,10.44,Safe Zone,Good
+INVECON SRL ,2016.0,1.06,Optimal,97.6,Exceptional,7.85,Optimal,99.72,Exceptional,11.71,High,0.56,Bankruptcy Zone,Good
+INVECON SRL ,2015.0,1.28,Optimal,17.54,Exceptional,1.34,Suboptimal,5.44,Suboptimal,3.05,High,0.92,Bankruptcy Zone,Moderate
+INVECON SRL ,2014.0,1.23,Optimal,46.93,Exceptional,18.09,Exceptional,73.21,Exceptional,3.05,High,1.73,Bankruptcy Zone,Good
+INVECON SRL ,2013.0,0.98,Insufficient,16.09,Exceptional,8.23,Exceptional,99.87,Exceptional,11.15,High,0.93,Bankruptcy Zone,Moderate
+RO38100473,2023.0,3.58,Excessive,9.94,Optimal,17.82,Exceptional,20.47,Exceptional,0.15,Very Low,8.03,Safe Zone,Good
+RO38100473,2022.0,2.0,Excessive,0.12,Suboptimal,0.21,Suboptimal,0.25,Suboptimal,0.19,Very Low,6.24,Safe Zone,Bad
+RO38100473,2021.0,4.58,Excessive,41.08,Exceptional,75.79,Exceptional,90.17,Exceptional,0.19,Very Low,9.37,Safe Zone,Good
+RO38100473,2020.0,0.67,Insufficient,1.12,Suboptimal,3.78,Optimal,8.61,Optimal,1.27,Optimal,4.36,Safe Zone,Moderate
+RO38100473,2019.0,1.31,Optimal,8.59,Optimal,36.88,Exceptional,67.23,Exceptional,0.82,Very Low,7.18,Safe Zone,Good
+RO38100473,2018.0,0.44,Insufficient,11.6,Exceptional,78.71,Exceptional,283.69,Exceptional,2.6,High,9.51,Safe Zone,Moderate
+RO38100473,2017.0,0.19,Insufficient,-1.22,Loss-Making,-10.18,Unprofitable,7.57,Suboptimal,-1.74,Very Low,3.47,Safe Zone,Bad
+RO38100473,2016.0,0.13,Insufficient,-41.86,Loss-Making,-599.62,Unprofitable,101.84,Exceptional,-1.17,Very Low,-21.42,Bankruptcy Zone,Bad
+27647093,2023.0,0.78,Insufficient,-29.33,Loss-Making,-32.67,Unprofitable,-95.78,Suboptimal,1.94,High,0.65,Bankruptcy Zone,Bad
+27647093,2022.0,0.83,Insufficient,10.72,Optimal,9.48,Optimal,20.77,Exceptional,1.19,Optimal,2.23,Grey Zone,Moderate
+27647093,2021.0,1.19,Insufficient,9.59,Suboptimal,11.82,Optimal,24.92,Exceptional,1.12,Optimal,2.94,Grey Zone,Moderate
+27647093,2020.0,1.16,Insufficient,25.39,Exceptional,37.59,Exceptional,85.18,Exceptional,1.27,Optimal,3.92,Safe Zone,Good
+27647093,2019.0,1.42,Optimal,10.32,Optimal,20.78,Exceptional,54.56,Exceptional,1.63,High,3.91,Safe Zone,Good
+27647093,2018.0,1.41,Optimal,13.31,Optimal,23.76,Exceptional,75.93,Exceptional,2.2,High,3.62,Safe Zone,Good
+27647093,2017.0,1.42,Optimal,11.25,Optimal,21.18,Exceptional,64.5,Exceptional,2.06,High,3.68,Safe Zone,Good
+27647093,2016.0,1.18,Insufficient,9.54,Suboptimal,11.62,Optimal,58.5,Exceptional,4.04,High,2.21,Grey Zone,Moderate
+27647093,2015.0,1.48,Optimal,12.43,Optimal,20.53,Exceptional,54.3,Exceptional,1.65,High,3.58,Safe Zone,Good
+27647093,2014.0,1.31,Optimal,10.32,Optimal,22.29,Exceptional,66.52,Exceptional,2.01,High,3.92,Safe Zone,Good
+27647093,2013.0,1.12,Insufficient,4.03,Suboptimal,18.03,Exceptional,55.15,Exceptional,2.06,High,5.91,Safe Zone,Moderate
+FAINA EUROTRANS SRL ,2023.0,0.06,Insufficient,18.6,Exceptional,10.85,Exceptional,30.75,Exceptional,1.84,Optimal,1.03,Bankruptcy Zone,Good
+FAINA EUROTRANS SRL ,2022.0,0.07,Insufficient,-13.23,Loss-Making,-3.68,Unprofitable,-15.44,Suboptimal,3.2,High,-0.17,Bankruptcy Zone,Bad
+FAINA EUROTRANS SRL ,2021.0,0.05,Insufficient,-11.74,Loss-Making,-6.37,Unprofitable,-24.03,Suboptimal,2.77,High,0.09,Bankruptcy Zone,Bad
+FAINA EUROTRANS SRL ,2020.0,0.65,Insufficient,44.91,Exceptional,33.27,Exceptional,58.8,Exceptional,0.77,Very Low,3.23,Safe Zone,Good
+FAINA EUROTRANS SRL ,2019.0,7.63,Excessive,62.86,Exceptional,67.66,Exceptional,74.15,Exceptional,0.1,Very Low,11.54,Safe Zone,Good
+FAINA EUROTRANS SRL ,2018.0,10.63,Excessive,82.85,Exceptional,65.88,Exceptional,71.55,Exceptional,0.09,Very Low,12.15,Safe Zone,Good
+FAINA EUROTRANS SRL ,2017.0,6.01,Excessive,90.99,Exceptional,85.94,Exceptional,99.94,Exceptional,0.16,Very Low,9.51,Safe Zone,Good
+RO 27894050,2023.0,0.86,Insufficient,10.25,Exceptional,23.98,Exceptional,72.25,Exceptional,2.01,High,3.78,Safe Zone,Moderate
+RO 27894050,2022.0,0.78,Insufficient,6.38,Optimal,15.84,Exceptional,93.63,Exceptional,4.91,High,3.15,Safe Zone,Moderate
+RO 27894050,2021.0,1.02,Insufficient,6.18,Optimal,20.94,Exceptional,369.68,Exceptional,16.66,High,4.22,Safe Zone,Moderate
+RO 27894050,2020.0,0.88,Insufficient,5.46,Optimal,14.21,Exceptional,-229.32,Suboptimal,-17.14,Very Low,2.79,Grey Zone,Moderate
+RO 27894050,2019.0,0.64,Insufficient,-7.41,Loss-Making,-25.22,Unprofitable,89.46,Exceptional,-4.55,Very Low,1.5,Bankruptcy Zone,Bad
+RO 27894050,2018.0,0.57,Insufficient,-5.94,Loss-Making,-22.72,Unprofitable,147.07,Exceptional,-7.5,Very Low,2.18,Grey Zone,Bad
+RO 27894050,2017.0,0.63,Insufficient,2.05,Optimal,8.54,Optimal,125.54,Exceptional,13.84,High,4.17,Safe Zone,Moderate
+RO 27894050,2016.0,0.43,Insufficient,-3.43,Loss-Making,-11.04,Unprofitable,75.69,Exceptional,-7.97,Very Low,1.77,Bankruptcy Zone,Bad
+RO 27894050,2015.0,0.55,Insufficient,0.73,Suboptimal,2.3,Suboptimal,-61.32,Suboptimal,-28.12,Very Low,2.57,Grey Zone,Bad
+RO 27894050,2014.0,0.55,Insufficient,0.95,Suboptimal,2.71,Suboptimal,-40.37,Suboptimal,-16.29,Very Low,2.24,Grey Zone,Bad
+RO 27894050,2013.0,0.47,Insufficient,-5.11,Loss-Making,-15.86,Unprofitable,134.44,Exceptional,-9.49,Very Low,1.64,Bankruptcy Zone,Bad
+Danimol Dan,2023.0,74.89,Excessive,18.85,Exceptional,25.34,Exceptional,16.17,Optimal,0.01,Very Low,147.73,Safe Zone,Good
+Danimol Dan,2021.0,0.31,Insufficient,72.37,Exceptional,200.2,Exceptional,40.03,Exceptional,0.09,Very Low,38.88,Safe Zone,Good
+Danimol Dan,2019.0,22.08,Excessive,24.47,Exceptional,15.55,Exceptional,12.68,Optimal,0.03,Very Low,48.6,Safe Zone,Good
+Danimol Dan,2017.0,5.32,Excessive,40.78,Exceptional,28.79,Exceptional,21.14,Exceptional,0.13,Very Low,19.44,Safe Zone,Good
+Danimol Dan,2016.0,23.3,Excessive,57.36,Exceptional,39.82,Exceptional,41.5,Exceptional,0.04,Very Low,36.52,Safe Zone,Good
+Danimol Dan,2015.0,12.77,Excessive,52.96,Exceptional,44.43,Exceptional,48.03,Exceptional,0.08,Very Low,24.75,Safe Zone,Good
+Danimol Dan,2014.0,2.27,Optimal,29.71,Exceptional,50.21,Exceptional,87.77,Exceptional,0.75,Optimal,10.22,Safe Zone,Good
+Danimol Dan,2013.0,1.15,Insufficient,5.46,Optimal,19.0,Exceptional,98.17,Exceptional,4.17,High,2.95,Safe Zone,Moderate
+Ro40163350,2023.0,6.82,Excessive,60.08,Exceptional,68.21,Exceptional,79.18,Exceptional,0.16,Very Low,9.29,Safe Zone,Good
+Ro40163350,2022.0,1.9,Excessive,63.22,Exceptional,51.75,Exceptional,99.63,Exceptional,0.93,Very Low,4.42,Safe Zone,Good
+Ro40163350,2021.0,6.8,Excessive,67.98,Exceptional,55.67,Exceptional,63.71,Exceptional,0.14,Very Low,8.91,Safe Zone,Good
+Ro40163350,2020.0,3.09,Excessive,29.01,Exceptional,43.21,Exceptional,63.24,Exceptional,0.46,Very Low,5.96,Safe Zone,Good
+Ro40163350,2019.0,0.81,Insufficient,37.06,Exceptional,60.97,Exceptional,180.97,Exceptional,1.97,Optimal,4.29,Safe Zone,Good
+Ro40163350,2018.0,0.32,Insufficient,18.27,Exceptional,21.38,Exceptional,-98.89,Suboptimal,-5.63,Very Low,0.48,Bankruptcy Zone,Moderate
+Ro40163350,2017.0,0.24,Insufficient,19.11,Exceptional,16.22,Exceptional,-48.97,Suboptimal,-4.02,Very Low,-0.44,Bankruptcy Zone,Moderate
+Ro40163350,2016.0,0.22,Insufficient,49.61,Exceptional,31.66,Exceptional,-82.47,Suboptimal,-3.61,Very Low,-0.31,Bankruptcy Zone,Moderate
+Ro40163350,2015.0,0.26,Insufficient,18.6,Exceptional,39.29,Exceptional,-15.19,Suboptimal,-1.39,Very Low,-3.83,Bankruptcy Zone,Moderate
+Ro40163350,2014.0,0.23,Insufficient,-50.25,Loss-Making,-94.18,Unprofitable,30.07,Exceptional,-1.32,Very Low,-9.91,Bankruptcy Zone,Bad
+Ro40163350,2013.0,0.2,Insufficient,-20.82,Loss-Making,-57.49,Unprofitable,36.51,Exceptional,-1.64,Very Low,-4.18,Bankruptcy Zone,Bad
+35642020,2023.0,1.93,Excessive,11.37,Exceptional,18.94,Exceptional,34.07,Exceptional,0.8,Very Low,4.31,Safe Zone,Good
+35642020,2022.0,1.86,Excessive,18.5,Exceptional,52.43,Exceptional,89.88,Exceptional,0.71,Very Low,6.65,Safe Zone,Good
+35642020,2021.0,9.2,Excessive,28.98,Exceptional,52.24,Exceptional,56.5,Exceptional,0.08,Very Low,12.92,Safe Zone,Good
+35642020,2020.0,2.19,Excessive,14.97,Exceptional,26.67,Exceptional,34.58,Exceptional,0.3,Very Low,6.09,Safe Zone,Good
+35642020,2019.0,1.43,Optimal,12.36,Exceptional,19.59,Exceptional,47.82,Exceptional,1.44,Optimal,3.52,Safe Zone,Good
+35642020,2018.0,0.75,Insufficient,2.66,Suboptimal,4.61,Optimal,12.62,Optimal,1.74,Optimal,2.55,Grey Zone,Moderate
+35642020,2017.0,0.85,Insufficient,17.59,Exceptional,30.29,Exceptional,74.75,Exceptional,1.47,Optimal,3.59,Safe Zone,Good
+35642020,2016.0,0.23,Insufficient,7.95,Optimal,11.21,Exceptional,98.58,Exceptional,7.8,High,1.19,Bankruptcy Zone,Moderate
+Ro28291910,2023.0,23.26,N/A,,N/A,-102.12,N/A,-106.62,N/A,0.04,N/A,12.69,Safe Zone,Unknown
+Ro28291910,2022.0,31.68,Excessive,53.24,Exceptional,97.97,Exceptional,101.03,Exceptional,0.03,Very Low,26.74,Safe Zone,Good
+Ro28291910,2021.0,0.88,Insufficient,72.77,Exceptional,127.2,Exceptional,-8285.64,Suboptimal,-66.14,Very Low,5.76,Safe Zone,Moderate
+Ro28291910,2020.0,0.07,Insufficient,-239.8,Loss-Making,-119.02,Unprofitable,25.08,Exceptional,-1.21,Very Low,-16.97,Bankruptcy Zone,Bad
+Ro28291910,2019.0,0.09,Insufficient,-3652.53,Loss-Making,-1618.36,Unprofitable,168.77,Exceptional,-1.1,Very Low,-78.44,Bankruptcy Zone,Bad
+Ro28291910,2018.0,,N/A,-1.68,N/A,-1.64,N/A,-1.64,N/A,0.0,N/A,inf,Safe Zone,Unknown
+Ro28291910,2017.0,4.28,Excessive,29.17,Exceptional,61.95,Exceptional,80.8,Exceptional,0.3,Very Low,8.13,Safe Zone,Good
+Ro28291910,2016.0,1.93,Excessive,18.75,Exceptional,72.28,Exceptional,148.58,Exceptional,1.06,Optimal,8.07,Safe Zone,Good
+Ro28291910,2015.0,0.75,Insufficient,-1394.33,Loss-Making,-62.27,Unprofitable,199.1,Exceptional,-4.2,Very Low,-2.98,Bankruptcy Zone,Bad
+Ro28291910,2014.0,1.67,N/A,,N/A,-12.07,N/A,-30.16,N/A,1.5,N/A,1.04,Bankruptcy Zone,Unknown
+Ro28291910,2013.0,2.19,N/A,,N/A,-8.07,N/A,-14.84,N/A,0.84,N/A,1.86,Grey Zone,Unknown
+30026860,2023.0,0.42,N/A,,N/A,-18.45,N/A,105.66,N/A,-6.75,N/A,-6.45,Bankruptcy Zone,Unknown
+MONDOBONI BOGSPEED SEL,2023.0,0.16,Insufficient,-28.48,Loss-Making,-82.11,Unprofitable,166.82,Exceptional,-3.03,Very Low,-2.22,Bankruptcy Zone,Bad
+MONDOBONI BOGSPEED SEL,2022.0,0.62,Insufficient,-2.85,Loss-Making,-8.65,Unprofitable,-34.64,Suboptimal,3.01,High,2.95,Grey Zone,Bad
+MONDOBONI BOGSPEED SEL,2021.0,0.51,Insufficient,9.31,Optimal,15.81,Exceptional,57.28,Exceptional,2.62,High,2.41,Grey Zone,Moderate
+MONDOBONI BOGSPEED SEL,2020.0,0.42,Insufficient,18.32,Exceptional,25.91,Exceptional,129.21,Exceptional,3.99,High,2.14,Grey Zone,Moderate
+MONDOBONI BOGSPEED SEL,2019.0,0.06,N/A,,N/A,-8.35,N/A,101.06,N/A,-13.1,N/A,-1.66,Bankruptcy Zone,Unknown
+39402704,2023.0,2.98,Excessive,1.95,Suboptimal,4.61,Optimal,6.48,Suboptimal,0.41,Very Low,5.67,Safe Zone,Moderate
+39402704,2022.0,1.84,Excessive,5.91,Optimal,16.21,Exceptional,29.87,Exceptional,0.84,Very Low,5.21,Safe Zone,Good
+39402704,2021.0,3.97,Excessive,9.8,Optimal,35.43,Exceptional,44.48,Exceptional,0.26,Very Low,8.97,Safe Zone,Good
+39402704,2020.0,12.57,Excessive,33.13,Exceptional,80.85,Exceptional,87.83,Exceptional,0.09,Very Low,14.45,Safe Zone,Good
+39402704,2019.0,1.37,Optimal,4.87,Suboptimal,13.95,Exceptional,51.37,Exceptional,2.68,High,4.25,Safe Zone,Moderate
+39402704,2018.0,2.52,Excessive,13.25,Exceptional,59.66,Exceptional,98.92,Exceptional,0.66,Very Low,8.95,Safe Zone,Good
+37357674,2023.0,0.03,N/A,,N/A,-3250.5,N/A,101.21,N/A,-1.03,N/A,-191.35,Bankruptcy Zone,Unknown
+41635744,2023.0,-0.0,N/A,,N/A,-485.13,N/A,77.2,N/A,-1.16,N/A,-34.07,Bankruptcy Zone,Unknown
+41635744,2022.0,0.02,Insufficient,-102.48,Loss-Making,-5761.52,Unprofitable,101.99,Exceptional,-1.02,Very Low,-281.38,Bankruptcy Zone,Bad
+RO42143669,2023.0,0.27,Insufficient,-21.55,Loss-Making,-5.91,Unprofitable,3.69,Suboptimal,-1.62,Very Low,-4.81,Bankruptcy Zone,Bad
+RO42143669,2022.0,0.25,Insufficient,-50.55,Loss-Making,-10.72,Unprofitable,6.42,Suboptimal,-1.6,Very Low,-5.25,Bankruptcy Zone,Bad
+RO42143669,2021.0,0.25,Insufficient,-24.28,Loss-Making,-6.31,Unprofitable,3.9,Suboptimal,-1.62,Very Low,-4.93,Bankruptcy Zone,Bad
+RO42143669,2020.0,0.24,Insufficient,-55.49,Loss-Making,-15.92,Unprofitable,9.41,Optimal,-1.59,Very Low,-5.45,Bankruptcy Zone,Bad
+RO42143669,2019.0,0.22,Insufficient,-22.53,Loss-Making,-12.03,Unprofitable,7.02,Suboptimal,-1.58,Very Low,-5.19,Bankruptcy Zone,Bad
+RO42143669,2018.0,0.22,Insufficient,-33.17,Loss-Making,-9.22,Unprofitable,5.0,Suboptimal,-1.44,Very Low,-5.51,Bankruptcy Zone,Bad
+RO42143669,2017.0,0.22,Insufficient,-54.98,Loss-Making,-14.88,Unprofitable,8.3,Optimal,-1.44,Very Low,-5.58,Bankruptcy Zone,Bad
+RO42143669,2016.0,0.23,Insufficient,-72.02,Loss-Making,-10.52,Unprofitable,6.34,Suboptimal,-1.48,Very Low,-5.21,Bankruptcy Zone,Bad
+RO42143669,2015.0,0.25,Insufficient,7.0,Optimal,1.34,Suboptimal,-0.88,Suboptimal,-1.53,Very Low,-4.38,Bankruptcy Zone,Bad
+RO42143669,2014.0,0.19,Insufficient,-102.81,Loss-Making,-11.23,Unprofitable,6.21,Suboptimal,-1.42,Very Low,-5.72,Bankruptcy Zone,Bad
+RO42143669,2013.0,0.17,Insufficient,-77.33,Loss-Making,-16.8,Unprofitable,9.03,Optimal,-1.4,Very Low,-5.97,Bankruptcy Zone,Bad
+S.C. TIMIȘUL NORDIC SRL,2023.0,0.46,Insufficient,1.85,Suboptimal,1.64,Suboptimal,3.81,Suboptimal,1.33,Optimal,1.62,Bankruptcy Zone,Bad
+S.C. TIMIȘUL NORDIC SRL,2022.0,0.48,Insufficient,1.6,Suboptimal,1.42,Suboptimal,3.55,Suboptimal,1.5,High,1.52,Bankruptcy Zone,Bad
+S.C. TIMIȘUL NORDIC SRL,2021.0,1.28,Insufficient,7.48,Optimal,7.33,Optimal,17.41,Optimal,1.37,Optimal,2.45,Grey Zone,Moderate
+S.C. TIMIȘUL NORDIC SRL,2020.0,1.15,Insufficient,5.71,Optimal,4.27,Suboptimal,12.55,Optimal,1.94,High,1.79,Bankruptcy Zone,Bad
+S.C. TIMIȘUL NORDIC SRL,2019.0,1.09,Insufficient,2.39,Optimal,1.49,Suboptimal,4.54,Suboptimal,2.06,High,1.49,Bankruptcy Zone,Bad
+S.C. TIMIȘUL NORDIC SRL,2018.0,1.07,Insufficient,0.61,Suboptimal,0.42,Suboptimal,1.32,Suboptimal,2.17,High,1.47,Bankruptcy Zone,Bad
+S.C. TIMIȘUL NORDIC SRL,2017.0,1.06,Insufficient,1.67,Suboptimal,1.29,Suboptimal,3.94,Suboptimal,2.05,High,1.62,Bankruptcy Zone,Bad
+S.C. TIMIȘUL NORDIC SRL,2016.0,1.04,Insufficient,1.82,Suboptimal,1.16,Suboptimal,3.91,Suboptimal,2.37,High,1.38,Bankruptcy Zone,Bad
+S.C. TIMIȘUL NORDIC SRL,2015.0,1.04,Insufficient,1.73,Suboptimal,1.61,Suboptimal,4.43,Suboptimal,1.75,High,1.87,Grey Zone,Bad
+S.C. TIMIȘUL NORDIC SRL,2014.0,1.01,Insufficient,1.65,Suboptimal,1.48,Suboptimal,4.84,Suboptimal,2.26,High,1.65,Bankruptcy Zone,Bad
+S.C. TIMIȘUL NORDIC SRL,2013.0,0.98,Insufficient,1.96,Suboptimal,1.28,Suboptimal,4.51,Suboptimal,2.53,High,1.32,Bankruptcy Zone,Bad
+Tsm Ral Bog Trans,2023.0,2.71,Excessive,14.88,Exceptional,21.7,Exceptional,32.66,Exceptional,0.51,Very Low,4.98,Safe Zone,Good
+Tsm Ral Bog Trans,2022.0,2.05,Excessive,15.5,Exceptional,27.59,Exceptional,47.57,Exceptional,0.72,Very Low,4.86,Safe Zone,Good
+Tsm Ral Bog Trans,2021.0,1.24,Optimal,24.96,Exceptional,32.85,Exceptional,86.75,Exceptional,1.64,Optimal,3.48,Safe Zone,Good
+Tsm Ral Bog Trans,2020.0,,N/A,,N/A,-22.34,N/A,-22.34,N/A,0.0,N/A,inf,Safe Zone,Unknown
+Tsm Ral Bog Trans,2019.0,,N/A,4.85,N/A,9.08,N/A,9.08,N/A,0.0,N/A,inf,Safe Zone,Unknown
+Tsm Ral Bog Trans,2018.0,1.5,Optimal,31.72,Exceptional,71.33,Exceptional,97.13,Exceptional,0.36,Very Low,7.45,Safe Zone,Good
+SC TRANSPIN MIRAZ SRL,2023.0,1.17,Optimal,7.74,Optimal,33.21,Exceptional,68.96,Exceptional,1.19,Optimal,5.32,Safe Zone,Good
+SC TRANSPIN MIRAZ SRL,2022.0,0.83,Insufficient,15.3,Exceptional,44.37,Exceptional,99.81,Exceptional,1.35,Optimal,4.52,Safe Zone,Good
+SC TRANSPIN MIRAZ SRL,2021.0,0.59,Insufficient,6.4,Optimal,22.8,Exceptional,52.57,Exceptional,1.57,Optimal,1.76,Grey Zone,Good
+SC TRANSPIN MIRAZ SRL,2020.0,10.57,Excessive,7.58,Optimal,20.7,Exceptional,20.99,Exceptional,0.06,Very Low,24.9,Safe Zone,Good
+SC TRANSPIN MIRAZ SRL,2019.0,1.6,Excessive,25.07,Exceptional,58.67,Exceptional,98.96,Exceptional,0.69,Very Low,9.0,Safe Zone,Good
+SC TRANSPIN MIRAZ SRL,2018.0,1.73,Excessive,28.05,Exceptional,49.79,Exceptional,71.61,Exceptional,0.44,Very Low,9.46,Safe Zone,Good
+SC TRANSPIN MIRAZ SRL,2017.0,0.3,Insufficient,26.1,Exceptional,23.28,Exceptional,99.6,Exceptional,3.3,High,-0.88,Bankruptcy Zone,Moderate
+4300019,2023.0,0.16,Insufficient,16.99,Exceptional,134.21,Exceptional,-26.9,Suboptimal,-1.2,Very Low,-1.17,Bankruptcy Zone,Moderate
+4300019,2022.0,0.11,Insufficient,4.4,Optimal,15.47,Exceptional,-1.89,Suboptimal,-1.12,Very Low,-17.79,Bankruptcy Zone,Moderate
+4300019,2021.0,0.0,N/A,,N/A,1326400.0,N/A,-25.1,N/A,-1.0,N/A,-93646.46,Bankruptcy Zone,Unknown
+4300019,2020.0,0.0,N/A,,N/A,0.0,N/A,-0.0,N/A,-1.12,N/A,-23.02,Bankruptcy Zone,Unknown
+4300019,2019.0,0.0,N/A,,N/A,0.0,N/A,-0.0,N/A,-1.13,N/A,-21.58,Bankruptcy Zone,Unknown
+4300019,2018.0,0.0,N/A,,N/A,0.0,N/A,-0.0,N/A,-1.13,N/A,-21.58,Bankruptcy Zone,Unknown
+4300019,2017.0,0.0,Insufficient,-32.15,Loss-Making,-24.59,Unprofitable,3.22,Suboptimal,-1.13,Very Low,-21.62,Bankruptcy Zone,Bad
+4300019,2016.0,0.01,Insufficient,-47.9,Loss-Making,-37.96,Unprofitable,5.61,Suboptimal,-1.15,Very Low,-19.71,Bankruptcy Zone,Bad
+4300019,2015.0,0.0,Insufficient,-15.62,Loss-Making,-17.86,Unprofitable,2.91,Suboptimal,-1.16,Very Low,-17.11,Bankruptcy Zone,Bad
+4300019,2014.0,0.0,Insufficient,-23.89,Loss-Making,-27.02,Unprofitable,4.82,Suboptimal,-1.18,Very Low,-16.02,Bankruptcy Zone,Bad
+4300019,2013.0,0.01,Insufficient,-11.84,Loss-Making,-17.53,Unprofitable,3.32,Suboptimal,-1.19,Very Low,-14.46,Bankruptcy Zone,Bad
+Vio& vio expedition  srl,2023.0,0.28,Insufficient,-59.57,Loss-Making,-64.77,Unprofitable,61.08,Exceptional,-1.94,Very Low,-18.11,Bankruptcy Zone,Bad
+Vio& vio expedition  srl,2022.0,0.44,Insufficient,-22.26,Loss-Making,-28.8,Unprofitable,100.46,Exceptional,-4.49,Very Low,-7.87,Bankruptcy Zone,Bad
+SC STAR DECOR SRL,2023.0,1.02,Insufficient,10.25,Optimal,26.27,Exceptional,55.84,Exceptional,1.13,Optimal,4.64,Safe Zone,Good
+SC STAR DECOR SRL,2022.0,1.45,Optimal,18.53,Exceptional,46.76,Exceptional,97.17,Exceptional,1.08,Optimal,5.58,Safe Zone,Good
+SC STAR DECOR SRL,2021.0,2.15,Excessive,12.33,Optimal,29.98,Exceptional,45.87,Exceptional,0.53,Very Low,5.95,Safe Zone,Good
+SC STAR DECOR SRL,2020.0,1.26,Optimal,-16.86,Loss-Making,-37.93,Unprofitable,-61.38,Suboptimal,0.62,Very Low,2.95,Grey Zone,Bad
+SC STAR DECOR SRL,2019.0,2.64,Excessive,15.24,Exceptional,47.75,Exceptional,63.06,Exceptional,0.32,Very Low,8.12,Safe Zone,Good
+SC STAR DECOR SRL,2018.0,1.29,Optimal,0.18,Suboptimal,0.19,Suboptimal,0.33,Suboptimal,0.72,Very Low,2.87,Grey Zone,Moderate
+SC STAR DECOR SRL,2017.0,1.86,Optimal,17.72,Exceptional,21.77,Exceptional,26.95,Exceptional,0.25,Very Low,5.66,Safe Zone,Good
+SC STAR DECOR SRL,2016.0,0.54,Insufficient,-8.19,Loss-Making,-7.7,Unprofitable,-14.56,Suboptimal,0.95,Very Low,1.78,Bankruptcy Zone,Bad
+SC STAR DECOR SRL,2015.0,0.79,Insufficient,16.83,Exceptional,25.11,Exceptional,46.83,Exceptional,0.87,Very Low,3.65,Safe Zone,Good
+SC STAR DECOR SRL,2014.0,0.29,Insufficient,2.17,Suboptimal,2.97,Optimal,9.52,Suboptimal,2.21,High,1.58,Bankruptcy Zone,Bad
+SC STAR DECOR SRL,2013.0,0.43,Insufficient,-10.82,Loss-Making,-13.52,Unprofitable,-56.17,Suboptimal,3.15,High,0.81,Bankruptcy Zone,Bad
+sc orasig consultanta srl,2023.0,0.89,Insufficient,9.64,Optimal,60.97,Exceptional,-743.97,Suboptimal,-13.73,Very Low,8.03,Safe Zone,Moderate
+sc orasig consultanta srl,2022.0,0.73,Insufficient,-11.16,Loss-Making,-61.11,Unprofitable,168.54,Exceptional,-3.76,Very Low,2.36,Grey Zone,Bad
+sc orasig consultanta srl,2021.0,1.45,Optimal,-0.66,Loss-Making,-5.16,Unprofitable,-16.72,Suboptimal,2.24,High,8.7,Safe Zone,Bad
+sc orasig consultanta srl,2020.0,12.37,Excessive,78.39,Exceptional,74.97,Exceptional,81.57,Exceptional,0.09,Very Low,12.64,Safe Zone,Good
+33557556,2023.0,0.2,Insufficient,-14.95,Loss-Making,-8.76,Unprofitable,-133.63,Suboptimal,14.58,High,-0.49,Bankruptcy Zone,Bad
+33557556,2022.0,0.52,Insufficient,22.93,Exceptional,30.52,Exceptional,97.58,Exceptional,2.22,High,2.65,Grey Zone,Moderate
+33557556,2021.0,0.63,Insufficient,18.48,Exceptional,22.16,Exceptional,88.15,Exceptional,3.0,High,2.15,Grey Zone,Moderate
+33557556,2020.0,0.69,Insufficient,3.18,Suboptimal,4.04,Optimal,24.91,Exceptional,4.39,High,1.5,Bankruptcy Zone,Moderate
+33557556,2019.0,0.5,Insufficient,2.46,Suboptimal,3.47,Optimal,42.06,Exceptional,11.12,High,1.14,Bankruptcy Zone,Moderate
+33557556,2018.0,0.45,Insufficient,1.3,Suboptimal,1.58,Suboptimal,18.73,Exceptional,10.9,High,0.84,Bankruptcy Zone,Bad
+33557556,2017.0,0.61,Insufficient,9.93,Optimal,15.89,Exceptional,82.93,Exceptional,4.27,High,2.15,Grey Zone,Moderate
+33557556,2016.0,0.79,Insufficient,3.08,Suboptimal,7.09,Optimal,71.97,Exceptional,9.33,High,2.5,Grey Zone,Moderate
+33557556,2015.0,1.47,Optimal,14.27,Exceptional,30.07,Exceptional,91.04,Exceptional,2.03,High,4.24,Safe Zone,Good
+33557556,2014.0,1.13,Optimal,54.64,Exceptional,33.39,Exceptional,96.75,Exceptional,2.01,High,2.6,Grey Zone,Good
+Ferner Glass,2023.0,0.92,Insufficient,9.53,Optimal,9.33,Optimal,99.2,Exceptional,9.63,High,1.4,Bankruptcy Zone,Moderate
+Ferner Glass,2022.0,0.75,Insufficient,9.34,Optimal,2.91,Suboptimal,98.57,Exceptional,32.82,High,0.18,Bankruptcy Zone,Moderate
+Ferner Glass,2021.0,1.01,Insufficient,11.75,Exceptional,11.19,Exceptional,96.44,Exceptional,7.62,High,1.57,Bankruptcy Zone,Moderate
+Ferner Glass,2020.0,1.22,Insufficient,1.84,Suboptimal,8.89,Optimal,50.07,Exceptional,4.63,High,5.71,Safe Zone,Moderate
+Cargo Track Systems,2023.0,3.6,Excessive,1.17,Suboptimal,1.5,Suboptimal,1.77,Suboptimal,0.33,Very Low,5.2,Safe Zone,Bad
+Cargo Track Systems,2022.0,6.78,Excessive,30.27,Exceptional,82.02,Exceptional,97.45,Exceptional,0.17,Very Low,11.05,Safe Zone,Good
+Cargo Track Systems,2021.0,11.13,Excessive,34.19,Exceptional,87.23,Exceptional,99.82,Exceptional,0.1,Very Low,13.72,Safe Zone,Good
+Cargo Track Systems,2020.0,12.76,Excessive,32.19,Exceptional,82.23,Exceptional,99.71,Exceptional,0.1,Very Low,13.84,Safe Zone,Good
+Cargo Track Systems,2019.0,81.25,Excessive,60.19,Exceptional,98.61,Exceptional,99.84,Exceptional,0.01,Very Low,55.61,Safe Zone,Good
+Cargo Track Systems,2018.0,54.66,Excessive,63.09,Exceptional,98.0,Exceptional,99.83,Exceptional,0.02,Very Low,39.53,Safe Zone,Good
+Cargo Track Systems,2017.0,32.58,Excessive,60.94,Exceptional,96.69,Exceptional,99.76,Exceptional,0.03,Very Low,26.24,Safe Zone,Good
+Cargo Track Systems,2016.0,41.72,Excessive,60.05,Exceptional,97.43,Exceptional,99.82,Exceptional,0.02,Very Low,31.81,Safe Zone,Good
+Cargo Track Systems,2015.0,9.32,Excessive,83.72,Exceptional,89.07,Exceptional,99.77,Exceptional,0.12,Very Low,11.32,Safe Zone,Good
+Asociatia Unul pentru Toti Oradea,2023.0,0.16,Insufficient,-50.91,Loss-Making,-589.87,Unprofitable,112.84,Exceptional,-1.19,Very Low,-21.98,Bankruptcy Zone,Bad
+Asociatia Unul pentru Toti Oradea,2022.0,2.04,Excessive,7.09,Optimal,49.9,Exceptional,98.05,Exceptional,0.97,Optimal,10.63,Safe Zone,Good
+Asociatia Unul pentru Toti Oradea,2021.0,0.92,Insufficient,0.51,Suboptimal,0.53,Suboptimal,7.83,Suboptimal,16.21,High,1.07,Bankruptcy Zone,Bad
+39195838,2023.0,1.07,Insufficient,8.92,Optimal,1.61,Suboptimal,2.65,Suboptimal,0.62,Very Low,2.09,Grey Zone,Bad
+39195838,2022.0,1.0,Insufficient,13.03,Optimal,2.55,Optimal,3.84,Suboptimal,0.48,Very Low,2.45,Grey Zone,Moderate
+39195838,2021.0,0.96,Insufficient,2.14,Suboptimal,0.36,Suboptimal,0.59,Suboptimal,0.63,Very Low,1.96,Grey Zone,Bad
+39195838,2020.0,0.92,Insufficient,6.37,Optimal,0.9,Suboptimal,1.7,Suboptimal,0.88,Very Low,1.55,Bankruptcy Zone,Bad
+39195838,2019.0,0.87,Insufficient,8.65,Optimal,1.41,Suboptimal,2.81,Suboptimal,0.99,Very Low,1.44,Bankruptcy Zone,Bad
+39195838,2018.0,0.83,Insufficient,-14.85,Loss-Making,-1.99,Unprofitable,-4.35,Suboptimal,1.18,Optimal,1.11,Bankruptcy Zone,Bad
+39195838,2017.0,0.86,Insufficient,-11.65,Loss-Making,-1.36,Unprofitable,-3.05,Suboptimal,1.25,Optimal,1.08,Bankruptcy Zone,Bad
+39195838,2016.0,0.88,Insufficient,-16.93,Loss-Making,-1.44,Unprofitable,-3.2,Suboptimal,1.23,Optimal,1.07,Bankruptcy Zone,Bad
+39195838,2015.0,0.9,Insufficient,-84.69,Loss-Making,-3.5,Unprofitable,-7.76,Suboptimal,1.24,Optimal,0.97,Bankruptcy Zone,Bad
+39195838,2014.0,0.97,Insufficient,-16.69,Loss-Making,-1.05,Unprofitable,-2.34,Suboptimal,1.26,Optimal,1.11,Bankruptcy Zone,Bad
+39195838,2013.0,0.84,Insufficient,28.82,Exceptional,3.73,Optimal,9.61,Suboptimal,1.55,Optimal,1.07,Bankruptcy Zone,Moderate
+S.C RADIDALV S.R.L,2023.0,0.67,Insufficient,17.35,Exceptional,48.85,Exceptional,60.02,Exceptional,0.23,Very Low,8.11,Safe Zone,Good
+S.C RADIDALV S.R.L,2022.0,4.3,Excessive,56.77,Exceptional,76.41,Exceptional,99.56,Exceptional,0.3,Very Low,7.84,Safe Zone,Good
+35900226,2023.0,172.99,Excessive,52.08,Exceptional,4.67,Suboptimal,4.69,Suboptimal,0.0,Very Low,255.72,Safe Zone,Moderate
+35900226,2022.0,496.09,Excessive,63.69,Exceptional,43.45,Exceptional,43.52,Exceptional,0.0,Very Low,652.54,Safe Zone,Good
+35900226,2021.0,14.35,Excessive,50.14,Exceptional,90.07,Exceptional,92.68,Exceptional,0.03,Very Low,48.0,Safe Zone,Good
+35900226,2020.0,0.42,Insufficient,37.56,Exceptional,48.93,Exceptional,988.49,Exceptional,19.2,High,-0.13,Bankruptcy Zone,Moderate
+35900226,2019.0,0.11,Insufficient,-142.45,Loss-Making,-46.87,Unprofitable,102.79,Exceptional,-3.19,Very Low,-13.44,Bankruptcy Zone,Bad
+FlimoGPS SRL,2023.0,2.11,Optimal,18.97,Exceptional,50.27,Exceptional,95.7,Exceptional,0.9,Optimal,6.34,Safe Zone,Good
+FlimoGPS SRL,2022.0,1.13,Insufficient,12.81,Exceptional,10.89,Exceptional,96.35,Exceptional,7.85,High,1.58,Bankruptcy Zone,Moderate
+SC MIOS SPEDITION SRL,2023.0,1.2,Optimal,-0.93,Loss-Making,-1.87,Unprofitable,-4.61,Suboptimal,1.48,Optimal,3.07,Safe Zone,Bad
+SC MIOS SPEDITION SRL,2022.0,2.24,Excessive,26.75,Exceptional,55.24,Exceptional,99.93,Exceptional,0.81,Very Low,6.07,Safe Zone,Good
+SC MIOS SPEDITION SRL,2021.0,1.08,N/A,,N/A,0.0,N/A,0.0,N/A,5.0,N/A,0.43,Bankruptcy Zone,Unknown
+Mikor Spedition,2023.0,3.16,Excessive,7.96,Optimal,30.21,Exceptional,43.95,Exceptional,0.45,Very Low,7.88,Safe Zone,Good
+Mikor Spedition,2022.0,1.79,Excessive,7.37,Optimal,32.35,Exceptional,71.48,Exceptional,1.21,Optimal,7.1,Safe Zone,Good
+Mikor Spedition,2021.0,2.46,Excessive,5.89,Optimal,25.91,Exceptional,42.41,Exceptional,0.64,Very Low,7.73,Safe Zone,Good
+Mikor Spedition,2020.0,2.61,Excessive,6.19,Optimal,21.41,Exceptional,34.51,Exceptional,0.61,Very Low,6.75,Safe Zone,Good
+Mikor Spedition,2019.0,2.02,Excessive,3.63,Suboptimal,12.5,Exceptional,24.6,Exceptional,0.97,Very Low,5.79,Safe Zone,Moderate
+Mikor Spedition,2018.0,2.13,Excessive,1.93,Suboptimal,7.09,Optimal,13.36,Optimal,0.89,Very Low,5.96,Safe Zone,Moderate
+Mikor Spedition,2017.0,1.76,Excessive,4.13,Suboptimal,15.08,Exceptional,27.06,Exceptional,0.79,Very Low,6.09,Safe Zone,Moderate
+Mikor Spedition,2016.0,1.3,Optimal,3.25,Suboptimal,13.11,Exceptional,29.07,Exceptional,1.22,Optimal,5.79,Safe Zone,Good
+Mikor Spedition,2015.0,1.03,Optimal,3.42,Suboptimal,12.96,Exceptional,42.14,Exceptional,2.25,High,4.93,Safe Zone,Moderate
+Mikor Spedition,2014.0,0.99,Insufficient,5.85,Optimal,27.55,Exceptional,101.02,Exceptional,2.67,High,6.22,Safe Zone,Moderate
+Mikor Spedition,2013.0,0.3,N/A,,N/A,-25.67,N/A,110.23,N/A,-6.55,N/A,-2.55,Bankruptcy Zone,Unknown
+Sc Ferner Goup srl,2022.0,0.89,Insufficient,7.43,Optimal,11.67,Exceptional,99.69,Exceptional,8.57,High,2.06,Grey Zone,Moderate
+Sc Ferner Goup srl,2021.0,0.79,Insufficient,7.34,Optimal,6.33,Optimal,70.53,Exceptional,12.45,High,0.96,Bankruptcy Zone,Moderate
+Sc Ferner Goup srl,2020.0,0.43,Insufficient,1.94,Suboptimal,3.81,Suboptimal,55.63,Exceptional,21.45,High,1.21,Bankruptcy Zone,Bad
+Sc Ferner Goup srl,2019.0,0.16,Insufficient,2.38,Optimal,7.64,Optimal,91.39,Exceptional,21.34,High,1.81,Grey Zone,Moderate
+Sc Ferner Goup srl,2018.0,0.94,Insufficient,1.96,Suboptimal,8.41,Optimal,1665.15,Exceptional,190.42,High,4.51,Safe Zone,Moderate
+Sc Ferner Goup srl,2017.0,0.49,Insufficient,-30.7,Loss-Making,-103.75,Unprofitable,101.41,Exceptional,-1.98,Very Low,-3.01,Bankruptcy Zone,Bad
+46307110,2023.0,4.83,Excessive,84.86,Exceptional,16.76,Exceptional,21.62,Exceptional,0.27,Very Low,5.03,Safe Zone,Good
+46307110,2022.0,4.06,Excessive,96.43,Exceptional,23.46,Exceptional,32.03,Exceptional,0.34,Very Low,4.73,Safe Zone,Good
+46307110,2021.0,3.11,Excessive,96.55,Exceptional,32.59,Exceptional,50.09,Exceptional,0.49,Very Low,4.35,Safe Zone,Good
+46307110,2020.0,1.65,Optimal,54.97,Exceptional,30.3,Exceptional,83.2,Exceptional,1.66,High,2.9,Grey Zone,Good
+46307110,2019.0,1.26,Insufficient,56.19,Exceptional,7.15,Optimal,52.77,Exceptional,5.88,High,0.9,Bankruptcy Zone,Moderate
+46307110,2018.0,1.16,Insufficient,17.23,Exceptional,4.82,Suboptimal,70.64,Exceptional,12.58,High,0.75,Bankruptcy Zone,Moderate
+46307110,2017.0,1.72,Optimal,-74.18,Loss-Making,-20.99,Unprofitable,-1447.27,Suboptimal,40.01,High,0.13,Bankruptcy Zone,Bad
+46307110,2016.0,3.05,N/A,,N/A,-7.13,N/A,-29.77,N/A,1.37,N/A,1.34,Bankruptcy Zone,Unknown
+46307110,2015.0,136.81,Excessive,96.28,Exceptional,6.35,Optimal,6.49,Suboptimal,0.01,Very Low,83.23,Safe Zone,Moderate
+46307110,2014.0,671.84,N/A,,N/A,1.08,N/A,1.1,N/A,0.0,N/A,399.33,Safe Zone,Unknown
+46307110,2013.0,1062.18,Excessive,150.93,Exceptional,4.83,Suboptimal,4.91,Suboptimal,0.0,Very Low,630.23,Safe Zone,Moderate
+48473445,2023.0,1.04,Insufficient,2.49,Optimal,2.98,Suboptimal,77.35,Exceptional,24.96,High,1.42,Bankruptcy Zone,Moderate
+ROONRC.F5/802/2022,2023.0,4.58,Excessive,0.02,Suboptimal,0.06,Suboptimal,0.1,Suboptimal,0.28,Very Low,7.71,Safe Zone,Bad
+ROONRC.F5/802/2022,2022.0,4.5,Excessive,6.09,Optimal,20.9,Exceptional,35.53,Exceptional,0.26,Very Low,7.86,Safe Zone,Good
+ROONRC.F5/802/2022,2021.0,3.34,Excessive,11.82,Exceptional,44.52,Exceptional,109.56,Exceptional,0.6,Optimal,7.49,Safe Zone,Good
+ROONRC.F5/802/2022,2020.0,0.47,Insufficient,-5.83,Loss-Making,-21.94,Unprofitable,280.71,Exceptional,-13.8,Very Low,2.2,Grey Zone,Bad
+ROONRC.F5/802/2022,2019.0,0.88,Insufficient,6.25,Optimal,55.23,Exceptional,305.64,Exceptional,4.53,High,10.93,Safe Zone,Moderate
+ROONRC.F5/802/2022,2018.0,0.46,Insufficient,5.97,Optimal,46.22,Exceptional,-134.58,Suboptimal,-3.91,Very Low,7.76,Safe Zone,Moderate
+ROONRC.F5/802/2022,2017.0,0.35,Insufficient,1.35,Suboptimal,13.83,Exceptional,-12.77,Suboptimal,-1.92,Very Low,7.24,Safe Zone,Moderate
+ROONRC.F5/802/2022,2016.0,0.29,Insufficient,-0.85,Loss-Making,-7.32,Unprofitable,6.16,Suboptimal,-1.84,Very Low,4.48,Safe Zone,Bad
+ROONRC.F5/802/2022,2015.0,0.15,Insufficient,-51.55,Loss-Making,-312.01,Unprofitable,79.2,Exceptional,-1.25,Very Low,-15.25,Bankruptcy Zone,Bad
+ROONRC.F5/802/2022,2014.0,0.74,Insufficient,-13.59,Loss-Making,-34.13,Unprofitable,98.63,Exceptional,-3.89,Very Low,0.33,Bankruptcy Zone,Bad
+ROONRC.F5/802/2022,2013.0,0.29,Insufficient,-23.18,Loss-Making,-43.34,Unprofitable,21.96,Exceptional,-1.51,Very Low,-5.25,Bankruptcy Zone,Bad
+BONCHIS BIANCA MADALINA PFA,2023.0,4.08,Excessive,4.85,Optimal,7.99,Optimal,9.24,Suboptimal,0.16,Very Low,7.47,Safe Zone,Moderate
+BONCHIS BIANCA MADALINA PFA,2022.0,13.48,Excessive,24.3,Exceptional,32.73,Exceptional,34.05,Exceptional,0.04,Very Low,19.22,Safe Zone,Good
+BONCHIS BIANCA MADALINA PFA,2021.0,11.0,Excessive,42.38,Exceptional,75.56,Exceptional,78.26,Exceptional,0.04,Very Low,22.83,Safe Zone,Good
+BONCHIS BIANCA MADALINA PFA,2020.0,4.35,Excessive,46.61,Exceptional,85.65,Exceptional,99.93,Exceptional,0.17,Very Low,10.04,Safe Zone,Good
+VID ALEXANDRU ,2023.0,0.65,Insufficient,16.91,Exceptional,4.37,Suboptimal,-8.19,Suboptimal,-2.87,Very Low,-1.19,Bankruptcy Zone,Moderate
+VID ALEXANDRU ,2022.0,0.62,Insufficient,6.26,Optimal,3.04,Suboptimal,-4.93,Suboptimal,-2.62,Very Low,-1.24,Bankruptcy Zone,Bad
+VID ALEXANDRU ,2021.0,0.62,Insufficient,16.88,Exceptional,12.81,Exceptional,-20.59,Suboptimal,-2.61,Very Low,-0.67,Bankruptcy Zone,Moderate
+VID ALEXANDRU ,2020.0,0.59,Insufficient,7.91,Optimal,4.98,Suboptimal,-7.2,Suboptimal,-2.45,Very Low,-1.25,Bankruptcy Zone,Bad
+VID ALEXANDRU ,2019.0,0.52,Insufficient,-17.17,Loss-Making,-11.94,Unprofitable,12.86,Optimal,-2.08,Very Low,-2.4,Bankruptcy Zone,Bad
+VID ALEXANDRU ,2018.0,0.57,Insufficient,-33.17,Loss-Making,-11.66,Unprofitable,15.37,Optimal,-2.32,Very Low,-2.26,Bankruptcy Zone,Bad
+VID ALEXANDRU ,2017.0,0.61,Insufficient,-41.2,Loss-Making,-10.89,Unprofitable,17.05,Optimal,-2.57,Very Low,-1.99,Bankruptcy Zone,Bad
+VID ALEXANDRU ,2016.0,0.66,Insufficient,-54.9,Loss-Making,-10.65,Unprofitable,20.93,Exceptional,-2.97,Very Low,-1.68,Bankruptcy Zone,Bad
+VID ALEXANDRU ,2015.0,0.74,Insufficient,-14.77,Loss-Making,-3.02,Unprofitable,8.8,Suboptimal,-3.91,Very Low,-0.94,Bankruptcy Zone,Bad
+VID ALEXANDRU ,2014.0,0.78,Insufficient,-28.95,Loss-Making,-8.49,Unprofitable,29.25,Exceptional,-4.45,Very Low,-0.88,Bankruptcy Zone,Bad
+VID ALEXANDRU ,2013.0,0.84,Insufficient,-15.26,Loss-Making,-7.87,Unprofitable,40.06,Exceptional,-6.09,Very Low,-0.35,Bankruptcy Zone,Bad
+37516680,2023.0,0.09,Insufficient,-523.71,Loss-Making,-215.54,Unprofitable,21.09,Exceptional,-1.1,Very Low,-33.81,Bankruptcy Zone,Bad
+37516680,2022.0,0.11,Insufficient,-106.65,Loss-Making,-147.37,Unprofitable,18.8,Exceptional,-1.13,Very Low,-24.39,Bankruptcy Zone,Bad
+37516680,2021.0,0.06,Insufficient,-69.12,Loss-Making,-221.43,Unprofitable,13.94,Optimal,-1.06,Very Low,-45.97,Bankruptcy Zone,Bad
+37516680,2020.0,0.26,Insufficient,-102.22,Loss-Making,-48.69,Unprofitable,23.64,Exceptional,-1.49,Very Low,-7.13,Bankruptcy Zone,Bad
+37516680,2019.0,0.08,Insufficient,-1941.5,Loss-Making,-86.66,Unprofitable,48.97,Exceptional,-1.57,Very Low,-8.73,Bankruptcy Zone,Bad
+37516680,2018.0,0.21,Insufficient,-18.29,Loss-Making,-23.53,Unprofitable,50.17,Exceptional,-3.13,Very Low,-1.72,Bankruptcy Zone,Bad
+37516680,2017.0,0.36,Insufficient,-35.18,Loss-Making,-14.3,Unprofitable,100.93,Exceptional,-8.06,Very Low,-1.21,Bankruptcy Zone,Bad
+Tupet International,2023.0,0.75,Insufficient,14.6,Exceptional,46.37,Exceptional,-181.93,Suboptimal,-4.92,Very Low,3.85,Safe Zone,Moderate
+Tupet International,2022.0,0.53,Insufficient,9.59,Optimal,29.9,Exceptional,-42.42,Suboptimal,-2.42,Very Low,1.9,Grey Zone,Moderate
+Tupet International,2021.0,0.32,Insufficient,-0.8,Loss-Making,-3.57,Unprofitable,2.58,Suboptimal,-1.72,Very Low,0.09,Bankruptcy Zone,Bad
+Tupet International,2020.0,0.22,Insufficient,-5.41,Loss-Making,-11.91,Unprofitable,10.79,Optimal,-1.91,Very Low,-2.03,Bankruptcy Zone,Bad
+Tupet International,2019.0,0.32,Insufficient,1.21,Suboptimal,2.0,Suboptimal,-3.38,Suboptimal,-2.69,Very Low,-0.62,Bankruptcy Zone,Bad
+Tupet International,2018.0,0.35,Insufficient,72.05,Exceptional,2.17,Suboptimal,-3.56,Suboptimal,-2.64,Very Low,-2.23,Bankruptcy Zone,Moderate
+Tupet International,2017.0,0.39,Insufficient,-11.57,Loss-Making,-26.84,Unprofitable,59.35,Exceptional,-3.26,Very Low,-0.47,Bankruptcy Zone,Bad
+Tupet International,2016.0,0.28,Insufficient,-22.02,Loss-Making,-20.03,Unprofitable,100.36,Exceptional,-6.12,Very Low,-1.19,Bankruptcy Zone,Bad
+Ro 40724177,2023.0,0.73,Insufficient,-1.34,Loss-Making,-1.96,Unprofitable,-3.82,Suboptimal,1.97,Optimal,0.31,Bankruptcy Zone,Bad
+Ro 40724177,2022.0,0.79,Insufficient,9.79,Optimal,12.44,Exceptional,24.91,Exceptional,1.99,Optimal,1.6,Grey Zone,Good
+Ro 40724177,2021.0,1.39,Optimal,25.06,Exceptional,20.79,Exceptional,63.79,Exceptional,2.13,High,4.75,Safe Zone,Good
+Ro 40724177,2020.0,1.21,Optimal,24.79,Exceptional,20.5,Exceptional,97.2,Exceptional,3.9,High,3.49,Safe Zone,Good
+Ro 40724177,2019.0,0.92,Insufficient,0.78,Suboptimal,1.15,Suboptimal,66.2,Exceptional,62.26,High,-0.39,Bankruptcy Zone,Bad
+LibO Trans Vasi SRL,2023.0,0.23,Insufficient,-10563.67,Loss-Making,-76.43,Unprofitable,-228.44,Suboptimal,1.99,High,-2.36,Bankruptcy Zone,Bad
+LibO Trans Vasi SRL,2022.0,0.84,Insufficient,1.2,Suboptimal,2.12,Suboptimal,4.41,Suboptimal,1.12,Optimal,2.94,Grey Zone,Bad
+LibO Trans Vasi SRL,2021.0,0.6,Insufficient,-18.61,Loss-Making,-21.73,Unprofitable,-55.76,Suboptimal,1.61,High,1.07,Bankruptcy Zone,Bad
+LibO Trans Vasi SRL,2020.0,0.75,Insufficient,67.84,Exceptional,43.66,Exceptional,98.46,Exceptional,1.28,Optimal,3.0,Safe Zone,Good
+LibO Trans Vasi SRL,2019.0,0.1,N/A,,N/A,0.68,N/A,76.7,N/A,113.77,N/A,-1.04,Bankruptcy Zone,Unknown
+Danmar Express Transporte,2022.0,0.72,Insufficient,-0.66,Loss-Making,-1.4,Unprofitable,16.74,Exceptional,-12.99,Very Low,1.53,Bankruptcy Zone,Bad
+Danmar Express Transporte,2021.0,0.6,N/A,,N/A,-0.21,N/A,-163.16,N/A,852.96,N/A,-0.52,Bankruptcy Zone,Unknown
+RO41270796,2023.0,3.84,Excessive,62.58,Exceptional,58.94,Exceptional,74.2,Exceptional,0.26,Very Low,7.02,Safe Zone,Good
+RO41270796,2022.0,0.66,Insufficient,73.57,Exceptional,151.21,Exceptional,385.66,Exceptional,1.55,Optimal,7.73,Safe Zone,Good
+RO41270796,2021.0,19.03,Excessive,87.16,Exceptional,267.18,Exceptional,282.0,Exceptional,0.06,Very Low,25.16,Safe Zone,Good
+RO41270796,2020.0,36.48,N/A,,N/A,-58.1,N/A,-59.74,N/A,0.03,N/A,21.9,Safe Zone,Unknown
+RO41270796,2019.0,368.98,N/A,,N/A,-6.21,N/A,-6.23,N/A,0.0,N/A,223.18,Safe Zone,Unknown
+RO41270796,2018.0,7.28,Excessive,94.84,Exceptional,139.15,Exceptional,161.32,Exceptional,0.16,Very Low,12.07,Safe Zone,Good
+RO41270796,2017.0,0.41,Insufficient,25.5,Exceptional,15.07,Exceptional,98.77,Exceptional,5.55,High,0.81,Bankruptcy Zone,Moderate
+RO41270796,2016.0,0.22,Insufficient,28.94,Exceptional,16.83,Exceptional,8523.33,Exceptional,505.45,High,0.21,Bankruptcy Zone,Moderate
+RO41270796,2015.0,-0.88,Insufficient,2.52,Suboptimal,1.29,Suboptimal,1.03,Suboptimal,-0.2,Very Low,-0.12,Bankruptcy Zone,Bad
+RO41270796,2014.0,-1.46,Insufficient,53.69,Exceptional,47.17,Exceptional,40.89,Exceptional,-0.13,Very Low,-0.0,Bankruptcy Zone,Good
+RO41270796,2013.0,0.73,Insufficient,36.26,Exceptional,18.41,Exceptional,37.93,Exceptional,1.06,Optimal,2.19,Grey Zone,Good
+Ferner Solution,2023.0,0.96,Insufficient,57.45,Exceptional,39.72,Exceptional,94.83,Exceptional,1.39,Optimal,3.0,Safe Zone,Good
+Ferner Solution,2022.0,0.21,Insufficient,6.21,Optimal,2.16,Suboptimal,57.89,Exceptional,25.8,High,-0.42,Bankruptcy Zone,Moderate
+Ferner Solution,2021.0,1.45,Insufficient,6.48,Optimal,8.79,Optimal,28.14,Exceptional,2.2,High,2.73,Grey Zone,Moderate
+Ferner Solution,2020.0,1.67,Optimal,14.64,Exceptional,31.52,Exceptional,78.64,Exceptional,1.49,Optimal,4.64,Safe Zone,Good
+Ro30441742,2023.0,0.63,Insufficient,6.4,Optimal,13.7,Exceptional,90.65,Exceptional,6.2,High,2.49,Grey Zone,Moderate
+Ro30441742,2022.0,0.55,Insufficient,0.96,Suboptimal,2.7,Suboptimal,51.38,Exceptional,18.02,High,2.5,Grey Zone,Bad
+Ro30441742,2021.0,0.39,Insufficient,0.76,Suboptimal,1.23,Suboptimal,54.48,Exceptional,43.37,High,0.98,Bankruptcy Zone,Bad
+Ro30441742,2020.0,0.68,Insufficient,-19.14,Loss-Making,-38.23,Unprofitable,-2109.99,Suboptimal,54.19,High,0.4,Bankruptcy Zone,Bad
+Ro30441742,2019.0,1.55,Excessive,6.99,Optimal,26.25,Exceptional,63.79,Exceptional,1.43,Optimal,6.01,Safe Zone,Good
+Ro30441742,2018.0,1.07,Optimal,-6.01,Loss-Making,-18.89,Unprofitable,-123.51,Suboptimal,5.54,High,2.91,Grey Zone,Bad
+Ro30441742,2017.0,1.07,Optimal,6.76,Optimal,25.7,Exceptional,65.21,Exceptional,1.54,Optimal,5.64,Safe Zone,Good
+Ro30441742,2016.0,0.74,Insufficient,6.2,Optimal,15.37,Exceptional,215.72,Exceptional,13.04,High,2.84,Grey Zone,Moderate
+Ro30441742,2015.0,0.29,Insufficient,-10.52,Loss-Making,-17.03,Unprofitable,157.9,Exceptional,-10.27,Very Low,-0.09,Bankruptcy Zone,Bad
+Ro30441742,2014.0,0.73,Insufficient,9.54,Optimal,28.17,Exceptional,272.57,Exceptional,8.68,High,3.81,Safe Zone,Moderate
+Ro30441742,2013.0,0.51,Insufficient,-1.81,Loss-Making,-2.85,Unprofitable,21.06,Exceptional,-8.39,Very Low,0.55,Bankruptcy Zone,Bad
+RO43582565,2023.0,9.57,Excessive,5.22,Optimal,8.92,Exceptional,9.96,Optimal,0.12,Very Low,18.39,Safe Zone,Moderate
+RO43582565,2022.0,21.29,Excessive,31.46,Exceptional,48.46,Exceptional,50.85,Exceptional,0.05,Very Low,33.92,Safe Zone,Good
+RO43582565,2021.0,19.08,Excessive,36.36,Exceptional,36.84,Exceptional,38.88,Exceptional,0.06,Very Low,30.77,Safe Zone,Good
+RO43582565,2020.0,10.79,Excessive,55.38,Exceptional,67.76,Exceptional,74.68,Exceptional,0.1,Very Low,23.74,Safe Zone,Good
+RO43582565,2019.0,2.46,Excessive,38.6,Exceptional,57.14,Exceptional,96.19,Exceptional,0.68,Very Low,11.21,Safe Zone,Good
+RO43582565,2018.0,1.16,Optimal,39.84,Exceptional,60.5,Exceptional,432.68,Exceptional,6.15,High,5.61,Safe Zone,Good
+RO43582565,2017.0,0.65,Insufficient,15.44,Exceptional,29.56,Exceptional,-55.15,Suboptimal,-2.87,Very Low,-3.64,Bankruptcy Zone,Moderate
+RO43582565,2016.0,0.58,Insufficient,38.08,Exceptional,83.51,Exceptional,-113.52,Suboptimal,-2.36,Very Low,-2.06,Bankruptcy Zone,Moderate
+RO43582565,2015.0,0.36,Insufficient,-68.74,Loss-Making,-181.5,Unprofitable,101.54,Exceptional,-1.56,Very Low,-30.45,Bankruptcy Zone,Bad
+RO43582565,2014.0,0.17,Insufficient,9.46,Optimal,6.62,Optimal,89.98,Exceptional,12.59,High,-4.28,Bankruptcy Zone,Moderate
+RO43582565,2013.0,0.17,Insufficient,21.59,Exceptional,13.48,Exceptional,95.41,Exceptional,6.08,High,-3.11,Bankruptcy Zone,Moderate
+DOM DI GLOBAL TRANS SRL ,2023.0,1.0,Insufficient,8.38,Optimal,20.95,Exceptional,-56137.08,Suboptimal,-2679.96,Very Low,3.19,Safe Zone,Moderate
+DOM DI GLOBAL TRANS SRL ,2022.0,0.36,Insufficient,-24.48,Loss-Making,-61.67,Unprofitable,35.21,Exceptional,-1.57,Very Low,-4.45,Bankruptcy Zone,Bad
+DOM DI GLOBAL TRANS SRL ,2021.0,0.03,Insufficient,-1334.55,Loss-Making,-232.92,Unprofitable,101.23,Exceptional,-1.43,Very Low,-15.0,Bankruptcy Zone,Bad
+DANTRANSLOGISTIC SRL,2023.0,1.31,Optimal,6.75,Optimal,16.37,Exceptional,49.37,Exceptional,2.02,High,3.97,Safe Zone,Good
+DANTRANSLOGISTIC SRL,2022.0,1.02,Optimal,7.07,Optimal,17.25,Exceptional,80.71,Exceptional,3.68,High,3.49,Safe Zone,Good
+DANTRANSLOGISTIC SRL,2021.0,1.14,Optimal,12.67,Exceptional,22.1,Exceptional,81.23,Exceptional,2.68,High,3.2,Safe Zone,Good
+DANTRANSLOGISTIC SRL,2020.0,1.32,Optimal,2.85,Suboptimal,3.28,Optimal,15.84,Exceptional,3.08,High,1.99,Grey Zone,Moderate
+DANTRANSLOGISTIC SRL,2019.0,0.94,Insufficient,0.06,Suboptimal,0.1,Suboptimal,0.37,Suboptimal,2.94,High,2.13,Grey Zone,Bad
+DANTRANSLOGISTIC SRL,2018.0,0.84,Insufficient,3.05,Suboptimal,6.58,Optimal,27.85,Exceptional,3.23,High,2.74,Grey Zone,Moderate
+DANTRANSLOGISTIC SRL,2017.0,0.83,Insufficient,5.96,Optimal,13.89,Exceptional,58.39,Exceptional,3.21,High,3.15,Safe Zone,Moderate
+DANTRANSLOGISTIC SRL,2016.0,0.79,Insufficient,7.09,Optimal,12.19,Exceptional,76.99,Exceptional,5.31,High,2.24,Grey Zone,Moderate
+DANTRANSLOGISTIC SRL,2015.0,0.69,Insufficient,3.79,Suboptimal,5.71,Optimal,74.6,Exceptional,12.07,High,1.51,Bankruptcy Zone,Moderate
+DANTRANSLOGISTIC SRL,2014.0,0.47,Insufficient,1.02,Suboptimal,2.49,Suboptimal,43.95,Exceptional,17.14,High,2.03,Grey Zone,Bad
+DANTRANSLOGISTIC SRL,2013.0,0.89,Insufficient,1.73,Suboptimal,4.17,Optimal,76.55,Exceptional,17.38,High,2.53,Grey Zone,Moderate
+RO46398568,2023.0,0.15,Insufficient,1.01,Suboptimal,1.3,Suboptimal,-5.71,Suboptimal,-5.39,Very Low,-7.73,Bankruptcy Zone,Bad
+RO46398568,2022.0,0.09,Insufficient,-391.04,Loss-Making,-19.48,Unprofitable,100.27,Exceptional,-6.15,Very Low,-9.22,Bankruptcy Zone,Bad
+Yolo Bloom. SRL,2023.0,1.32,Optimal,0.19,Suboptimal,0.13,Suboptimal,0.54,Suboptimal,3.12,High,1.53,Bankruptcy Zone,Bad
+Yolo Bloom. SRL,2022.0,1.36,Optimal,34.52,Exceptional,9.14,Suboptimal,34.67,Exceptional,2.79,High,1.47,Bankruptcy Zone,Moderate
+Yolo Bloom. SRL,2021.0,1.03,Optimal,104.54,Exceptional,18.33,Optimal,100.0,Exceptional,5.29,High,1.19,Bankruptcy Zone,Good
+Ro47824998,2023.0,33.89,Excessive,0.46,Suboptimal,0.16,Suboptimal,0.17,Suboptimal,0.03,Very Low,22.62,Safe Zone,Bad
+Ro47824998,2022.0,25.0,Excessive,58.28,Exceptional,25.4,Exceptional,26.45,Exceptional,0.04,Very Low,18.17,Safe Zone,Good
+Ro47824998,2021.0,19.19,Excessive,67.92,Exceptional,36.98,Exceptional,39.01,Exceptional,0.05,Very Low,15.15,Safe Zone,Good
+Ro47824998,2020.0,16.03,Excessive,71.08,Exceptional,48.92,Exceptional,52.15,Exceptional,0.07,Very Low,13.82,Safe Zone,Good
+Ro47824998,2019.0,12.95,Excessive,45.65,Exceptional,52.99,Exceptional,57.35,Exceptional,0.08,Very Low,12.57,Safe Zone,Good
+Ro47824998,2018.0,5.99,Excessive,47.48,Exceptional,65.36,Exceptional,78.24,Exceptional,0.2,Very Low,8.73,Safe Zone,Good
+Ro47824998,2017.0,2.57,Excessive,13.9,Exceptional,36.03,Exceptional,55.87,Exceptional,0.55,Very Low,6.44,Safe Zone,Good
+Ro47824998,2016.0,1.73,Excessive,26.72,Exceptional,63.62,Exceptional,113.07,Exceptional,0.78,Very Low,6.42,Safe Zone,Good
+Ro47824998,2015.0,0.23,N/A,,N/A,0.0,N/A,-0.0,N/A,-1.29,N/A,-9.33,Bankruptcy Zone,Unknown
+Ro47824998,2014.0,0.23,N/A,,N/A,0.0,N/A,-0.0,N/A,-1.29,N/A,-9.33,Bankruptcy Zone,Unknown
+Ro47824998,2013.0,0.23,N/A,,N/A,0.0,N/A,-0.0,N/A,-1.29,N/A,-9.33,Bankruptcy Zone,Unknown
+36264445,2023.0,250.27,Excessive,0.84,Suboptimal,0.8,Suboptimal,0.8,Suboptimal,0.0,Very Low,292.17,Safe Zone,Bad
+36264445,2022.0,74.94,Excessive,26.83,Optimal,26.16,Exceptional,26.44,Exceptional,0.01,Very Low,107.73,Safe Zone,Good
+36264445,2021.0,97.96,Excessive,10.23,Suboptimal,7.56,Suboptimal,7.62,Suboptimal,0.01,Very Low,140.59,Safe Zone,Bad
+36264445,2020.0,73.5,Excessive,34.55,Exceptional,24.45,Exceptional,24.67,Optimal,0.01,Very Low,124.48,Safe Zone,Good
+36264445,2019.0,28.38,Excessive,46.22,Exceptional,44.01,Exceptional,45.59,Exceptional,0.04,Very Low,41.56,Safe Zone,Good
+36264445,2018.0,19.71,Excessive,24.56,Optimal,38.07,Exceptional,40.1,Exceptional,0.05,Very Low,31.53,Safe Zone,Good
+36264445,2017.0,4.5,Excessive,-6.86,Loss-Making,-21.82,Unprofitable,-28.06,Suboptimal,0.29,Very Low,9.85,Safe Zone,Bad
+36264445,2016.0,14.05,Excessive,42.7,Exceptional,92.5,Exceptional,99.59,Exceptional,0.08,Very Low,29.04,Safe Zone,Good
+43108384,2023.0,0.3,Insufficient,-16.94,Loss-Making,-21.72,Unprofitable,621.39,Exceptional,-29.61,Very Low,-0.38,Bankruptcy Zone,Bad
+43108384,2022.0,0.4,Insufficient,20.41,Exceptional,22.31,Exceptional,84.21,Exceptional,2.77,High,1.89,Grey Zone,Moderate
+43108384,2021.0,0.42,Insufficient,5.52,Optimal,10.27,Exceptional,85.34,Exceptional,7.31,High,1.84,Grey Zone,Moderate
+43108384,2020.0,1.12,Optimal,11.71,Exceptional,10.24,Exceptional,91.26,Exceptional,7.91,High,1.57,Bankruptcy Zone,Good
+35733632,2023.0,0.65,Insufficient,-16.36,Loss-Making,-40.18,Unprofitable,127.86,Exceptional,-4.18,Very Low,-0.01,Bankruptcy Zone,Bad
+35733632,2022.0,0.88,Insufficient,-11.24,Loss-Making,-31.89,Unprofitable,-441.31,Suboptimal,12.84,High,1.8,Bankruptcy Zone,Bad
+35733632,2021.0,1.69,Excessive,13.36,Exceptional,48.16,Exceptional,83.69,Exceptional,0.74,Very Low,7.17,Safe Zone,Good
+35733632,2020.0,6.08,Excessive,2.35,Suboptimal,10.44,Exceptional,11.66,Optimal,0.12,Very Low,11.81,Safe Zone,Moderate
+35733632,2019.0,1.33,Optimal,14.79,Exceptional,40.15,Exceptional,98.57,Exceptional,1.46,Optimal,5.25,Safe Zone,Good
+35733632,2018.0,12.75,Excessive,38.09,Exceptional,93.26,Exceptional,99.47,Exceptional,0.07,Very Low,16.72,Safe Zone,Good
+35733632,2017.0,10.97,Excessive,43.89,Exceptional,93.25,Exceptional,99.21,Exceptional,0.06,Very Low,16.62,Safe Zone,Good
+35733632,2016.0,10.56,Excessive,35.56,Exceptional,88.79,Exceptional,98.08,Exceptional,0.1,Very Low,13.52,Safe Zone,Good
+Felipe Spedition,2023.0,1.07,Optimal,0.8,Suboptimal,2.79,Suboptimal,41.47,Exceptional,13.89,High,3.81,Safe Zone,Moderate
+Felipe Spedition,2022.0,1.01,Optimal,0.36,Suboptimal,0.99,Suboptimal,24.58,Exceptional,24.59,High,2.86,Grey Zone,Moderate
+Felipe Spedition,2021.0,1.22,Optimal,3.22,Suboptimal,9.19,Exceptional,51.3,Exceptional,4.58,High,3.76,Safe Zone,Moderate
+Felipe Spedition,2020.0,1.19,Optimal,1.54,Suboptimal,5.1,Optimal,31.97,Exceptional,5.28,High,4.01,Safe Zone,Moderate
+Felipe Spedition,2019.0,1.1,Optimal,0.93,Suboptimal,2.52,Suboptimal,28.51,Exceptional,10.34,High,3.06,Safe Zone,Moderate
+Felipe Spedition,2018.0,1.12,Optimal,1.28,Suboptimal,5.16,Optimal,49.29,Exceptional,8.56,High,4.54,Safe Zone,Moderate
+Felipe Spedition,2017.0,1.05,Optimal,0.81,Suboptimal,3.96,Optimal,83.41,Exceptional,20.1,High,5.14,Safe Zone,Moderate
+Felipe Spedition,2016.0,1.0,Optimal,0.27,Suboptimal,0.23,Suboptimal,97.19,Exceptional,426.44,High,0.84,Bankruptcy Zone,Moderate
+Lumi Pack SRL,2023.0,0.62,Insufficient,-39.23,Loss-Making,-0.85,Unprofitable,15.76,Optimal,-20.02,Very Low,-0.6,Bankruptcy Zone,Bad
+Lumi Pack SRL,2022.0,0.62,Insufficient,-67.41,Loss-Making,-0.96,Unprofitable,21.1,Exceptional,-23.45,Very Low,-0.59,Bankruptcy Zone,Bad
+Lumi Pack SRL,2021.0,0.64,Insufficient,35.11,Exceptional,2.06,Suboptimal,-57.11,Suboptimal,-29.23,Very Low,-0.41,Bankruptcy Zone,Moderate
+Lumi Pack SRL,2020.0,0.64,Insufficient,-153.03,Loss-Making,-1.23,Unprofitable,20.32,Exceptional,-17.9,Very Low,-0.61,Bankruptcy Zone,Bad
+Lumi Pack SRL,2019.0,0.67,Insufficient,-13.68,Loss-Making,-0.55,Unprofitable,10.48,Optimal,-20.55,Very Low,-0.51,Bankruptcy Zone,Bad
+Lumi Pack SRL,2018.0,0.69,Insufficient,-77.11,Loss-Making,-1.29,Unprofitable,31.04,Exceptional,-25.59,Very Low,-0.51,Bankruptcy Zone,Bad
+Lumi Pack SRL,2017.0,0.72,Insufficient,-33.34,Loss-Making,-0.2,Unprofitable,6.62,Suboptimal,-34.97,Very Low,-0.41,Bankruptcy Zone,Bad
+Lumi Pack SRL,2016.0,0.74,Insufficient,52.05,Exceptional,0.29,Suboptimal,-9.99,Suboptimal,-35.88,Very Low,-0.38,Bankruptcy Zone,Moderate
+Lumi Pack SRL,2015.0,0.73,Insufficient,-488.89,Loss-Making,-7.89,Unprofitable,242.32,Exceptional,-32.44,Very Low,-0.65,Bankruptcy Zone,Bad
+Lumi Pack SRL,2014.0,1.76,Optimal,66.32,Exceptional,46.84,Exceptional,101.59,Exceptional,1.18,Optimal,3.9,Safe Zone,Good
+Lumi Pack SRL,2013.0,0.77,Insufficient,-280.02,Loss-Making,-4.14,Unprofitable,146.31,Exceptional,-37.44,Very Low,-0.47,Bankruptcy Zone,Bad
+Intercom Vest,2023.0,3.01,Excessive,22.46,Exceptional,2.39,Suboptimal,2.53,Suboptimal,0.08,Very Low,18.14,Safe Zone,Moderate
+Intercom Vest,2022.0,2.7,Excessive,-56.3,Loss-Making,-2.0,Unprofitable,-2.08,Suboptimal,0.06,Very Low,22.35,Safe Zone,Bad
+Intercom Vest,2021.0,1.75,Optimal,17.77,Exceptional,0.22,Suboptimal,0.24,Suboptimal,0.11,Very Low,12.65,Safe Zone,Moderate
+Intercom Vest,2020.0,3.09,Excessive,56.4,Exceptional,6.22,Optimal,6.68,Suboptimal,0.07,Very Low,18.41,Safe Zone,Moderate
+Intercom Vest,2019.0,3.3,Excessive,61.48,Exceptional,9.16,Optimal,9.78,Suboptimal,0.07,Very Low,20.22,Safe Zone,Moderate
+Intercom Vest,2018.0,6.35,Excessive,70.21,Exceptional,11.01,Exceptional,11.48,Optimal,0.04,Very Low,29.97,Safe Zone,Good
+Intercom Vest,2017.0,2.76,Excessive,40.34,Exceptional,6.32,Optimal,6.67,Suboptimal,0.06,Very Low,22.97,Safe Zone,Moderate
+Intercom Vest,2016.0,0.85,Insufficient,27.32,Exceptional,3.88,Suboptimal,4.1,Suboptimal,0.06,Very Low,21.91,Safe Zone,Moderate
+Intercom Vest,2015.0,5.76,Excessive,-74.22,Loss-Making,-4.04,Unprofitable,-4.19,Suboptimal,0.04,Very Low,32.31,Safe Zone,Bad
+Intercom Vest,2014.0,14.2,Excessive,41.23,Exceptional,9.25,Optimal,9.4,Suboptimal,0.02,Very Low,71.32,Safe Zone,Moderate
+Intercom Vest,2013.0,4.16,Excessive,11.03,Exceptional,3.0,Suboptimal,3.12,Suboptimal,0.04,Very Low,30.19,Safe Zone,Moderate
+Grams Tour,2023.0,0.38,Insufficient,2.17,Suboptimal,2.16,Suboptimal,10.18,Optimal,3.88,High,0.91,Bankruptcy Zone,Bad
+Grams Tour,2022.0,1.06,Optimal,7.2,Optimal,15.69,Exceptional,40.79,Exceptional,1.6,Optimal,3.66,Safe Zone,Good
+Grams Tour,2021.0,0.93,Insufficient,4.42,Suboptimal,9.54,Exceptional,26.24,Exceptional,1.75,Optimal,3.27,Safe Zone,Moderate
+Grams Tour,2020.0,1.45,Optimal,5.24,Optimal,15.75,Exceptional,45.82,Exceptional,1.91,Optimal,4.67,Safe Zone,Good
+Grams Tour,2019.0,1.11,Optimal,0.93,Suboptimal,2.82,Suboptimal,14.18,Optimal,4.03,High,3.65,Safe Zone,Moderate
+Grams Tour,2018.0,0.97,Insufficient,0.52,Suboptimal,0.91,Suboptimal,5.15,Suboptimal,4.68,High,2.11,Grey Zone,Bad
+Grams Tour,2017.0,1.0,Optimal,4.66,Suboptimal,10.05,Exceptional,39.96,Exceptional,2.98,High,3.04,Safe Zone,Moderate
+Grams Tour,2016.0,0.56,Insufficient,0.01,Suboptimal,0.02,Suboptimal,0.12,Suboptimal,6.73,High,2.01,Grey Zone,Bad
+Grams Tour,2015.0,0.96,Insufficient,2.4,Suboptimal,8.19,Exceptional,37.6,Exceptional,3.59,High,4.12,Safe Zone,Moderate
+Grams Tour,2014.0,0.95,Insufficient,0.38,Suboptimal,2.12,Suboptimal,10.63,Optimal,4.0,High,6.05,Safe Zone,Bad
+Grams Tour,2013.0,0.82,Insufficient,0.55,Suboptimal,3.41,Optimal,24.2,Exceptional,6.1,High,6.48,Safe Zone,Moderate
+Gavadi Trans,2023.0,0.5,Insufficient,2.49,Suboptimal,3.8,Optimal,65.86,Exceptional,16.33,High,1.21,Bankruptcy Zone,Moderate
+Gavadi Trans,2022.0,0.51,Insufficient,5.25,Optimal,10.18,Exceptional,482.63,Exceptional,46.4,High,1.75,Bankruptcy Zone,Moderate
+Gavadi Trans,2021.0,0.41,Insufficient,-3.55,Loss-Making,-6.62,Unprofitable,-441.92,Suboptimal,65.74,High,0.97,Bankruptcy Zone,Bad
+Gavadi Trans,2020.0,0.65,Insufficient,6.64,Optimal,15.74,Exceptional,144.32,Exceptional,8.17,High,2.74,Grey Zone,Moderate
+Gavadi Trans,2019.0,0.51,Insufficient,5.28,Optimal,12.96,Exceptional,-249.86,Suboptimal,-20.28,Very Low,2.16,Grey Zone,Moderate
+Gavadi Trans,2018.0,0.51,Insufficient,-1.78,Loss-Making,-3.81,Unprofitable,21.73,Exceptional,-6.71,Very Low,0.99,Bankruptcy Zone,Bad
+Gavadi Trans,2017.0,0.36,Insufficient,-4.76,Loss-Making,-10.74,Unprofitable,70.93,Exceptional,-7.61,Very Low,0.73,Bankruptcy Zone,Bad
+Gavadi Trans,2016.0,0.41,Insufficient,1.45,Suboptimal,2.41,Suboptimal,-57.8,Suboptimal,-24.93,Very Low,0.93,Bankruptcy Zone,Bad
+Gavadi Trans,2015.0,0.72,Insufficient,7.63,Optimal,34.98,Exceptional,-217.79,Suboptimal,-7.23,Very Low,5.04,Safe Zone,Moderate
+Gavadi Trans,2014.0,0.53,Insufficient,0.35,Suboptimal,1.21,Suboptimal,-2.88,Suboptimal,-3.37,Very Low,1.95,Grey Zone,Bad
+Gavadi Trans,2013.0,0.37,Insufficient,0.2,Suboptimal,0.51,Suboptimal,-1.01,Suboptimal,-3.0,Very Low,0.56,Bankruptcy Zone,Bad
+GABYDYA TRANS SRL,2023.0,1.11,Optimal,17.23,Exceptional,25.27,Exceptional,77.76,Exceptional,2.08,High,3.13,Safe Zone,Good
+GABYDYA TRANS SRL,2022.0,0.89,Insufficient,1.59,Suboptimal,3.32,Optimal,21.28,Exceptional,5.4,High,2.42,Grey Zone,Moderate
+GABYDYA TRANS SRL,2021.0,0.81,Insufficient,-2.58,Loss-Making,-4.36,Unprofitable,-36.34,Suboptimal,7.33,High,1.59,Bankruptcy Zone,Bad
+GABYDYA TRANS SRL,2020.0,0.82,Insufficient,4.73,Suboptimal,4.91,Optimal,41.1,Exceptional,7.37,High,1.26,Bankruptcy Zone,Moderate
+GABYDYA TRANS SRL,2019.0,0.69,Insufficient,-7.25,Loss-Making,-9.65,Unprofitable,-126.17,Suboptimal,12.08,High,0.83,Bankruptcy Zone,Bad
+GABYDYA TRANS SRL,2018.0,1.19,Optimal,7.3,Optimal,11.52,Exceptional,46.3,Exceptional,3.02,High,2.68,Grey Zone,Good
+GABYDYA TRANS SRL,2017.0,1.37,Optimal,18.55,Exceptional,46.45,Exceptional,99.5,Exceptional,1.14,Optimal,5.45,Safe Zone,Good
+Notilacris srl,23.0,2.27,Excessive,10.73,Exceptional,54.84,Exceptional,97.85,Exceptional,0.78,Very Low,9.14,Safe Zone,Good
+Notilacris srl,2022.0,6.38,Excessive,37.45,Exceptional,83.75,Exceptional,99.32,Exceptional,0.19,Very Low,10.42,Safe Zone,Good
+Notilacris srl,2021.0,3.43,Excessive,24.29,Exceptional,49.58,Exceptional,69.99,Exceptional,0.41,Very Low,6.98,Safe Zone,Good
+Notilacris srl,2020.0,2.3,Excessive,32.58,Exceptional,46.7,Exceptional,82.63,Exceptional,0.77,Very Low,5.22,Safe Zone,Good
+Notilacris srl,2019.0,7.71,Excessive,24.55,Exceptional,53.94,Exceptional,61.97,Exceptional,0.15,Very Low,10.27,Safe Zone,Good
+Notilacris srl,2018.0,8.34,Excessive,40.12,Exceptional,87.43,Exceptional,99.34,Exceptional,0.14,Very Low,11.76,Safe Zone,Good
+Notilacris srl,2017.0,7.39,Excessive,33.28,Exceptional,85.64,Exceptional,99.03,Exceptional,0.16,Very Low,11.48,Safe Zone,Good
+Notilacris srl,2016.0,4.92,Excessive,22.04,Exceptional,78.46,Exceptional,98.47,Exceptional,0.26,Very Low,10.57,Safe Zone,Good
+Notilacris srl,2015.0,79.02,Excessive,41.28,Exceptional,13.79,Exceptional,13.97,Optimal,0.01,Very Low,50.17,Safe Zone,Good
+Notilacris srl,2014.0,55.58,Excessive,29.83,Exceptional,10.59,Exceptional,10.78,Optimal,0.02,Very Low,36.01,Safe Zone,Good
+Notilacris srl,2013.0,67.79,Excessive,25.14,Exceptional,10.07,Exceptional,10.22,Optimal,0.01,Very Low,43.37,Safe Zone,Good
+RO39188180 ,2022.0,1.07,Optimal,0.79,Suboptimal,1.23,Suboptimal,4.44,Suboptimal,2.61,High,2.28,Grey Zone,Bad
+RO39188180 ,2021.0,0.83,Insufficient,5.95,Optimal,11.82,Exceptional,44.39,Exceptional,2.75,High,2.82,Grey Zone,Moderate
+RO39188180 ,2020.0,0.59,Insufficient,4.04,Suboptimal,6.24,Optimal,33.19,Exceptional,4.32,High,1.75,Bankruptcy Zone,Moderate
+RO39188180 ,2019.0,0.42,Insufficient,8.23,Optimal,14.69,Exceptional,77.97,Exceptional,4.31,High,2.11,Grey Zone,Moderate
+RO39188180 ,2018.0,0.24,Insufficient,6.56,Optimal,4.9,Optimal,98.12,Exceptional,19.01,High,0.14,Bankruptcy Zone,Moderate
+RO39619526 ,2022.0,0.22,Insufficient,-11.72,Loss-Making,-16.01,Unprofitable,4.72,Suboptimal,-1.3,Very Low,-8.5,Bankruptcy Zone,Bad
+RO39619526 ,2021.0,0.1,Insufficient,-150.62,Loss-Making,-127.2,Unprofitable,29.83,Exceptional,-1.23,Very Low,-15.51,Bankruptcy Zone,Bad
+RO39619526 ,2020.0,0.12,Insufficient,-128.99,Loss-Making,-62.75,Unprofitable,37.38,Exceptional,-1.6,Very Low,-7.14,Bankruptcy Zone,Bad
+RO39619526 ,2019.0,0.13,Insufficient,-93.54,Loss-Making,-58.93,Unprofitable,76.59,Exceptional,-2.3,Very Low,-4.49,Bankruptcy Zone,Bad
+RO39619526 ,2018.0,0.29,Insufficient,-35.64,Loss-Making,-11.65,Unprofitable,101.29,Exceptional,-9.69,Very Low,-1.23,Bankruptcy Zone,Bad
+Gabpau Trans,2023.0,0.24,Insufficient,19.09,Exceptional,13.7,Exceptional,35.82,Exceptional,1.61,Optimal,1.52,Bankruptcy Zone,Good
+Gabpau Trans,2022.0,0.76,Insufficient,29.76,Exceptional,25.18,Exceptional,59.32,Exceptional,1.36,Optimal,2.55,Grey Zone,Good
+Gabpau Trans,2021.0,0.75,Insufficient,5.45,Optimal,2.54,Suboptimal,14.1,Optimal,4.54,High,0.69,Bankruptcy Zone,Bad
+Gabpau Trans,2020.0,0.95,Insufficient,18.98,Exceptional,10.38,Exceptional,51.14,Exceptional,3.93,High,1.28,Bankruptcy Zone,Moderate
+Gabpau Trans,2019.0,0.8,Insufficient,8.62,Optimal,5.2,Optimal,47.31,Exceptional,8.09,High,0.79,Bankruptcy Zone,Moderate
+Gabpau Trans,2018.0,0.91,Insufficient,0.62,Suboptimal,0.56,Suboptimal,9.65,Optimal,16.15,High,0.95,Bankruptcy Zone,Bad
+Gabpau Trans,2017.0,0.93,Insufficient,1.19,Suboptimal,1.41,Suboptimal,22.76,Exceptional,15.15,High,1.27,Bankruptcy Zone,Bad
+Gabpau Trans,2016.0,0.96,Insufficient,2.05,Suboptimal,2.81,Suboptimal,38.22,Exceptional,12.58,High,1.57,Bankruptcy Zone,Bad
+Gabpau Trans,2015.0,1.11,Optimal,2.93,Suboptimal,10.33,Exceptional,99.01,Exceptional,8.58,High,4.2,Safe Zone,Moderate
+Livdumad  Spedition SRL ,2023.0,3.56,Excessive,17.61,Exceptional,74.32,Exceptional,99.93,Exceptional,0.34,Very Low,10.24,Safe Zone,Good
+Livdumad  Spedition SRL ,2022.0,2.38,Excessive,17.76,Exceptional,64.74,Exceptional,99.92,Exceptional,0.54,Very Low,8.38,Safe Zone,Good
+Livdumad  Spedition SRL ,2021.0,1.64,Excessive,15.37,Exceptional,54.64,Exceptional,99.9,Exceptional,0.83,Very Low,7.19,Safe Zone,Good
+Livdumad  Spedition SRL ,2020.0,3.54,Excessive,19.9,Exceptional,67.16,Exceptional,85.36,Exceptional,0.31,Very Low,9.37,Safe Zone,Good
+Livdumad  Spedition SRL ,2019.0,2.49,Excessive,12.83,Exceptional,33.58,Exceptional,48.03,Exceptional,0.46,Very Low,6.59,Safe Zone,Good
+Livdumad  Spedition SRL ,2018.0,2.51,Excessive,10.9,Exceptional,30.4,Exceptional,40.05,Exceptional,0.34,Very Low,7.1,Safe Zone,Good
+Livdumad  Spedition SRL ,2017.0,0.95,Insufficient,13.62,Exceptional,30.59,Exceptional,63.86,Exceptional,1.13,Optimal,4.42,Safe Zone,Good
+Livdumad  Spedition SRL ,2016.0,0.64,Insufficient,9.21,Optimal,18.85,Exceptional,50.68,Exceptional,1.78,Optimal,3.24,Safe Zone,Good
+Livdumad  Spedition SRL ,2015.0,3.0,Excessive,11.78,Exceptional,38.73,Exceptional,48.44,Exceptional,0.25,Very Low,8.56,Safe Zone,Good
+Livdumad  Spedition SRL ,2014.0,2.0,Excessive,8.69,Optimal,43.53,Exceptional,69.03,Exceptional,0.59,Very Low,8.79,Safe Zone,Good
+Livdumad  Spedition SRL ,2013.0,0.72,Insufficient,3.12,Suboptimal,9.75,Exceptional,47.47,Exceptional,3.87,High,3.62,Safe Zone,Moderate
+Sc Zelvest,2022.0,3.17,Excessive,-71.5,Loss-Making,-1924.92,Unprofitable,-2812.75,Suboptimal,0.46,Very Low,-33.52,Bankruptcy Zone,Bad
+Sc Zelvest,2021.0,0.48,Insufficient,1.03,Suboptimal,3.15,Optimal,3.94,Suboptimal,0.91,Very Low,4.48,Safe Zone,Bad
+Sc Zelvest,2020.0,0.52,Insufficient,14.44,Exceptional,21.0,Exceptional,68.91,Exceptional,2.28,High,2.43,Grey Zone,Moderate
+Sc Zelvest,2019.0,0.49,Insufficient,5.58,Optimal,7.67,Optimal,33.88,Exceptional,3.5,High,1.63,Bankruptcy Zone,Moderate
+Sc Zelvest,2018.0,0.47,Insufficient,2.92,Suboptimal,4.29,Optimal,17.51,Exceptional,3.19,High,1.65,Bankruptcy Zone,Moderate
+Sc Zelvest,2017.0,0.54,Insufficient,8.68,Optimal,12.98,Exceptional,72.38,Exceptional,4.77,High,1.83,Grey Zone,Moderate
+Sc Zelvest,2016.0,0.42,Insufficient,0.67,Suboptimal,0.66,Suboptimal,3.98,Suboptimal,5.4,High,0.73,Bankruptcy Zone,Bad
+Sc Zelvest,2015.0,0.82,Insufficient,2.81,Suboptimal,6.25,Optimal,17.52,Exceptional,2.13,High,3.05,Safe Zone,Moderate
+Sc Zelvest,2014.0,0.53,Insufficient,1.23,Suboptimal,2.44,Suboptimal,8.91,Optimal,3.11,High,2.17,Grey Zone,Bad
+Sc Zelvest,2013.0,0.42,Insufficient,1.97,Suboptimal,3.33,Optimal,14.69,Optimal,3.99,High,1.64,Bankruptcy Zone,Bad
+Acuculitei Transport S.R.L ,2023.0,0.35,Insufficient,-32.39,Loss-Making,-96.07,Unprofitable,239.05,Exceptional,-3.52,Very Low,-2.03,Bankruptcy Zone,Bad
+Acuculitei Transport S.R.L ,2022.0,0.91,Insufficient,2.5,Suboptimal,8.41,Exceptional,20.93,Exceptional,1.49,Optimal,4.55,Safe Zone,Moderate
+Acuculitei Transport S.R.L ,2021.0,1.19,Optimal,9.33,Optimal,50.13,Exceptional,71.35,Exceptional,0.42,Very Low,9.5,Safe Zone,Good
+Acuculitei Transport S.R.L ,2020.0,0.79,Insufficient,24.82,Exceptional,43.65,Exceptional,99.35,Exceptional,1.28,Optimal,4.14,Safe Zone,Good
+IzaAutoTrans SRL ,2023.0,0.63,Insufficient,10.71,Exceptional,83.36,Exceptional,-158.73,Suboptimal,-2.9,Very Low,8.91,Safe Zone,Moderate
+IzaAutoTrans SRL ,2022.0,0.44,Insufficient,12.67,Exceptional,20.5,Exceptional,-17.05,Suboptimal,-1.83,Very Low,-1.19,Bankruptcy Zone,Moderate
+IzaAutoTrans SRL ,2021.0,0.2,Insufficient,-198.16,Loss-Making,-173.93,Unprofitable,50.37,Exceptional,-1.29,Very Low,-14.45,Bankruptcy Zone,Bad
+IzaAutoTrans SRL ,2020.0,0.3,Insufficient,10.16,Exceptional,27.65,Exceptional,-15.73,Suboptimal,-1.57,Very Low,-1.54,Bankruptcy Zone,Moderate
+IzaAutoTrans SRL ,2019.0,0.23,Insufficient,-23.42,Loss-Making,-68.95,Unprofitable,31.61,Exceptional,-1.46,Very Low,-5.73,Bankruptcy Zone,Bad
+IzaAutoTrans SRL ,2018.0,0.09,Insufficient,-223.55,Loss-Making,-221.67,Unprofitable,76.69,Exceptional,-1.35,Very Low,-15.05,Bankruptcy Zone,Bad
+IzaAutoTrans SRL ,2017.0,0.43,Insufficient,-1607.62,Loss-Making,-128.93,Unprofitable,97.28,Exceptional,-1.75,Very Low,-7.96,Bankruptcy Zone,Bad
+IzaAutoTrans SRL ,2016.0,0.35,N/A,,N/A,-288.5,N/A,153.05,N/A,-1.53,N/A,-14.81,Bankruptcy Zone,Unknown
+alex&denisa transport international srl,2023.0,1.71,Excessive,5.98,Optimal,40.86,Exceptional,98.3,Exceptional,1.41,Optimal,9.69,Safe Zone,Good
+RO37847269,2023.0,0.0,N/A,,N/A,,N/A,-0.0,N/A,-1.0,N/A,,Unable to Calculate,Unknown
+RO37847269,2022.0,0.0,N/A,,N/A,,N/A,-0.0,N/A,-1.0,N/A,,Unable to Calculate,Unknown
+RO37847269,2021.0,0.0,N/A,,N/A,,N/A,-0.0,N/A,-1.0,N/A,,Unable to Calculate,Unknown
+RO37847269,2020.0,0.0,N/A,,N/A,,N/A,-0.0,N/A,-1.0,N/A,,Unable to Calculate,Unknown
+RO37847269,2019.0,0.0,N/A,,N/A,,N/A,-0.0,N/A,-1.0,N/A,,Unable to Calculate,Unknown
+RO37847269,2018.0,0.0,N/A,,N/A,,N/A,-0.0,N/A,-1.0,N/A,,Unable to Calculate,Unknown
+RO37847269,2009.0,0.86,N/A,,N/A,-39.81,N/A,109.28,N/A,-3.04,N/A,-2.2,Bankruptcy Zone,Unknown
+Ace speedline trans srl,2022.0,18.09,Excessive,61.62,Exceptional,94.32,Exceptional,99.84,Exceptional,0.06,Very Low,17.36,Safe Zone,Good
+Ace speedline trans srl,2021.0,6.26,Excessive,55.77,Exceptional,65.83,Exceptional,78.34,Exceptional,0.19,Very Low,8.7,Safe Zone,Good
+Ace speedline trans srl,2020.0,1.77,Optimal,56.84,Exceptional,10.65,Exceptional,24.44,Exceptional,1.29,Optimal,2.14,Grey Zone,Good
+Ace speedline trans srl,2019.0,1.61,Optimal,11.26,Exceptional,36.52,Exceptional,96.7,Exceptional,1.65,High,5.8,Safe Zone,Good
+47077078,2023.0,21.87,Excessive,47.6,Exceptional,89.77,Exceptional,94.07,Exceptional,0.05,Very Low,37.32,Safe Zone,Good
+47077078,2022.0,57.5,Excessive,96.92,Exceptional,54.78,Exceptional,55.75,Exceptional,0.02,Very Low,72.66,Safe Zone,Good
+Sc Brailact prod srl ,2023.0,0.23,Insufficient,-5.64,Loss-Making,-14.14,Unprofitable,105.79,Exceptional,-8.48,Very Low,0.74,Bankruptcy Zone,Bad
+Sc Brailact prod srl ,2022.0,0.26,Insufficient,-3.06,Loss-Making,-3.33,Unprofitable,553.37,Exceptional,-167.59,Very Low,0.07,Bankruptcy Zone,Bad
+Sc Brailact prod srl ,2021.0,0.65,Insufficient,6.41,Optimal,16.29,Exceptional,84.88,Exceptional,4.21,High,3.15,Safe Zone,Moderate
+Sc Brailact prod srl ,2020.0,0.39,Insufficient,17.11,Exceptional,4.74,Optimal,169.52,Exceptional,34.74,High,-0.22,Bankruptcy Zone,Moderate
+Sc Brailact prod srl ,2019.0,0.17,N/A,,N/A,-140.1,N/A,120.68,N/A,-1.86,N/A,-8.72,Bankruptcy Zone,Unknown
+Sc Brailact prod srl ,2018.0,0.6,N/A,,N/A,0.0,N/A,0.0,N/A,4.0,N/A,0.04,Bankruptcy Zone,Unknown
+34453740,2022.0,3.05,Excessive,11.88,Exceptional,10.17,Exceptional,15.12,Exceptional,0.49,Very Low,4.17,Safe Zone,Good
+34453740,2021.0,7.78,Excessive,19.31,Exceptional,10.19,Exceptional,11.69,Optimal,0.15,Very Low,7.21,Safe Zone,Good
+34453740,2020.0,12.57,Excessive,32.82,Exceptional,25.8,Exceptional,28.02,Exceptional,0.09,Very Low,10.99,Safe Zone,Good
+34453740,2019.0,5.67,Excessive,11.72,Exceptional,14.21,Exceptional,17.24,Exceptional,0.21,Very Low,6.64,Safe Zone,Good
+34453740,2018.0,9.97,Excessive,11.99,Exceptional,11.64,Exceptional,12.93,Optimal,0.11,Very Low,9.11,Safe Zone,Good
+34453740,2017.0,13.91,Excessive,43.01,Exceptional,66.89,Exceptional,72.03,Exceptional,0.08,Very Low,13.97,Safe Zone,Good
+34453740,2016.0,25.74,Excessive,31.47,Exceptional,121.83,Exceptional,126.63,Exceptional,0.04,Very Low,25.6,Safe Zone,Good
+34453740,2015.0,0.16,Insufficient,-173.28,Loss-Making,-340.82,Unprofitable,103.6,Exceptional,-1.3,Very Low,-18.68,Bankruptcy Zone,Bad
+RO30201545,2023.0,0.83,Insufficient,0.75,Suboptimal,4.29,Optimal,-21.14,Suboptimal,-5.93,Very Low,5.24,Safe Zone,Bad
+RO30201545,2022.0,0.79,Insufficient,-5.25,Loss-Making,-25.75,Unprofitable,100.0,Exceptional,-4.88,Very Low,3.26,Safe Zone,Bad
+Gta Spedition SRL,2023.0,0.7,Insufficient,-75.83,Loss-Making,-78.28,Unprofitable,179.4,Exceptional,-3.29,Very Low,-9.86,Bankruptcy Zone,Bad
+Gta Spedition SRL,2022.0,2.24,Excessive,83.47,Exceptional,49.0,Exceptional,88.55,Exceptional,0.81,Very Low,10.03,Safe Zone,Good
+Gta Spedition SRL,2021.0,1.08,N/A,,N/A,-69.14,N/A,-890.69,N/A,11.88,N/A,-3.8,Bankruptcy Zone,Unknown
+Gta Spedition SRL,2020.0,1.17,N/A,,N/A,-1.82,N/A,-12.81,N/A,6.05,N/A,1.44,Grey Zone,Unknown
+Gta Spedition SRL,2019.0,1.15,N/A,,N/A,-2.85,N/A,-21.95,N/A,6.69,N/A,1.24,Grey Zone,Unknown
+Gta Spedition SRL,2018.0,1.13,Insufficient,14.55,Optimal,13.94,Exceptional,123.18,Exceptional,7.83,High,2.18,Grey Zone,Moderate
+Gta Spedition SRL,2017.0,0.76,Insufficient,10.95,Optimal,12.86,Exceptional,-501.61,Suboptimal,-39.99,Very Low,-0.87,Bankruptcy Zone,Moderate
+Gta Spedition SRL,2016.0,0.36,Insufficient,-2.06,Loss-Making,-2.55,Unprofitable,21.82,Exceptional,-9.64,Very Low,-5.41,Bankruptcy Zone,Bad
+Gta Spedition SRL,2015.0,0.27,Insufficient,-10.46,Loss-Making,-17.56,Unprofitable,100.83,Exceptional,-6.74,Very Low,-7.56,Bankruptcy Zone,Bad
+real estate expert srl,2023.0,4.6,Excessive,-25.1,Loss-Making,-91.05,Unprofitable,-116.37,Suboptimal,0.28,Very Low,4.82,Safe Zone,Bad
+real estate expert srl,2022.0,4.7,Excessive,84.27,Exceptional,78.02,Exceptional,99.11,Exceptional,0.27,Very Low,7.77,Safe Zone,Good
+real estate expert srl,2021.0,25.37,Excessive,78.15,Exceptional,95.63,Exceptional,99.55,Exceptional,0.04,Very Low,21.5,Safe Zone,Good
+real estate expert srl,2020.0,18.46,Excessive,86.82,Exceptional,42.79,Exceptional,45.24,Exceptional,0.06,Very Low,14.84,Safe Zone,Good
+real estate expert srl,2019.0,46.28,Excessive,79.26,Exceptional,36.16,Exceptional,36.96,Exceptional,0.02,Very Low,31.36,Safe Zone,Good
+real estate expert srl,2018.0,46.18,Excessive,69.2,Exceptional,29.29,Exceptional,29.94,Exceptional,0.02,Very Low,31.04,Safe Zone,Good
+real estate expert srl,2017.0,42.6,Excessive,85.49,Exceptional,31.52,Exceptional,32.28,Exceptional,0.02,Very Low,28.91,Safe Zone,Good
+real estate expert srl,2016.0,81.19,Excessive,95.49,Exceptional,98.53,Exceptional,99.75,Exceptional,0.01,Very Low,55.26,Safe Zone,Good
+Paul Transport,2023.0,0.71,Insufficient,0.67,Suboptimal,1.06,Suboptimal,8.12,Optimal,6.66,High,1.6,Bankruptcy Zone,Bad
+Paul Transport,2022.0,0.63,Insufficient,0.38,Suboptimal,0.62,Suboptimal,4.87,Suboptimal,6.9,High,1.54,Bankruptcy Zone,Bad
+Paul Transport,2021.0,0.64,Insufficient,0.33,Suboptimal,0.54,Suboptimal,3.55,Suboptimal,5.55,High,1.64,Bankruptcy Zone,Bad
+Paul Transport,2020.0,0.57,Insufficient,2.53,Suboptimal,5.69,Optimal,32.47,Exceptional,4.7,High,2.38,Grey Zone,Moderate
+Paul Transport,2019.0,0.6,Insufficient,1.24,Suboptimal,1.81,Suboptimal,15.31,Exceptional,7.44,High,1.35,Bankruptcy Zone,Bad
+Paul Transport,2018.0,0.56,Insufficient,1.65,Suboptimal,0.79,Suboptimal,2.48,Suboptimal,2.16,High,0.86,Bankruptcy Zone,Bad
+31711135,2022.0,1.79,Excessive,0.46,Suboptimal,1.14,Suboptimal,2.42,Suboptimal,1.12,Optimal,4.21,Safe Zone,Moderate
+31711135,2021.0,1.47,Optimal,0.11,Suboptimal,0.22,Suboptimal,0.54,Suboptimal,1.49,Optimal,3.26,Safe Zone,Moderate
+31711135,2020.0,4.46,Excessive,2.91,Suboptimal,4.44,Optimal,5.46,Suboptimal,0.23,Very Low,6.19,Safe Zone,Moderate
+31711135,2019.0,2.39,Excessive,0.19,Suboptimal,0.25,Suboptimal,0.39,Suboptimal,0.54,Very Low,3.91,Safe Zone,Bad
+31711135,2018.0,3.44,Excessive,4.19,Suboptimal,6.23,Optimal,8.46,Optimal,0.36,Very Low,5.18,Safe Zone,Moderate
+31711135,2017.0,4.86,Excessive,22.19,Exceptional,36.97,Exceptional,45.19,Exceptional,0.22,Very Low,7.57,Safe Zone,Good
+31711135,2016.0,2.51,Excessive,21.06,Exceptional,47.18,Exceptional,70.15,Exceptional,0.49,Very Low,6.57,Safe Zone,Good
+31711135,2015.0,1.05,Optimal,12.39,Exceptional,32.45,Exceptional,106.98,Exceptional,2.3,High,4.42,Safe Zone,Good
+31711135,2014.0,0.73,Insufficient,-0.36,Loss-Making,-1.21,Unprofitable,18.94,Exceptional,-16.6,Very Low,2.86,Grey Zone,Bad
+31711135,2013.0,0.59,Insufficient,-39.35,Loss-Making,-22.92,Unprofitable,101.76,Exceptional,-5.44,Very Low,-1.2,Bankruptcy Zone,Bad
+Camidos Logistic SRL,2023.0,0.34,Insufficient,-3.05,Loss-Making,-11.8,Unprofitable,373.74,Exceptional,-32.67,Very Low,2.6,Grey Zone,Bad
+Camidos Logistic SRL,2022.0,0.44,Insufficient,3.7,Suboptimal,8.77,Exceptional,111.47,Exceptional,11.72,High,2.2,Grey Zone,Moderate
+Camidos Logistic SRL,2021.0,0.52,Insufficient,6.53,Optimal,21.95,Exceptional,-961.76,Suboptimal,-44.82,Very Low,3.45,Safe Zone,Moderate
+Camidos Logistic SRL,2020.0,0.24,Insufficient,-9.03,Loss-Making,-15.21,Unprofitable,25.76,Exceptional,-2.69,Very Low,-1.31,Bankruptcy Zone,Bad
+Camidos Logistic SRL,2019.0,0.0,N/A,,N/A,,N/A,0.86,N/A,-1.0,N/A,,Unable to Calculate,Unknown
+Camidos Logistic SRL,2018.0,0.0,N/A,,N/A,,N/A,0.87,N/A,-1.0,N/A,,Unable to Calculate,Unknown
+Camidos Logistic SRL,2017.0,0.0,N/A,-20.71,N/A,,N/A,23.89,N/A,-1.0,N/A,,Unable to Calculate,Unknown
+Camidos Logistic SRL,2016.0,0.2,Insufficient,-11.07,Loss-Making,-114.24,Unprofitable,28.17,Exceptional,-1.25,Very Low,-4.47,Bankruptcy Zone,Bad
+Camidos Logistic SRL,2015.0,0.59,Insufficient,-3.98,Loss-Making,-11.01,Unprofitable,16.11,Exceptional,-2.46,Very Low,0.38,Bankruptcy Zone,Bad
+Camidos Logistic SRL,2014.0,0.66,Insufficient,-6.07,Loss-Making,-13.37,Unprofitable,26.54,Exceptional,-2.98,Very Low,0.25,Bankruptcy Zone,Bad
+Camidos Logistic SRL,2013.0,0.75,Insufficient,-8.98,Loss-Making,-18.76,Unprofitable,55.72,Exceptional,-3.97,Very Low,0.44,Bankruptcy Zone,Bad
+Mav Spedition,2023.0,0.25,Insufficient,1.66,Suboptimal,3.68,Optimal,31.17,Exceptional,7.48,High,1.79,Bankruptcy Zone,Moderate
+Mav Spedition,2022.0,0.31,Insufficient,2.66,Suboptimal,5.65,Optimal,36.72,Exceptional,5.5,High,1.93,Grey Zone,Moderate
+Mav Spedition,2021.0,0.22,Insufficient,6.8,Optimal,23.67,Exceptional,94.2,Exceptional,2.98,High,4.11,Safe Zone,Moderate
+Mav Spedition,2020.0,0.22,Insufficient,1.26,Suboptimal,0.92,Suboptimal,91.19,Exceptional,97.69,High,-0.14,Bankruptcy Zone,Bad
+Speed cargo adrian,2023.0,1.97,Excessive,33.5,Exceptional,44.95,Exceptional,83.44,Exceptional,0.86,Very Low,4.82,Safe Zone,Good
+Speed cargo adrian,2022.0,1.65,Excessive,2.66,Suboptimal,7.72,Optimal,19.64,Exceptional,1.55,Optimal,4.56,Safe Zone,Moderate
+Speed cargo adrian,2021.0,1.4,Optimal,7.52,Optimal,14.11,Exceptional,49.09,Exceptional,2.48,High,3.33,Safe Zone,Good
+Speed cargo adrian,2020.0,2.74,Excessive,12.19,Exceptional,63.12,Exceptional,99.19,Exceptional,0.57,Very Low,9.96,Safe Zone,Good
+Horjana,2023.0,0.76,Insufficient,0.99,Suboptimal,1.5,Suboptimal,7.17,Suboptimal,3.79,High,1.78,Bankruptcy Zone,Bad
+Horjana,2022.0,0.69,Insufficient,0.52,Suboptimal,0.65,Suboptimal,3.49,Suboptimal,4.34,High,1.38,Bankruptcy Zone,Bad
+Horjana,2021.0,0.56,Insufficient,0.41,Suboptimal,0.57,Suboptimal,3.04,Suboptimal,4.34,High,1.4,Bankruptcy Zone,Bad
+Horjana,2020.0,0.59,Insufficient,1.65,Suboptimal,2.14,Suboptimal,10.31,Optimal,3.81,High,1.43,Bankruptcy Zone,Bad
+Horjana,2019.0,0.53,Insufficient,0.36,Suboptimal,0.43,Suboptimal,2.62,Suboptimal,5.04,High,1.1,Bankruptcy Zone,Bad
+Horjana,2018.0,0.41,Insufficient,1.28,Suboptimal,1.97,Suboptimal,12.02,Optimal,5.1,High,1.35,Bankruptcy Zone,Bad
+Horjana,2017.0,0.28,Insufficient,0.78,Suboptimal,1.21,Suboptimal,7.23,Suboptimal,4.99,High,1.22,Bankruptcy Zone,Bad
+Horjana,2016.0,0.18,Insufficient,0.69,Suboptimal,0.84,Suboptimal,4.88,Suboptimal,4.82,High,0.79,Bankruptcy Zone,Bad
+Horjana,2015.0,0.24,Insufficient,0.75,Suboptimal,0.92,Suboptimal,7.79,Suboptimal,7.44,High,0.71,Bankruptcy Zone,Bad
+Horjana,2014.0,0.35,Insufficient,0.47,Suboptimal,0.52,Suboptimal,5.32,Suboptimal,9.33,High,0.62,Bankruptcy Zone,Bad
+Horjana,2013.0,0.35,Insufficient,0.12,Suboptimal,0.16,Suboptimal,1.95,Suboptimal,11.47,High,0.71,Bankruptcy Zone,Bad
+33661084,2023.0,0.39,Insufficient,7.89,Optimal,13.98,Exceptional,46.39,Exceptional,2.32,High,-0.4,Bankruptcy Zone,Moderate
+33661084,2022.0,0.53,Insufficient,2.18,Suboptimal,4.97,Optimal,31.33,Exceptional,5.3,High,-1.57,Bankruptcy Zone,Moderate
+33661084,2021.0,0.39,Insufficient,1.79,Suboptimal,2.41,Suboptimal,19.28,Exceptional,6.99,High,-2.78,Bankruptcy Zone,Bad
+33661084,2020.0,0.39,Insufficient,-15.28,Loss-Making,-11.44,Unprofitable,-107.36,Suboptimal,8.39,High,-3.88,Bankruptcy Zone,Bad
+33661084,2019.0,0.42,Insufficient,-6.79,Loss-Making,-9.13,Unprofitable,-48.02,Suboptimal,4.26,High,-2.82,Bankruptcy Zone,Bad
+33661084,2018.0,0.54,Insufficient,3.3,Suboptimal,4.45,Optimal,19.1,Exceptional,3.29,High,-0.93,Bankruptcy Zone,Moderate
+33661084,2017.0,0.94,Insufficient,2.68,Suboptimal,4.21,Optimal,8.97,Optimal,1.13,Optimal,2.52,Grey Zone,Moderate
+33661084,2016.0,0.84,Insufficient,13.22,Exceptional,34.08,Exceptional,77.86,Exceptional,1.28,Optimal,3.95,Safe Zone,Good
+33661084,2015.0,0.44,Insufficient,7.14,Optimal,16.35,Exceptional,155.15,Exceptional,8.49,High,-1.7,Bankruptcy Zone,Moderate
+33661084,2014.0,0.02,N/A,,N/A,-7.17,N/A,101.95,N/A,-15.22,N/A,-7.65,Bankruptcy Zone,Unknown
+Gabi84gby@yahoo.it ,2023.0,1.48,Optimal,3.76,Suboptimal,5.75,Optimal,10.99,Optimal,0.91,Very Low,4.75,Safe Zone,Moderate
+Gabi84gby@yahoo.it ,2022.0,1.58,Excessive,18.02,Exceptional,26.31,Exceptional,47.47,Exceptional,0.8,Very Low,6.58,Safe Zone,Good
+Gabi84gby@yahoo.it ,2021.0,1.0,Insufficient,4.97,Suboptimal,6.79,Optimal,25.1,Exceptional,2.7,High,1.71,Grey Zone,Moderate
+Gabi84gby@yahoo.it ,2020.0,0.96,Insufficient,15.9,Exceptional,18.13,Exceptional,71.8,Exceptional,2.96,High,2.19,Grey Zone,Moderate
+Gabi84gby@yahoo.it ,2019.0,0.58,Insufficient,-11.69,Loss-Making,-16.41,Unprofitable,-375.54,Suboptimal,22.01,High,-3.56,Bankruptcy Zone,Bad
+Gabi84gby@yahoo.it ,2018.0,0.64,Insufficient,-7.49,Loss-Making,-11.38,Unprofitable,-56.51,Suboptimal,4.01,High,-1.74,Bankruptcy Zone,Bad
+Gabi84gby@yahoo.it ,2017.0,0.69,Insufficient,2.92,Suboptimal,5.86,Optimal,15.45,Exceptional,1.68,Optimal,0.95,Bankruptcy Zone,Moderate
+Gabi84gby@yahoo.it ,2016.0,1.06,Optimal,3.58,Suboptimal,8.52,Exceptional,19.46,Exceptional,1.28,Optimal,3.05,Safe Zone,Good
+Gabi84gby@yahoo.it ,2015.0,1.03,Optimal,7.54,Optimal,16.45,Exceptional,52.41,Exceptional,2.19,High,2.74,Safe Zone,Good
+Gabi84gby@yahoo.it ,2014.0,0.97,Insufficient,4.1,Suboptimal,6.69,Optimal,45.3,Exceptional,5.77,High,0.93,Bankruptcy Zone,Moderate
+Gabi84gby@yahoo.it ,2013.0,0.95,Insufficient,2.83,Suboptimal,5.1,Optimal,40.35,Exceptional,6.94,High,0.61,Bankruptcy Zone,Moderate
+YAHOO BEST SRL ,2023.0,6.17,Excessive,3.25,Optimal,3.62,Suboptimal,4.32,Suboptimal,0.19,Very Low,6.55,Safe Zone,Moderate
+YAHOO BEST SRL ,2022.0,6.85,Excessive,31.92,Exceptional,47.59,Exceptional,55.6,Exceptional,0.17,Very Low,8.83,Safe Zone,Good
+YAHOO BEST SRL ,2021.0,4.06,Excessive,15.93,Exceptional,22.93,Exceptional,30.29,Exceptional,0.32,Very Low,6.02,Safe Zone,Good
+YAHOO BEST SRL ,2020.0,5.01,Excessive,4.07,Optimal,6.17,Optimal,7.57,Suboptimal,0.23,Very Low,6.39,Safe Zone,Moderate
+YAHOO BEST SRL ,2019.0,3.59,Excessive,4.96,Optimal,11.75,Exceptional,15.51,Optimal,0.32,Very Low,6.45,Safe Zone,Moderate
+YAHOO BEST SRL ,2018.0,2.73,Excessive,5.07,Optimal,11.09,Exceptional,15.91,Optimal,0.44,Very Low,5.53,Safe Zone,Moderate
+YAHOO BEST SRL ,2017.0,2.11,Optimal,7.22,Optimal,16.22,Exceptional,24.69,Exceptional,0.52,Optimal,5.31,Safe Zone,Good
+YAHOO BEST SRL ,2016.0,2.11,Optimal,3.83,Optimal,7.82,Optimal,14.25,Optimal,0.82,Optimal,4.39,Safe Zone,Good
+YAHOO BEST SRL ,2015.0,2.06,Optimal,1.23,Suboptimal,1.8,Suboptimal,3.21,Suboptimal,0.78,Optimal,3.63,Safe Zone,Moderate
+YAHOO BEST SRL ,2014.0,1.69,Optimal,1.76,Suboptimal,3.33,Suboptimal,6.98,Suboptimal,1.09,Optimal,3.66,Safe Zone,Moderate
+YAHOO BEST SRL ,2013.0,1.35,Insufficient,3.45,Optimal,4.29,Suboptimal,12.22,Optimal,1.85,High,2.48,Grey Zone,Bad
+ximag media group srl,2023.0,0.06,N/A,,N/A,0.0,N/A,-0.0,N/A,-1.06,N/A,-167.37,Bankruptcy Zone,Unknown
+ximag media group srl,2022.0,0.06,N/A,,N/A,0.0,N/A,-0.0,N/A,-1.06,N/A,-167.37,Bankruptcy Zone,Unknown
+ximag media group srl,2021.0,0.06,N/A,,N/A,0.0,N/A,-0.0,N/A,-1.06,N/A,-167.37,Bankruptcy Zone,Unknown
+ximag media group srl,2020.0,0.06,N/A,,N/A,0.0,N/A,-0.0,N/A,-1.06,N/A,-167.37,Bankruptcy Zone,Unknown
+ximag media group srl,2019.0,0.06,N/A,,N/A,-142.86,N/A,8.43,N/A,-1.06,N/A,-176.97,Bankruptcy Zone,Unknown
+ximag media group srl,2018.0,0.1,N/A,,N/A,-83.33,N/A,9.21,N/A,-1.11,N/A,-95.42,Bankruptcy Zone,Unknown
+ximag media group srl,2017.0,0.18,Insufficient,82.5,Exceptional,75.0,Exceptional,-16.73,Suboptimal,-1.22,Very Low,-39.83,Bankruptcy Zone,Moderate
+ximag media group srl,2016.0,0.04,N/A,,N/A,-3426.53,N/A,145.87,N/A,-1.04,N/A,-461.94,Bankruptcy Zone,Unknown
+ximag media group srl,2015.0,1.8,Optimal,-14.67,Loss-Making,-51.9,Unprofitable,-116.67,Suboptimal,1.25,Optimal,1.72,Grey Zone,Bad
+ximag media group srl,2014.0,3.2,Excessive,26.97,Exceptional,57.81,Exceptional,82.52,Exceptional,0.43,Very Low,12.96,Safe Zone,Good
+Holidayfarm,2023.0,8.45,Excessive,7.29,Suboptimal,26.59,Exceptional,30.05,Exceptional,0.13,Very Low,11.31,Safe Zone,Moderate
+Holidayfarm,2022.0,1.86,Optimal,11.95,Optimal,23.7,Exceptional,51.12,Exceptional,1.16,Optimal,4.48,Safe Zone,Good
+Holidayfarm,2021.0,1.99,Optimal,16.73,Optimal,33.33,Exceptional,66.62,Exceptional,1.01,Optimal,4.99,Safe Zone,Good
+Holidayfarm,2020.0,1.78,Optimal,6.48,Suboptimal,22.88,Exceptional,51.86,Exceptional,1.28,Optimal,5.9,Safe Zone,Good
+Holidayfarm,2019.0,1.25,Optimal,2.79,Suboptimal,11.91,Optimal,58.7,Exceptional,3.93,High,5.35,Safe Zone,Moderate
+Holidayfarm,2018.0,1.08,Insufficient,25.27,Exceptional,7.84,Optimal,86.21,Exceptional,10.02,High,0.84,Bankruptcy Zone,Moderate
+Floral Logistic,2023.0,0.13,Insufficient,-84.23,Loss-Making,-164.44,Unprofitable,25.43,Exceptional,-1.15,Very Low,-20.81,Bankruptcy Zone,Bad
+Floral Logistic,2022.0,0.2,Insufficient,37.18,Exceptional,263.26,Exceptional,-64.07,Suboptimal,-1.24,Very Low,4.6,Safe Zone,Moderate
+Floral Logistic,2021.0,0.08,Insufficient,-25.56,Loss-Making,-75.22,Unprofitable,29.47,Exceptional,-1.39,Very Low,-7.47,Bankruptcy Zone,Bad
+Floral Logistic,2020.0,0.14,Insufficient,-12.33,Loss-Making,-24.53,Unprofitable,31.28,Exceptional,-2.28,Very Low,-2.03,Bankruptcy Zone,Bad
+Floral Logistic,2019.0,0.2,Insufficient,-22.72,Loss-Making,-36.64,Unprofitable,140.91,Exceptional,-4.85,Very Low,-1.29,Bankruptcy Zone,Bad
+Floral Logistic,2018.0,0.13,Insufficient,1.59,Suboptimal,1.5,Suboptimal,16.84,Exceptional,10.22,High,0.23,Bankruptcy Zone,Bad
+Floral Logistic,2017.0,0.24,Insufficient,0.63,Suboptimal,0.74,Suboptimal,3.95,Suboptimal,4.34,High,0.86,Bankruptcy Zone,Bad
+Floral Logistic,2016.0,0.65,Insufficient,3.62,Suboptimal,7.61,Optimal,22.68,Exceptional,1.98,Optimal,2.85,Grey Zone,Moderate
+Floral Logistic,2015.0,0.43,Insufficient,7.11,Optimal,21.24,Exceptional,76.56,Exceptional,2.6,High,3.81,Safe Zone,Moderate
+Floral Logistic,2014.0,1.43,Optimal,21.85,Exceptional,29.21,Exceptional,97.59,Exceptional,2.34,High,3.34,Safe Zone,Good
+Hanning Transped,2023.0,1.16,Optimal,-6.69,Loss-Making,-4.76,Unprofitable,-15.46,Suboptimal,2.25,High,1.38,Bankruptcy Zone,Bad
+Hanning Transped,2022.0,1.11,Optimal,-3.17,Loss-Making,-2.04,Unprofitable,-4.76,Suboptimal,1.34,Optimal,1.7,Bankruptcy Zone,Bad
+Hanning Transped,2021.0,1.2,Optimal,1.5,Suboptimal,1.35,Suboptimal,2.52,Suboptimal,0.87,Very Low,2.5,Grey Zone,Moderate
+Hanning Transped,2020.0,2.1,Excessive,1.41,Suboptimal,1.23,Suboptimal,1.79,Suboptimal,0.45,Very Low,3.61,Safe Zone,Bad
+Hanning Transped,2021.0,3.2,Excessive,27.17,Exceptional,24.09,Exceptional,32.69,Exceptional,0.36,Very Low,5.09,Safe Zone,Good
+Hanning Transped,2020.0,6.2,Excessive,70.04,Exceptional,83.82,Exceptional,99.94,Exceptional,0.19,Very Low,9.27,Safe Zone,Good
+Hanning Transped,2019.0,0.47,N/A,,N/A,0.0,N/A,0.0,N/A,2.15,N/A,0.29,Bankruptcy Zone,Unknown
+Hanning Transped,2018.0,0.47,N/A,,N/A,0.0,N/A,0.0,N/A,2.15,N/A,0.29,Bankruptcy Zone,Unknown
+Hanning Transped,2017.0,0.47,N/A,,N/A,0.0,N/A,0.0,N/A,2.15,N/A,0.29,Bankruptcy Zone,Unknown
+Hanning Transped,2016.0,0.47,N/A,,N/A,0.0,N/A,0.0,N/A,2.15,N/A,0.29,Bankruptcy Zone,Unknown
+Artex Universal,2023.0,0.12,Insufficient,3.93,Suboptimal,6.43,Optimal,13.81,Optimal,2.23,High,1.68,Bankruptcy Zone,Bad
+Artex Universal,2022.0,0.4,Insufficient,4.74,Suboptimal,8.45,Exceptional,23.44,Exceptional,2.31,High,2.23,Grey Zone,Moderate
+Artex Universal,2021.0,0.37,Insufficient,4.06,Suboptimal,5.79,Optimal,15.17,Exceptional,2.28,High,1.76,Bankruptcy Zone,Moderate
+Artex Universal,2020.0,0.62,Insufficient,5.02,Optimal,7.76,Optimal,17.01,Exceptional,1.37,Optimal,2.59,Grey Zone,Moderate
+Artex Universal,2019.0,0.99,Insufficient,11.55,Exceptional,25.94,Exceptional,46.64,Exceptional,0.85,Very Low,4.58,Safe Zone,Good
+Artex Universal,2018.0,0.86,Insufficient,19.42,Exceptional,38.8,Exceptional,96.07,Exceptional,1.51,Optimal,4.14,Safe Zone,Good
+Artex Universal,2017.0,0.69,Insufficient,18.25,Exceptional,47.55,Exceptional,1011.27,Exceptional,20.27,High,3.92,Safe Zone,Moderate
+Artex Universal,2016.0,0.02,Insufficient,-3.1,Loss-Making,-0.76,Unprofitable,0.63,Suboptimal,-1.83,Very Low,-4.37,Bankruptcy Zone,Bad
+Artex Universal,2015.0,0.0,Insufficient,0.86,Suboptimal,0.44,Suboptimal,-0.44,Suboptimal,-2.0,Very Low,-3.56,Bankruptcy Zone,Bad
+Artex Universal,2014.0,0.09,Insufficient,-17.46,Loss-Making,-5.67,Unprofitable,7.89,Suboptimal,-2.39,Very Low,-3.0,Bankruptcy Zone,Bad
+Artex Universal,2013.0,0.08,Insufficient,-60.97,Loss-Making,-20.47,Unprofitable,35.46,Exceptional,-2.73,Very Low,-3.1,Bankruptcy Zone,Bad
+German touristik group,2023.0,1.2,Optimal,0.54,Suboptimal,3.03,Suboptimal,-129.84,Suboptimal,-32.94,Very Low,5.8,Safe Zone,Moderate
+German touristik group,2022.0,0.9,Insufficient,0.4,Suboptimal,1.25,Suboptimal,-17.64,Suboptimal,-13.93,Very Low,2.91,Grey Zone,Bad
+German touristik group,2021.0,0.67,Insufficient,-6.62,Loss-Making,-16.82,Unprofitable,126.69,Exceptional,-9.37,Very Low,1.24,Bankruptcy Zone,Bad
+German touristik group,2020.0,0.62,Insufficient,-133.74,Loss-Making,-16.84,Unprofitable,-461.03,Suboptimal,26.49,High,-0.8,Bankruptcy Zone,Bad
+German touristik group,2019.0,4.43,N/A,,N/A,-2.4,N/A,-2.93,N/A,0.22,N/A,4.51,Safe Zone,Unknown
+Lor Bog Logistic SRL ,2023.0,0.48,Insufficient,-0.34,Loss-Making,-1.03,Unprofitable,-98.83,Suboptimal,101.89,High,2.35,Grey Zone,Bad
+Lor Bog Logistic SRL ,2022.0,0.28,Insufficient,0.92,Suboptimal,2.05,Suboptimal,-36.36,Suboptimal,-18.73,Very Low,1.26,Bankruptcy Zone,Bad
+BOG FAST LOGISTIC SRL ,2023.0,1.21,Optimal,6.9,Optimal,11.94,Exceptional,69.89,Exceptional,4.85,High,2.69,Grey Zone,Good
+BOG FAST LOGISTIC SRL ,2022.0,1.03,Optimal,4.75,Suboptimal,8.04,Exceptional,135.63,Exceptional,15.86,High,2.12,Grey Zone,Moderate
+BOG FAST LOGISTIC SRL ,2021.0,0.78,Insufficient,8.6,Optimal,9.43,Exceptional,-567.24,Suboptimal,-61.18,Very Low,1.11,Bankruptcy Zone,Moderate
+BOG FAST LOGISTIC SRL ,2020.0,0.35,Insufficient,-10.04,Loss-Making,-13.22,Unprofitable,96.62,Exceptional,-8.31,Very Low,-0.26,Bankruptcy Zone,Bad
+BOG FAST LOGISTIC SRL ,2019.0,0.33,Insufficient,11.16,Exceptional,13.63,Exceptional,-4163.27,Suboptimal,-306.46,Very Low,0.86,Bankruptcy Zone,Moderate
+BOG FAST LOGISTIC SRL ,2018.0,0.22,Insufficient,-33.91,Loss-Making,-13.63,Unprofitable,101.05,Exceptional,-8.41,Very Low,-1.37,Bankruptcy Zone,Bad
+MARVIO TRANS SRL,2023.0,0.77,Insufficient,0.38,Suboptimal,1.58,Suboptimal,7.88,Suboptimal,4.0,High,4.43,Safe Zone,Bad
+MARVIO TRANS SRL,2022.0,0.66,Insufficient,0.17,Suboptimal,0.63,Suboptimal,3.44,Suboptimal,4.44,High,3.71,Safe Zone,Bad
+MARVIO TRANS SRL,2021.0,0.74,Insufficient,0.15,Suboptimal,0.36,Suboptimal,1.94,Suboptimal,4.49,High,2.52,Grey Zone,Bad
+MARVIO TRANS SRL,2020.0,0.85,Insufficient,3.42,Suboptimal,10.66,Exceptional,36.34,Exceptional,2.45,High,4.0,Safe Zone,Moderate
+MARVIO TRANS SRL,2019.0,0.86,Insufficient,0.51,Suboptimal,1.81,Suboptimal,7.33,Suboptimal,3.17,High,4.04,Safe Zone,Bad
+MARVIO TRANS SRL,2018.0,0.72,Insufficient,-4.52,Loss-Making,-14.01,Unprofitable,-64.33,Suboptimal,3.76,High,2.83,Grey Zone,Bad
+MARVIO TRANS SRL,2017.0,0.76,Insufficient,-1.07,Loss-Making,-2.74,Unprofitable,-9.58,Suboptimal,2.59,High,2.89,Grey Zone,Bad
+MARVIO TRANS SRL,2016.0,0.77,Insufficient,0.61,Suboptimal,1.56,Suboptimal,4.7,Suboptimal,2.08,High,3.19,Safe Zone,Bad
+MARVIO TRANS SRL,2015.0,0.87,Insufficient,4.03,Suboptimal,11.19,Exceptional,30.06,Exceptional,1.71,Optimal,3.92,Safe Zone,Moderate
+MARVIO TRANS SRL,2014.0,0.7,Insufficient,-0.23,Loss-Making,-0.65,Unprofitable,-2.36,Suboptimal,2.7,High,3.11,Safe Zone,Bad
+MARVIO TRANS SRL,2013.0,0.72,Insufficient,3.03,Suboptimal,6.81,Optimal,24.93,Exceptional,2.67,High,2.84,Grey Zone,Moderate
+Bogar Safety Trans ,2023.0,0.96,Insufficient,-7.66,Loss-Making,-18.43,Unprofitable,433.66,Exceptional,-24.53,Very Low,1.66,Bankruptcy Zone,Bad
+Bogar Safety Trans ,2022.0,2.74,Excessive,45.71,Exceptional,66.55,Exceptional,98.22,Exceptional,0.53,Very Low,6.48,Safe Zone,Good
+MIH LOGISTIk2020 SRL,2023.0,1.23,Optimal,-10.4,Loss-Making,-4.9,Unprofitable,-13.14,Suboptimal,1.68,Optimal,1.36,Bankruptcy Zone,Bad
+MIH LOGISTIk2020 SRL,2022.0,1.85,Excessive,40.77,Exceptional,44.79,Exceptional,70.36,Exceptional,0.57,Very Low,4.89,Safe Zone,Good
+MIH LOGISTIk2020 SRL,2021.0,6.67,Excessive,34.71,Exceptional,75.89,Exceptional,89.27,Exceptional,0.18,Very Low,10.3,Safe Zone,Good
+MIH LOGISTIk2020 SRL,2020.0,1.43,Optimal,64.37,Exceptional,30.12,Exceptional,99.12,Exceptional,2.29,High,2.51,Grey Zone,Good
+SC LAZAR TRANSPED SRL,2023.0,4.43,Excessive,25.18,Exceptional,57.87,Exceptional,72.52,Exceptional,0.25,Very Low,8.52,Safe Zone,Good
+SC LAZAR TRANSPED SRL,2022.0,2.32,Excessive,16.64,Exceptional,45.82,Exceptional,77.61,Exceptional,0.69,Very Low,6.61,Safe Zone,Good
+SC LAZAR TRANSPED SRL,2021.0,2.16,Excessive,17.21,Exceptional,24.95,Exceptional,42.97,Exceptional,0.72,Very Low,4.5,Safe Zone,Good
+SC LAZAR TRANSPED SRL,2020.0,5.19,Excessive,22.56,Exceptional,29.5,Exceptional,33.85,Exceptional,0.15,Very Low,8.18,Safe Zone,Good
+SC LAZAR TRANSPED SRL,2019.0,4.18,Excessive,18.57,Exceptional,31.32,Exceptional,37.06,Exceptional,0.18,Very Low,7.77,Safe Zone,Good
+SC LAZAR TRANSPED SRL,2018.0,3.82,Excessive,12.7,Exceptional,28.8,Exceptional,38.06,Exceptional,0.32,Very Low,6.97,Safe Zone,Good
+SC LAZAR TRANSPED SRL,2017.0,3.55,Excessive,30.28,Exceptional,75.83,Exceptional,99.73,Exceptional,0.33,Very Low,8.67,Safe Zone,Good
+SC LORANIS SPEED SRL,2023.0,0.37,Insufficient,0.28,Suboptimal,0.49,Suboptimal,2.57,Suboptimal,4.29,High,-2.44,Bankruptcy Zone,Bad
+SC LORANIS SPEED SRL,2022.0,0.73,Insufficient,1.09,Suboptimal,3.87,Optimal,9.54,Optimal,1.47,Optimal,1.22,Grey Zone,Moderate
+SC LORANIS SPEED SRL,2021.0,0.73,Insufficient,1.26,Suboptimal,1.77,Suboptimal,5.41,Suboptimal,2.06,High,0.51,Bankruptcy Zone,Bad
+SC LORANIS SPEED SRL,2020.0,1.0,Insufficient,6.37,Optimal,10.89,Exceptional,25.1,Exceptional,1.31,Optimal,2.95,Safe Zone,Good
+SC LORANIS SPEED SRL,2019.0,0.72,Insufficient,7.89,Optimal,20.46,Exceptional,49.36,Exceptional,1.41,Optimal,2.39,Grey Zone,Good
+SC LORANIS SPEED SRL,2018.0,0.43,Insufficient,10.48,Exceptional,25.96,Exceptional,68.55,Exceptional,1.64,Optimal,1.29,Grey Zone,Good
+SC LORANIS SPEED SRL,2017.0,0.37,Insufficient,13.25,Exceptional,39.36,Exceptional,98.63,Exceptional,1.54,Optimal,2.08,Grey Zone,Good
+RO35904686,2023.0,1.87,Excessive,40.23,Exceptional,19.46,Exceptional,31.37,Exceptional,0.67,Very Low,3.32,Safe Zone,Good
+RO35904686,2022.0,11.72,Excessive,82.48,Exceptional,69.13,Exceptional,75.58,Exceptional,0.09,Very Low,11.93,Safe Zone,Good
+RO35904686,2021.0,3.79,Excessive,18.0,Exceptional,21.26,Exceptional,28.83,Exceptional,0.36,Very Low,5.48,Safe Zone,Good
+GHERGHELUCA TRANS SRL,2023.0,0.64,Insufficient,-0.47,Loss-Making,-1.0,Unprofitable,-1.6,Suboptimal,0.6,Optimal,3.79,Safe Zone,Bad
+GHERGHELUCA TRANS SRL,2022.0,0.73,Insufficient,29.67,Exceptional,64.99,Exceptional,99.93,Exceptional,0.54,Optimal,6.25,Safe Zone,Good
+GHERGHELUCA TRANS SRL,2021.0,2.09,Optimal,25.89,Exceptional,67.45,Exceptional,89.24,Exceptional,0.32,Very Low,8.07,Safe Zone,Good
+GHERGHELUCA TRANS SRL,2020.0,0.31,Insufficient,56.53,Exceptional,71.45,Exceptional,815.16,Exceptional,10.41,High,3.05,Safe Zone,Moderate
+GHERGHELUCA TRANS SRL,2019.0,0.01,Insufficient,-257.85,Loss-Making,-27.33,Unprofitable,31.81,Exceptional,-2.16,Very Low,-4.48,Bankruptcy Zone,Bad
+GHERGHELUCA TRANS SRL,2018.0,0.0,Insufficient,12.3,Exceptional,7.47,Optimal,-11.22,Suboptimal,-2.5,Very Low,-2.32,Bankruptcy Zone,Moderate
+GHERGHELUCA TRANS SRL,2017.0,0.0,Insufficient,-160.64,Loss-Making,-36.38,Unprofitable,39.15,Exceptional,-2.08,Very Low,-4.88,Bankruptcy Zone,Bad
+GHERGHELUCA TRANS SRL,2016.0,0.0,Insufficient,-110.38,Loss-Making,-36.83,Unprofitable,44.21,Exceptional,-2.2,Very Low,-4.52,Bankruptcy Zone,Bad
+GHERGHELUCA TRANS SRL,2015.0,0.0,Insufficient,-162.56,Loss-Making,-24.0,Unprofitable,69.94,Exceptional,-3.91,Very Low,-2.88,Bankruptcy Zone,Bad
+GHERGHELUCA TRANS SRL,2014.0,0.03,Insufficient,-595.27,Loss-Making,-58.25,Unprofitable,100.56,Exceptional,-2.73,Very Low,-4.71,Bankruptcy Zone,Bad
+SC PUKIS TRANS S.R.L ,2023.0,0.19,Insufficient,-3.44,Loss-Making,-20.88,Unprofitable,8.78,Optimal,-1.42,Very Low,-27.76,Bankruptcy Zone,Bad
+SC PUKIS TRANS S.R.L ,2022.0,0.11,Insufficient,-13.88,Loss-Making,-73.69,Unprofitable,36.04,Exceptional,-1.49,Very Low,-30.02,Bankruptcy Zone,Bad
+SC PUKIS TRANS S.R.L ,2021.0,0.32,Insufficient,-9.29,Loss-Making,-35.38,Unprofitable,63.59,Exceptional,-2.81,Very Low,-11.56,Bankruptcy Zone,Bad
+SC PUKIS TRANS S.R.L ,2020.0,0.27,Insufficient,-1.01,Loss-Making,-3.63,Unprofitable,20.05,Exceptional,-6.6,Very Low,-6.73,Bankruptcy Zone,Bad
+SC PUKIS TRANS S.R.L ,2019.0,0.3,Insufficient,-7.61,Loss-Making,-55.49,Unprofitable,187.41,Exceptional,-4.41,Very Low,-10.91,Bankruptcy Zone,Bad
+SC PUKIS TRANS S.R.L ,2018.0,0.9,Insufficient,-4.91,Loss-Making,-32.64,Unprofitable,-117.75,Suboptimal,2.61,High,-1.38,Bankruptcy Zone,Bad
+SC PUKIS TRANS S.R.L ,2017.0,1.34,Optimal,0.31,Suboptimal,1.53,Suboptimal,3.24,Suboptimal,1.12,Optimal,3.74,Safe Zone,Moderate
+SC PUKIS TRANS S.R.L ,2016.0,2.79,Excessive,-1.11,Loss-Making,-7.83,Unprofitable,-12.2,Suboptimal,0.56,Very Low,7.66,Safe Zone,Bad
+SC PUKIS TRANS S.R.L ,2015.0,2.1,Excessive,5.23,Optimal,27.31,Exceptional,50.63,Exceptional,0.85,Very Low,8.13,Safe Zone,Good
+SC PUKIS TRANS S.R.L ,2014.0,1.56,Excessive,6.18,Optimal,31.61,Exceptional,60.42,Exceptional,0.91,Very Low,6.74,Safe Zone,Good
+SC PUKIS TRANS S.R.L ,2013.0,0.91,Insufficient,11.22,Exceptional,84.77,Exceptional,-6153.18,Suboptimal,-74.68,Very Low,5.0,Safe Zone,Moderate
+Salexim srl,2023.0,1.35,Optimal,6.38,Optimal,26.05,Exceptional,98.55,Exceptional,2.78,High,5.83,Safe Zone,Good
+Salexim srl,2022.0,1.63,Excessive,15.33,Exceptional,44.81,Exceptional,99.44,Exceptional,1.22,Optimal,5.94,Safe Zone,Good
+Salexim srl,2021.0,1.64,Excessive,17.54,Exceptional,48.05,Exceptional,99.57,Exceptional,1.07,Optimal,5.96,Safe Zone,Good
+Salexim srl,2020.0,1.29,Optimal,15.2,Exceptional,37.58,Exceptional,81.08,Exceptional,1.16,Optimal,5.06,Safe Zone,Good
+Salexim srl,2019.0,0.57,Insufficient,0.15,Suboptimal,0.33,Suboptimal,2.1,Suboptimal,5.37,High,2.12,Grey Zone,Bad
+Salexim srl,2018.0,0.99,Insufficient,-4.61,Loss-Making,-12.93,Unprofitable,-98.96,Suboptimal,6.65,High,2.64,Grey Zone,Bad
+Salexim srl,2017.0,0.87,Insufficient,8.33,Optimal,17.18,Exceptional,99.05,Exceptional,4.77,High,2.86,Grey Zone,Moderate
+Salexim srl,2016.0,1.46,Optimal,13.3,Exceptional,18.5,Exceptional,37.45,Exceptional,1.02,Optimal,3.56,Safe Zone,Good
+Salexim srl,2015.0,0.96,Insufficient,15.2,Exceptional,25.67,Exceptional,88.18,Exceptional,2.44,High,3.15,Safe Zone,Moderate
+Salexim srl,2014.0,1.0,Optimal,17.35,Exceptional,32.2,Exceptional,710.39,Exceptional,21.06,High,3.02,Safe Zone,Good
+Salexim srl,2013.0,0.65,Insufficient,-16.75,Loss-Making,-26.87,Unprofitable,80.31,Exceptional,-3.99,Very Low,-0.46,Bankruptcy Zone,Bad
